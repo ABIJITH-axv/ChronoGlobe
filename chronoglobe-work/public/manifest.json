@@ -1,0 +1,17 @@
+{
+  "name": "ChronoGlobe \u2014 History, place by place",
+  "short_name": "ChronoGlobe",
+  "description": "Explore historical events on an interactive globe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A26",
+  "theme_color": "#0B1A26",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
