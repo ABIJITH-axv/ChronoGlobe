@@ -64,7 +64,11 @@ def main() -> int:
     queries = [("top", TOP), *TOPICS.items()]
     for topic, query in queries:
         for item in fetch(query, topic):
-            if item["url"] not in all_items:\n                item["topics"] = [topic]\n                all_items[item["url"]] = item\n            elif topic not in all_items[item["url"]]["topics"]:\n                all_items[item["url"]]["topics"].append(topic)
+            if item["url"] not in all_items:
+                item["topics"] = [topic]
+                all_items[item["url"]] = item
+            elif topic not in all_items[item["url"]]["topics"]:
+                all_items[item["url"]]["topics"].append(topic)
         time.sleep(1.2)  # be polite to the public endpoint
     articles = sorted(all_items.values(), key=lambda a: a.get("seendate", ""), reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
