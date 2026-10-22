@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "provider": "GDELT DOC API",
+  "window": "rolling 7 days",
+  "notice": "Feed not generated yet. Run the Refresh ChronoGlobe news archive workflow.",
+  "article_count": 0,
+  "articles": []
+}
