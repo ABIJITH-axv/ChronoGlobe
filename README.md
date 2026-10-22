@@ -34,6 +34,10 @@ In repository Settings → Pages, select the `main` branch and `/(root)` as the 
 - News headlines are leads for study, not definitive fact-checks. Open original reporting and compare independent sources; for law, check official court judgments and legislation; for markets, use exchange/regulator/company filings and a licensed market-data source when needed.
 - The historical archive still contains only a small starter selection. It must be expanded with researched, dated entries and reliable references before it can credibly claim broad coverage of major events across history.
 
+## Backend database foundation
+
+A starter Supabase SQL migration is included at `supabase/migrations/202610220001_create_event_archive.sql`. It defines the event archive, source/update history, ingestion-run tracking, indexes, timestamps, and read-only public policies. It has not been applied to a live Supabase project yet. Connect Supabase and apply/review the migration before treating the database as live.
+
 ## Recommended next steps before a commercial launch
 1. Create a structured historical-events database with event date, location, category, summary, consequences, source URLs, and a confidence/status label.
 2. Add a backend ingestion service and scheduled jobs to fetch, deduplicate, classify, and retain current events independently of visitors' browsers.
