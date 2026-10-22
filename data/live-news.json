@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": null,
+  "generated_at": "2026-10-22T21:37:05.139622+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
-  "notice": "Feed not generated yet. Run the Refresh ChronoGlobe news archive workflow.",
-  "article_count": 0,
-  "articles": []
+  "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://ameblo.jp/mosyupau/entry-12976519052.html",
+      "title": "株 | めざせプチ金持ち 投資日記",
+      "url": "https://ameblo.jp/mosyupau/entry-12976519052.html",
+      "domain": "ameblo.jp",
+      "seendate": "20261022T211500Z",
+      "language": "Japanese",
+      "sourcecountry": "Japan",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848051+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.prnewswire.com/news-releases/asur-announces-3q26-results-302917260.html",
+      "title": "ASUR ANNOUNCES 3Q26 RESULTS",
+      "url": "http://www.prnewswire.com/news-releases/asur-announces-3q26-results-302917260.html",
+      "domain": "prnewswire.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848071+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://c-level.folha.uol.com.br/negocios/2026/10/nasdaq-cai-enquanto-titulos-do-tesouro-disparam-com-temor-sobre-gastos-da-meta-em-ia.shtml",
+      "title": "Nasdaq cai 2 , 9 % com receio de bolha de IA - 22 / 10 / 2026 - Negócios",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/nasdaq-cai-enquanto-titulos-do-tesouro-disparam-com-temor-sobre-gastos-da-meta-em-ia.shtml",
+      "domain": "c-level.folha.uol.com.br",
+      "seendate": "20261022T211500Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848075+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.epochtimes.com/b5/26/10/22/n14874857.htm",
+      "title": "德總理 ： 歐盟擬設新工具 應對北京不公貿易",
+      "url": "https://www.epochtimes.com/b5/26/10/22/n14874857.htm",
+      "domain": "epochtimes.com",
+      "seendate": "20261022T211500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848077+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.eenadu.net/telugu-news/business/general/0104/126191628",
+      "title": "గృహరుణం ఇప్పుడేం చేయాలి ?",
+      "url": "https://www.eenadu.net/telugu-news/business/general/0104/126191628",
+      "domain": "eenadu.net",
+      "seendate": "20261022T211500Z",
+      "language": "Telugu",
+      "sourcecountry": "India",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848081+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.newzealandstar.com/news/279392798/imf-forecasts-uae-economic-growth-of-77-in-2027",
+      "title": "IMF forecasts UAE economic growth of 7 . 7 % in 2027",
+      "url": "http://www.newzealandstar.com/news/279392798/imf-forecasts-uae-economic-growth-of-77-in-2027",
+      "domain": "newzealandstar.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "New Zealand",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848083+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.aei.org/economics/the-federal-reserve-at-a-time-of-uncertainty/",
+      "title": "The Federal Reserve at a Time of Uncertainty",
+      "url": "https://www.aei.org/economics/the-federal-reserve-at-a-time-of-uncertainty/",
+      "domain": "aei.org",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848085+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://aninews.in/news/national/general-news/karnataka-biofuel-board-explores-tech-tie-up-with-china-for-green-energy-push20261022231919/",
+      "title": "Karnataka Biofuel Board explores tech tie - up with China for green energy push",
+      "url": "https://aninews.in/news/national/general-news/karnataka-biofuel-board-explores-tech-tie-up-with-china-for-green-energy-push20261022231919/",
+      "domain": "aninews.in",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848087+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://wgospodarce.pl/informacje/158782-pol-biliona-gotowki-w-obiegu-i-bedzie-wiecej",
+      "title": "Pół biliona gotówki w obiegu ! I będzie więcej",
+      "url": "https://wgospodarce.pl/informacje/158782-pol-biliona-gotowki-w-obiegu-i-bedzie-wiecej",
+      "domain": "wgospodarce.pl",
+      "seendate": "20261022T211500Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848089+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://georgiatoday.ge/welcome-tbilisi-international-forum-2026-a-timeless-city-a-modern-vision/",
+      "title": "Welcome Tbilisi International Forum 2026 : A Timeless City , a Modern Vision",
+      "url": "https://georgiatoday.ge/welcome-tbilisi-international-forum-2026-a-timeless-city-a-modern-vision/",
+      "domain": "georgiatoday.ge",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Georgia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848092+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.boerse-express.com/news/articles/renk-group-aktie-behoerden-muessen-den-miba-deal-noch-absegnen-955506",
+      "title": "Renk Group Aktie : Behörden müssen den Miba - Deal noch absegnen",
+      "url": "https://www.boerse-express.com/news/articles/renk-group-aktie-behoerden-muessen-den-miba-deal-noch-absegnen-955506",
+      "domain": "boerse-express.com",
+      "seendate": "20261022T211500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848094+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.business-standard.com/content/press-releases-ani/from-lala-to-legacy-dr-ujjwal-baranwal-launches-lala-se-legacy-academy-to-help-msmes-build-system-driven-businesses-126102300014_1.html",
+      "title": "From  Lala  to Legacy : Dr . Ujjwal Baranwal Launches Lala se Legacy Academy to Help MSMEs Build System - Driven Businesses",
+      "url": "https://www.business-standard.com/content/press-releases-ani/from-lala-to-legacy-dr-ujjwal-baranwal-launches-lala-se-legacy-academy-to-help-msmes-build-system-driven-businesses-126102300014_1.html",
+      "domain": "business-standard.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848096+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.vecernji.hr/vijesti/veliki-vucicev-predizborni-skup-najavio-vece-mirovine-i-place-a-zatim-je-uslijedio-viseminutni-vatromet-2006842",
+      "title": "Veliki Vučićev predizborni skup : Najavio veće mirovine i plaće , a zatim je uslijedio višeminutni vatromet",
+      "url": "https://www.vecernji.hr/vijesti/veliki-vucicev-predizborni-skup-najavio-vece-mirovine-i-place-a-zatim-je-uslijedio-viseminutni-vatromet-2006842",
+      "domain": "vecernji.hr",
+      "seendate": "20261022T211500Z",
+      "language": "Croatian",
+      "sourcecountry": "Croatia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848097+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.italpress.com/manovra-confronto-tra-le-forze-di-maggioranza-a-palazzo-chigi-obiettivo-il-varo-in-cdm-la-prossima-settimana/",
+      "title": "Manovra , confronto tra le forze di maggioranza a Palazzo Chigi : obiettivo il varo in CdM la prossima settimana",
+      "url": "https://www.italpress.com/manovra-confronto-tra-le-forze-di-maggioranza-a-palazzo-chigi-obiettivo-il-varo-in-cdm-la-prossima-settimana/",
+      "domain": "italpress.com",
+      "seendate": "20261022T211500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848099+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.calibre800.com/2026/10/22/esperan-derrama-de-mas-de-280-mdp-en-el-buen-fin/",
+      "title": "ESPERAN DERRAMA DE MAS DE 280 MDP EN EL  BUEN FIN  – CALIBRE800 . COM",
+      "url": "https://www.calibre800.com/2026/10/22/esperan-derrama-de-mas-de-280-mdp-en-el-buen-fin/",
+      "domain": "calibre800.com",
+      "seendate": "20261022T211500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848101+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.hawaiitelegraph.com/news/279393186/join-venu-live-investor-webinar-redefining-live-entertainment-through-premium-venues-and-a-capital-efficient-growth-strategy",
+      "title": "Join VENU Live Investor Webinar : Redefining Live Entertainment Through Premium Venues and a Capital - Efficient Growth Strategy",
+      "url": "http://www.hawaiitelegraph.com/news/279393186/join-venu-live-investor-webinar-redefining-live-entertainment-through-premium-venues-and-a-capital-efficient-growth-strategy",
+      "domain": "hawaiitelegraph.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848103+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.newzealandstar.com/news/279393194/gujarat-govt-invites-rajasthan-industry-to-invest-collaborate-at-vggs-2027",
+      "title": "Gujarat govt invites Rajasthan industry to invest , collaborate at VGGS 2027",
+      "url": "http://www.newzealandstar.com/news/279393194/gujarat-govt-invites-rajasthan-industry-to-invest-collaborate-at-vggs-2027",
+      "domain": "newzealandstar.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "New Zealand",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848104+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-22-boyd-gaming-nysebyd-misses-q3-2026-revenue-estimates",
+      "title": "FinancialContent - Boyd Gaming ( NYSE : BYD ) misses Q3 2026 revenue estimates",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-22-boyd-gaming-nysebyd-misses-q3-2026-revenue-estimates",
+      "domain": "markets.financialcontent.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848106+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.ilsole24ore.com/art/fermi-protesta-anche-pescherecci-governo-10-milioni-AJpBinrB",
+      "title": "Fermi in protesta anche i pescherecci , dal governo 10 milioni",
+      "url": "https://www.ilsole24ore.com/art/fermi-protesta-anche-pescherecci-governo-10-milioni-AJpBinrB",
+      "domain": "ilsole24ore.com",
+      "seendate": "20261022T211500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848108+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.ledauphine.com/economie/2026/10/22/les-forges-de-tarbes-dernier-fabricant-francais-de-corps-d-obus-au-pied-du-mur",
+      "title": "Économie . Les Forges de Tarbes , dernier fabricant français de corps dobus au pied du mur",
+      "url": "https://www.ledauphine.com/economie/2026/10/22/les-forges-de-tarbes-dernier-fabricant-francais-de-corps-d-obus-au-pied-du-mur",
+      "domain": "ledauphine.com",
+      "seendate": "20261022T211500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848110+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.timesherald.com/2026/10/22/data-center-pushback/",
+      "title": "Facing pushback on data centers , tech giants are promising hosts more money and fewer secrets",
+      "url": "https://www.timesherald.com/2026/10/22/data-center-pushback/",
+      "domain": "timesherald.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848111+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.aol.com/articles/meta-earnings-per-share-were-193821000.html",
+      "title": "Meta Earnings Per Share Were $3 . 83 but the Real Figure Tells a Surprising Story",
+      "url": "https://www.aol.com/articles/meta-earnings-per-share-were-193821000.html",
+      "domain": "aol.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848113+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.ksat.com/business/2026/10/22/average-long-term-us-mortgage-rate-eases-to-732-in-first-pullback-since-late-august/",
+      "title": "Average long - term US mortgage rate eases to 7 . 32 % in first pullback since late August",
+      "url": "https://www.ksat.com/business/2026/10/22/average-long-term-us-mortgage-rate-eases-to-732-in-first-pullback-since-late-august/",
+      "domain": "ksat.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848116+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.rttnews.com/3702048/newmont-corporation-q3-profit-rises.aspx",
+      "title": "Newmont Corporation Q3 Profit Rises",
+      "url": "https://www.rttnews.com/3702048/newmont-corporation-q3-profit-rises.aspx",
+      "domain": "rttnews.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848118+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.epochtimes.com/b5/26/10/22/n14874882.htm",
+      "title": "弗州資深州議員被控領導大麻犯罪集團",
+      "url": "https://www.epochtimes.com/b5/26/10/22/n14874882.htm",
+      "domain": "epochtimes.com",
+      "seendate": "20261022T211500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848120+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-du-debrief-de-la-tech-du-jeudi-22-octobre_EN-202610220938.html",
+      "title": "Lintégrale du Débrief de la tech du jeudi 22 octobre",
+      "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/l-integrale-du-debrief-de-la-tech-du-jeudi-22-octobre_EN-202610220938.html",
+      "domain": "bfmtv.com",
+      "seendate": "20261022T211500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848122+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://tsn.ua/svit/u-moskvi-areshtuvaly-odnoho-z-providnykh-komunistiv-rosiyi-u-chomu-yoho-zvynuvatyly-3197419.html",
+      "title": "Затримання Олега Михайлова у Москві ексдепутата від КПРФ арештували за виправдання тероризму Світ",
+      "url": "https://tsn.ua/svit/u-moskvi-areshtuvaly-odnoho-z-providnykh-komunistiv-rosiyi-u-chomu-yoho-zvynuvatyly-3197419.html",
+      "domain": "tsn.ua",
+      "seendate": "20261022T211500Z",
+      "language": "Ukrainian",
+      "sourcecountry": "Ukraine",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848124+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/first-western-reports-third-quarter-2026-financial-results/2452341",
+      "title": "First Western Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/first-western-reports-third-quarter-2026-financial-results/2452341",
+      "domain": "manilatimes.net",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Philippines",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848128+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.rttnews.com/3702017/nasdaq-pulls-back-sharply-as-ai-concerns-resurface.aspx",
+      "title": "Nasdaq Pulls Back Sharply As AI Concerns Resurface",
+      "url": "https://www.rttnews.com/3702017/nasdaq-pulls-back-sharply-as-ai-concerns-resurface.aspx",
+      "domain": "rttnews.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848129+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.penzcentrum.hu/karrier/20261022/furcsa-ellentmondas-a-magyar-munkaeropiacon-egyszerre-no-a-foglalkoztatottsag-es-a-munkanelkuliseg-1207745",
+      "title": "Furcsa ellentmondás a magyar munkaerőpiacon : egyszerre nő a foglalkoztatottság és a munkanélküliség",
+      "url": "https://www.penzcentrum.hu/karrier/20261022/furcsa-ellentmondas-a-magyar-munkaeropiacon-egyszerre-no-a-foglalkoztatottsag-es-a-munkanelkuliseg-1207745",
+      "domain": "penzcentrum.hu",
+      "seendate": "20261022T211500Z",
+      "language": "Hungarian",
+      "sourcecountry": "Hungary",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848132+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/10/22/uscb-financial-nasdaquscb-releases-quarterly-earnings-results-misses-expectations-by-0-05-eps.html",
+      "title": "USCB Financial ( NASDAQ : USCB ) Releases Quarterly Earnings Results , Misses Expectations By $0 . 05 EPS",
+      "url": "https://www.dailypolitical.com/2026/10/22/uscb-financial-nasdaquscb-releases-quarterly-earnings-results-misses-expectations-by-0-05-eps.html",
+      "domain": "dailypolitical.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848135+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.onvista.de/news/2026/10-22-devisen-eurokurs-gibt-zum-us-dollar-leicht-nach-sorgen-um-frankreich-belasten-0-10-26567457",
+      "title": "Devisen : Eurokurs gibt zum US - Dollar leicht nach - Sorgen um Frankreich belasten",
+      "url": "https://www.onvista.de/news/2026/10-22-devisen-eurokurs-gibt-zum-us-dollar-leicht-nach-sorgen-um-frankreich-belasten-0-10-26567457",
+      "domain": "onvista.de",
+      "seendate": "20261022T211500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848136+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://econotimes.com/US-pulls-diplomats-from-Saudi-Arabia-after-deadly-attacks-1760369",
+      "title": "US pulls diplomats from Saudi Arabia after deadly attacks",
+      "url": "https://econotimes.com/US-pulls-diplomats-from-Saudi-Arabia-after-deadly-attacks-1760369",
+      "domain": "econotimes.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848138+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.brantfordexpositor.ca/press-releases/business-wire/newmont-reports-third-quarter-2026-results-with-record-third-quarter-adjusted-net-income-positioned-to-achieve-full-year-guidance-provides-update-on-red-chris-block-cave-project/",
+      "title": "Newmont Reports Third Quarter 2026 Results with Record Third Quarter Adjusted Net Income ; Positioned to Achieve Full - Year Guidance ; Provides Update on Red Chris Block Cave Project",
+      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/newmont-reports-third-quarter-2026-results-with-record-third-quarter-adjusted-net-income-positioned-to-achieve-full-year-guidance-provides-update-on-red-chris-block-cave-project/",
+      "domain": "brantfordexpositor.ca",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848140+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.aol.com/articles/pi-network-price-prediction-pi-203002000.html",
+      "title": "Pi Network Price Prediction : Can PI Rally Into Its November Summit ?",
+      "url": "https://www.aol.com/articles/pi-network-price-prediction-pi-203002000.html",
+      "domain": "aol.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848142+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.contabeis.com.br/noticias/80277/trabalho-temporario-ou-experiencia-qual-contrato-usar-no-fim-do-ano/",
+      "title": "Trabalho temporário ou experiência : qual contrato usar no fim do ano ?",
+      "url": "https://www.contabeis.com.br/noticias/80277/trabalho-temporario-ou-experiencia-qual-contrato-usar-no-fim-do-ano/",
+      "domain": "contabeis.com.br",
+      "seendate": "20261022T211500Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848143+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/siriuspoint-announces-date-for-third-quarter-2026-earnings-release/2452320",
+      "title": "SiriusPoint Announces Date for Third Quarter 2026 Earnings Release",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/siriuspoint-announces-date-for-third-quarter-2026-earnings-release/2452320",
+      "domain": "manilatimes.net",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Philippines",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848145+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://hotair.com/ed-morrissey/2026/10/22/wsj-irgc-officially-hits-zero-n3820208",
+      "title": "Crisis Point : IRGC Officially Hits Zero As Hormuz Shipments Peak",
+      "url": "https://hotair.com/ed-morrissey/2026/10/22/wsj-irgc-officially-hits-zero-n3820208",
+      "domain": "hotair.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848147+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.nola.com/news/louisiana-workforce-megaprojects-spacex/article_4ff0cbaf-b222-5f83-a5c8-cb75e585cda2.html",
+      "title": "SpaceX and megaprojects to drive Louisiana workforce growth | News",
+      "url": "https://www.nola.com/news/louisiana-workforce-megaprojects-spacex/article_4ff0cbaf-b222-5f83-a5c8-cb75e585cda2.html",
+      "domain": "nola.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848148+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.lykavitos.gr/news/economy/pos-leitourgei-to-neo-mydiesel-gia-tin-epistrofi-efk-kai-fpa-sto-agrotiko-petrelaio",
+      "title": "Πώς λειτουργεί το νέο myDiesel για την επιστροφή ΕΦΚ και ΦΠΑ στο αγροτικό πετρέλαιο",
+      "url": "https://www.lykavitos.gr/news/economy/pos-leitourgei-to-neo-mydiesel-gia-tin-epistrofi-efk-kai-fpa-sto-agrotiko-petrelaio",
+      "domain": "lykavitos.gr",
+      "seendate": "20261022T211500Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848150+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.thedigitalcourier.com/news/national/tiffany-hopes-to-cut-construction-timelines-crowley-open-to-tolls-user-fees/article_de6021b0-313c-546b-a336-dad570335c27.html",
+      "title": "Tiffany hopes to cut construction timelines , Crowley open to tolls , user fees",
+      "url": "https://www.thedigitalcourier.com/news/national/tiffany-hopes-to-cut-construction-timelines-crowley-open-to-tolls-user-fees/article_de6021b0-313c-546b-a336-dad570335c27.html",
+      "domain": "thedigitalcourier.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848152+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://koacolorado.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/",
+      "title": "US , Israel Reportedly Plan To Resume Iran Strikes | KOA 850 AM & 94 . 1 FM",
+      "url": "https://koacolorado.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/",
+      "domain": "koacolorado.iheart.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848154+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/first-bank-announces-third-quarter-2026-net-income-of-122million/2452348",
+      "title": "First Bank Announces Third Quarter 2026 Net Income of $12 . 2 Million",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/first-bank-announces-third-quarter-2026-net-income-of-122million/2452348",
+      "domain": "manilatimes.net",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Philippines",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848155+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.aol.com/articles/oakworth-capital-inc-reports-19-203000000.html",
+      "title": "Oakworth Capital Inc . Reports 19 % Growth in Net Income",
+      "url": "https://www.aol.com/articles/oakworth-capital-inc-reports-19-203000000.html",
+      "domain": "aol.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848157+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.eluniversal.com.mx/cartera/tasa-de-desempleo-en-mexico-llega-a-28-en-septiembre-reporta-inegi-trabajadores-informales-totalizaron-326-millones/",
+      "title": "La tasa de desempleo en México se sitúa en el 2 , 8 % en septiembre",
+      "url": "https://www.eluniversal.com.mx/cartera/tasa-de-desempleo-en-mexico-llega-a-28-en-septiembre-reporta-inegi-trabajadores-informales-totalizaron-326-millones/",
+      "domain": "eluniversal.com.mx",
+      "seendate": "20261022T211500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848158+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://periodicocorreo.com.mx/nacional/2026/oct/22/inflacion-en-mexico-sube-a-362-en-octubre-estos-son-los-productos-que-mas-se-encarecieron-169767.html",
+      "title": "Inflación en México sube a 3 . 62 % en octubre : estos son los productos que más se encarecieron",
+      "url": "https://periodicocorreo.com.mx/nacional/2026/oct/22/inflacion-en-mexico-sube-a-362-en-octubre-estos-son-los-productos-que-mas-se-encarecieron-169767.html",
+      "domain": "periodicocorreo.com.mx",
+      "seendate": "20261022T211500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848160+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://elbuho.pe/2026/10/gobierno-anuncia-s-2500-millones-en-bonos-para-familias-vulnerables-y-facilidades-tributarias-para-empresas/",
+      "title": "Gobierno anuncia S / 2 , 500 millones en bonos para familias vulnerables y facilidades tributarias para empresas",
+      "url": "https://elbuho.pe/2026/10/gobierno-anuncia-s-2500-millones-en-bonos-para-familias-vulnerables-y-facilidades-tributarias-para-empresas/",
+      "domain": "elbuho.pe",
+      "seendate": "20261022T211500Z",
+      "language": "Spanish",
+      "sourcecountry": "Peru",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848162+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.trend.at/news/us-erstantrage-auf-arbeitslosenhilfe-unter",
+      "title": "US - Erstanträge auf Arbeitslosenhilfe unter 200 . 000",
+      "url": "https://www.trend.at/news/us-erstantrage-auf-arbeitslosenhilfe-unter",
+      "domain": "trend.at",
+      "seendate": "20261022T211500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848163+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.lanueva.com/nota/2026-10-22-16-21-0-aprueban-las-garantias-internacionales-para-una-obra-energetica-clave-para-bahia-blanca-y-la-zona",
+      "title": "Aprueban las garantías internacionales para una obra energética clave para Bahía Blanca y la zona",
+      "url": "http://www.lanueva.com/nota/2026-10-22-16-21-0-aprueban-las-garantias-internacionales-para-una-obra-energetica-clave-para-bahia-blanca-y-la-zona",
+      "domain": "lanueva.com",
+      "seendate": "20261022T211500Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848166+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/10/22/las-vegas-sands-nyselvs-stock-price-target-cut-by-jefferies-financial-group.html",
+      "title": "Las Vegas Sands ( NYSE : LVS ) Stock Price Target Cut by Jefferies Financial Group",
+      "url": "https://www.dailypolitical.com/2026/10/22/las-vegas-sands-nyselvs-stock-price-target-cut-by-jefferies-financial-group.html",
+      "domain": "dailypolitical.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848168+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://econotimes.com/Lane-Says-Wider-Euro-Use-Could-Extend-ECB-Policy-s-Reach-1760590",
+      "title": "Lane Says Wider Euro Use Could Extend ECB Policy Reach",
+      "url": "https://econotimes.com/Lane-Says-Wider-Euro-Use-Could-Extend-ECB-Policy-s-Reach-1760590",
+      "domain": "econotimes.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848170+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://baijiahao.baidu.com/s?id=1879735163518056493",
+      "title": "老区不老 ， 风华正茂",
+      "url": "https://baijiahao.baidu.com/s?id=1879735163518056493",
+      "domain": "baijiahao.baidu.com",
+      "seendate": "20261022T211500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848171+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/gbank-financial-holdings-names-jeff-newgard-president-and-chief-executive-officer/2452327",
+      "title": "GBank Financial Holdings Names Jeff Newgard President and Chief Executive Officer",
+      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/gbank-financial-holdings-names-jeff-newgard-president-and-chief-executive-officer/2452327",
+      "domain": "manilatimes.net",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Philippines",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848173+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.italpress.com/vertice-di-maggioranza-sulla-manovra-tra-priorita-ceto-medio-giovani-ed-energia/",
+      "title": "Vertice di maggioranza sulla manovra , tra priorità ceto medio , giovani ed energia Agenzia di stampa Italpress",
+      "url": "https://www.italpress.com/vertice-di-maggioranza-sulla-manovra-tra-priorita-ceto-medio-giovani-ed-energia/",
+      "domain": "italpress.com",
+      "seendate": "20261022T211500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848175+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.ncr-iran.org/en/news/irans-phone-scandal-leaves-consumers-paying-for-a-system-the-state-failed-to-police/",
+      "title": "Iran Phone Scandal Leaves Consumers Paying for a System the State Failed to Police",
+      "url": "https://www.ncr-iran.org/en/news/irans-phone-scandal-leaves-consumers-paying-for-a-system-the-state-failed-to-police/",
+      "domain": "ncr-iran.org",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Iran",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848176+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.kitv.com/news/business/taco-bell-sticks-with-pepsi-as-sister-chain-switches-to-coke/article_4cb76258-abc5-5dcc-97ee-122f90e0c786.html",
+      "title": "Taco Bell sticks with Pepsi as sister chain switches to Coke",
+      "url": "https://www.kitv.com/news/business/taco-bell-sticks-with-pepsi-as-sister-chain-switches-to-coke/article_4cb76258-abc5-5dcc-97ee-122f90e0c786.html",
+      "domain": "kitv.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848178+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.glas-javnosti.rs/vesti/politika/srpski-ekonomisti-podrzali-studente-pobeda-studentske-liste-je-nova-ekonomska-prilika--a-ne-razlog-za-strah",
+      "title": "Srpski ekonomisti podržali studente : Pobeda Studentske liste je nova ekonomska prilika , a ne razlog za strah",
+      "url": "http://www.glas-javnosti.rs/vesti/politika/srpski-ekonomisti-podrzali-studente-pobeda-studentske-liste-je-nova-ekonomska-prilika--a-ne-razlog-za-strah",
+      "domain": "glas-javnosti.rs",
+      "seendate": "20261022T211500Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848180+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.prnewswire.com/news-releases/community-heritage-financial-inc-announces-adoption-of-stock-repurchase-program-302917441.html",
+      "title": "Community Heritage Financial , Inc . Announces Adoption of Stock Repurchase Program",
+      "url": "http://www.prnewswire.com/news-releases/community-heritage-financial-inc-announces-adoption-of-stock-repurchase-program-302917441.html",
+      "domain": "prnewswire.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848181+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.birgun.net/haber/abd-baskani-trump-konut-maliyetlerini-dusurmeye-yonelik-kararname-imzaladi-741978%20target=_blank%20class=stretched-link",
+      "title": "ABD Başkanı Trump , konut maliyetlerini düşürmeye yönelik kararname imzaladı",
+      "url": "https://www.birgun.net/haber/abd-baskani-trump-konut-maliyetlerini-dusurmeye-yonelik-kararname-imzaladi-741978%20target=_blank%20class=stretched-link",
+      "domain": "birgun.net",
+      "seendate": "20261022T211500Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848183+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/L9T93I8U05568W0A.html",
+      "title": "全国亮眼 ！ 沈阳楼市双线飘红",
+      "url": "https://www.163.com/dy/article/L9T93I8U05568W0A.html",
+      "domain": "163.com",
+      "seendate": "20261022T211500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848185+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://marxist.com/europes-red-autumn.htm",
+      "title": "Europe Red Autumn",
+      "url": "https://marxist.com/europes-red-autumn.htm",
+      "domain": "marxist.com",
+      "seendate": "20261022T211500Z",
+      "language": "English",
+      "sourcecountry": "Russia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848188+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/10/22/sata-technology-co-ltd-nasdaqsata-shareholders-to-get-0-06-dividend-7.html",
+      "title": "SATA Technology Co ., Ltd . ( NASDAQ : SATA ) Shareholders to Get $0 . 06 Dividend",
+      "url": "https://www.dailypolitical.com/2026/10/22/sata-technology-co-ltd-nasdaqsata-shareholders-to-get-0-06-dividend-7.html",
+      "domain": "dailypolitical.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848190+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.prpeak.com/national-news/doerkson-pins-growth-hopes-on-getting-forestry-back-to-business-and-lng-opportunity-12923606",
+      "title": "Doerkson pins growth hopes on getting forestry  back to busines and LNG opportunity",
+      "url": "https://www.prpeak.com/national-news/doerkson-pins-growth-hopes-on-getting-forestry-back-to-business-and-lng-opportunity-12923606",
+      "domain": "prpeak.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848192+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.index.hr/vijesti/clanak/ministar-pred-veterinarskom-strukom-su-veliki-izazovi/2848748.aspx",
+      "title": "Ministar : Pred veterinarskom strukom su veliki izazovi",
+      "url": "https://www.index.hr/vijesti/clanak/ministar-pred-veterinarskom-strukom-su-veliki-izazovi/2848748.aspx",
+      "domain": "index.hr",
+      "seendate": "20261022T210000Z",
+      "language": "Croatian",
+      "sourcecountry": "Croatia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848193+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://vz.ru/news/2026/10/22/1466610.html",
+      "title": "Глава Пентагона пригрозил сотрудникам тюрьмой за ставки по секретным данным :: Новости дня / ВЗГЛЯД",
+      "url": "https://vz.ru/news/2026/10/22/1466610.html",
+      "domain": "vz.ru",
+      "seendate": "20261022T210000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848195+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-profil-udgiver-bog-om-bedrag/11329571",
+      "title": "TV 2 - profil udgiver bog om bedrag",
+      "url": "https://ekstrabladet.dk/underholdning/filmogtv/tv-2-profil-udgiver-bog-om-bedrag/11329571",
+      "domain": "ekstrabladet.dk",
+      "seendate": "20261022T210000Z",
+      "language": "Danish",
+      "sourcecountry": "Denmark",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848197+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://sudanjem.com/jensudan/",
+      "title": "وزير المالية : دعم المواطن ومساندة المنتج .. - حركة العدل و المساواة السودانية",
+      "url": "https://sudanjem.com/jensudan/",
+      "domain": "sudanjem.com",
+      "seendate": "20261022T210000Z",
+      "language": "Arabic",
+      "sourcecountry": "Sudan",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848198+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://newsradio1410.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/",
+      "title": "US , Israel Reportedly Plan To Resume Iran Strikes | News Radio 1410 AM & 100 . 9 FM",
+      "url": "https://newsradio1410.iheart.com/content/2026-10-22-us-israel-reportedly-plan-to-resume-iran-strikes/",
+      "domain": "newsradio1410.iheart.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848200+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://attackofthefanboy.com/social-media/after-trumps-north-carolina-rally-a-supporter-was-asked-about-paying-another-1-a-gallon-for-gas-and-said-ill-take-that-any-day/",
+      "title": "What did a Trump supporter say about paying more for gas ?",
+      "url": "https://attackofthefanboy.com/social-media/after-trumps-north-carolina-rally-a-supporter-was-asked-about-paying-another-1-a-gallon-for-gas-and-said-ill-take-that-any-day/",
+      "domain": "attackofthefanboy.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "Japan",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848203+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.monitor.hr/dugi-pogled-na-novcanike-place-u-hrvatskoj-u-tri-desetljeca-porasle-osam-puta/",
+      "title": "Dugi pogled na novčanike : Plaće u Hrvatskoj u tri desetljeća porasle osam puta",
+      "url": "https://www.monitor.hr/dugi-pogled-na-novcanike-place-u-hrvatskoj-u-tri-desetljeca-porasle-osam-puta/",
+      "domain": "monitor.hr",
+      "seendate": "20261022T210000Z",
+      "language": "Croatian",
+      "sourcecountry": "Croatia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848205+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.wnp.pl/energia/rusza-wazna-inwestycja-w-jastrzebiu-skorzysta-takze-jsw,1112018.html",
+      "title": "Rusza ważna inwestycja w Jastrzębiu . Skorzysta także JSW",
+      "url": "https://www.wnp.pl/energia/rusza-wazna-inwestycja-w-jastrzebiu-skorzysta-takze-jsw,1112018.html",
+      "domain": "wnp.pl",
+      "seendate": "20261022T210000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848207+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.sbs.com.au/news/article/a-3-billion-dollar-downgrade-could-send-a-ripple-through-a-surging-australian-industry/d6l4jbwj2",
+      "title": "A $3 - billion - dollar downgrade could send a ripple through a surging Australian industry",
+      "url": "https://www.sbs.com.au/news/article/a-3-billion-dollar-downgrade-could-send-a-ripple-through-a-surging-australian-industry/d6l4jbwj2",
+      "domain": "sbs.com.au",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848209+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.columbian.com/news/2026/oct/22/ai-stocks-undercut-markets-worldwide-as-oil-climbs-to-its-highest-price-since-may/",
+      "title": "AI stocks undercut markets worldwide as oil climbs to its highest price since May",
+      "url": "https://www.columbian.com/news/2026/oct/22/ai-stocks-undercut-markets-worldwide-as-oil-climbs-to-its-highest-price-since-may/",
+      "domain": "columbian.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848212+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.respublika.lt/lt/naujienos/sveikata/sveikata/sam-ipareigojo-klaipedos-universiteto-ligonine-per-dvi-savaites-pateikti-finansines-padeties-gerinimo-plana/",
+      "title": "SAM įpareigojo Klaipėdos universiteto ligoninę per dvi savaites pateikti finansinės padėties gerinimo planą",
+      "url": "https://www.respublika.lt/lt/naujienos/sveikata/sveikata/sam-ipareigojo-klaipedos-universiteto-ligonine-per-dvi-savaites-pateikti-finansines-padeties-gerinimo-plana/",
+      "domain": "respublika.lt",
+      "seendate": "20261022T210000Z",
+      "language": "Lithuanian",
+      "sourcecountry": "Lithuania",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848214+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.heraldglobe.com/news/279393194/gujarat-govt-invites-rajasthan-industry-to-invest-collaborate-at-vggs-2027",
+      "title": "Gujarat govt invites Rajasthan industry to invest , collaborate at VGGS 2027",
+      "url": "http://www.heraldglobe.com/news/279393194/gujarat-govt-invites-rajasthan-industry-to-invest-collaborate-at-vggs-2027",
+      "domain": "heraldglobe.com",
+      "seendate": "20261022T210000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-10-22T21:36:26.848216+00:00",
+      "topics": [
+        "markets"
+      ]
+    }
+  ]
 }
