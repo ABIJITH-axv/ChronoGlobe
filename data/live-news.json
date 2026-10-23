@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T17:08:15.521681+00:00",
+  "generated_at": "2026-10-23T21:25:50.124394+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
