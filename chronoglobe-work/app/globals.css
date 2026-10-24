@@ -2,10 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
-:root { color-scheme: dark; }
-html, body { min-height: 100%; background: #0B1A26; color: #E3EBEE; }
-body { font-family: var(--font-body), sans-serif; }
-:focus-visible { outline: 2px solid #D2A24C; outline-offset: 3px; }
-::selection { background: rgba(210, 162, 76, .35); color: #fff; }
-button, a, select { -webkit-tap-highlight-color: transparent; }
-@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .01ms !important; } }
+html, body { height: 100%; color: #E3EBEE; background: #05080F; }
+body { background: radial-gradient(ellipse at 50% 40%, #0C1830 0%, #05080F 65%); }
+
+.glass {
+  background: rgba(255, 255, 255, 0.045);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 1.25rem;
+}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.15); border-radius: 3px; }
+:focus-visible { outline: 2px solid #4FD6E8; outline-offset: 2px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
