@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T11:02:28.908286+00:00",
+  "generated_at": "2026-10-24T15:58:03.887167+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://www.indiatimes.com/trending/tokyo-revengers-war-of-the-three-titans-arc-episode-4-recap-takemichi-confronts-mikeys-dark-impulses-and-tragic-downfall/articleshow/135170433.html",
+      "title": "Tokyo Revengers : War of the Three Titans Arc episode 4 recap : Takemichi confronts Mikey dark impulses and tragic downfall",
+      "url": "https://www.indiatimes.com/trending/tokyo-revengers-war-of-the-three-titans-arc-episode-4-recap-takemichi-confronts-mikeys-dark-impulses-and-tragic-downfall/articleshow/135170433.html",
+      "domain": "indiatimes.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001038+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://labourlist.org/2026/10/how-burnhams-government-can-overcome-barriers-to-taxing-wealth/",
+      "title": "How Burnham government can overcome barriers to taxing wealth",
+      "url": "https://labourlist.org/2026/10/how-burnhams-government-can-overcome-barriers-to-taxing-wealth/",
+      "domain": "labourlist.org",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001060+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://piacesprofit.hu/cikkek/tarsadalom/oraatallitas-egy-oraval-tobbet-alhatunk-de-ennek-is-megvan-az-ara.html",
+      "title": "Óraátállítás : egy órával többet alhatunk , de ennek is megvan az ára",
+      "url": "https://piacesprofit.hu/cikkek/tarsadalom/oraatallitas-egy-oraval-tobbet-alhatunk-de-ennek-is-megvan-az-ara.html",
+      "domain": "piacesprofit.hu",
+      "seendate": "20261024T153000Z",
+      "language": "Hungarian",
+      "sourcecountry": "Hungary",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001065+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.strettoweb.com/2026/10/arcigay-cosenza-eletto-il-nuovo-consiglio-direttivo/2166237/",
+      "title": "Arcigay Cosenza , eletto il nuovo consiglio direttivo",
+      "url": "https://www.strettoweb.com/2026/10/arcigay-cosenza-eletto-il-nuovo-consiglio-direttivo/2166237/",
+      "domain": "strettoweb.com",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001068+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.sbctv.gr/2026/10/%CE%B6%CE%B5%CE%BB%CE%B5%CE%BD%CF%83%CE%BA%CE%B9-%CF%84%CF%81%CE%B1%CE%BC%CF%80-4/",
+      "title": "Ζελένσκι Τραμπ και ταχύτητα Starlink στην Ουκρανία",
+      "url": "https://www.sbctv.gr/2026/10/%CE%B6%CE%B5%CE%BB%CE%B5%CE%BD%CF%83%CE%BA%CE%B9-%CF%84%CF%81%CE%B1%CE%BC%CF%80-4/",
+      "domain": "sbctv.gr",
+      "seendate": "20261024T153000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001070+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.livemint.com/economy/500-gw-by-2030-experts-explain-why-india-needs-to-power-up-battery-storage-capacity-and-grid-infra-to-meet-the-target-11792841374196.html",
+      "title": "500 GW by 2030 : Experts explain why India needs to power up battery storage capacity and grid infra to meet the target",
+      "url": "https://www.livemint.com/economy/500-gw-by-2030-experts-explain-why-india-needs-to-power-up-battery-storage-capacity-and-grid-infra-to-meet-the-target-11792841374196.html",
+      "domain": "livemint.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001072+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://vz.ru/world/2026/10/24/1467346.html",
+      "title": "Европа пытается вклиниться в переговоры России и США :: В мире / ВЗГЛЯД",
+      "url": "https://vz.ru/world/2026/10/24/1467346.html",
+      "domain": "vz.ru",
+      "seendate": "20261024T153000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001076+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.correiobraziliense.com.br/mundo/2026/10/7526999-em-quais-estados-havera-eleicao-para-governador-no-2-turno-e-quais-sao-os-candidatos.html",
+      "title": "Em quais estados haverá eleio para governador no 2º turno e quais são os candidatos ?",
+      "url": "https://www.correiobraziliense.com.br/mundo/2026/10/7526999-em-quais-estados-havera-eleicao-para-governador-no-2-turno-e-quais-sao-os-candidatos.html",
+      "domain": "correiobraziliense.com.br",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001078+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.yakimaherald.com/news/local/crime_and_courts/bail-set-for-yakima-woman-accused-of-shooting-man-in-domestic-violence-incident-moment-of/article_2fb2e903-6422-4b71-b30a-dbfa8a3abf8c.html",
+      "title": "Bail set for Yakima woman accused of shooting man in domestic violence incident ; Moment of Blessing planned Wednesday",
+      "url": "https://www.yakimaherald.com/news/local/crime_and_courts/bail-set-for-yakima-woman-accused-of-shooting-man-in-domestic-violence-incident-moment-of/article_2fb2e903-6422-4b71-b30a-dbfa8a3abf8c.html",
+      "domain": "yakimaherald.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001081+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.darlingtonandstocktontimes.co.uk/news/26661043.braithwaite-hall-near-ripon-sale-4-95m/",
+      "title": "Braithwaite Hall near Ripon for sale at £4 . 95m | Darlington and Stockton Times",
+      "url": "https://www.darlingtonandstocktontimes.co.uk/news/26661043.braithwaite-hall-near-ripon-sale-4-95m/",
+      "domain": "darlingtonandstocktontimes.co.uk",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001083+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
+      "title": "Big action ! Who is Avadhut Sathe ? Why SEBI ordered Avadhut Sathe Trading Academy to refund ₹546 cr - What he did ?",
+      "url": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
+      "domain": "livemint.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001085+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-24/ultima-generazione-a-roma-protesta-contro-eni-bloccato-lingresso-al-siegfried-allauditorium-parco-della-musica/19843149/",
+      "title": "Ultima Generazione a Roma protesta contro Eni | bloccato lingresso al Siegfried allAuditorium Parco della Musica",
+      "url": "https://www.zazoom.it/2026-10-24/ultima-generazione-a-roma-protesta-contro-eni-bloccato-lingresso-al-siegfried-allauditorium-parco-della-musica/19843149/",
+      "domain": "zazoom.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001087+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://fr.allafrica.com/stories/202610240051.html",
+      "title": "Ile Maurice : Trois suspects arrêtés , un butin et des dégâts estimés à Rs 700 000",
+      "url": "https://fr.allafrica.com/stories/202610240051.html",
+      "domain": "fr.allafrica.com",
+      "seendate": "20261024T153000Z",
+      "language": "French",
+      "sourcecountry": "Nigeria",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001088+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.e-radio.gr/post/335969/serres-35xronos-traymatistike-sto-stoma-apo-gyali-2-ekatostwn-se-koyloyri",
+      "title": "Σέρρες : 35χρονος τραυματίστηκε στο στόμα από γυαλί 2 εκατοστών σε κουλούρι ( pics )",
+      "url": "https://www.e-radio.gr/post/335969/serres-35xronos-traymatistike-sto-stoma-apo-gyali-2-ekatostwn-se-koyloyri",
+      "domain": "e-radio.gr",
+      "seendate": "20261024T153000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001090+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://ichannela.com/news/detail/000000556648.do",
+      "title": "中 단둥 일대 통제 … 시진핑 만나나 ?",
+      "url": "https://ichannela.com/news/detail/000000556648.do",
+      "domain": "ichannela.com",
+      "seendate": "20261024T153000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001115+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://extra.globo.com/rio/noticia/2026/10/itaguai-tera-eleicao-para-prefeito-junto-com-segundo-turno-presidencial-neste-domingo.ghtml",
+      "title": "Itaguaí terá eleio para prefeito junto com segundo turno presidencial neste domingo",
+      "url": "https://extra.globo.com/rio/noticia/2026/10/itaguai-tera-eleicao-para-prefeito-junto-com-segundo-turno-presidencial-neste-domingo.ghtml",
+      "domain": "extra.globo.com",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001117+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.aporrea.org/ddhh/n425175.html",
+      "title": "Condenan a 20 años de cárcel a implicado en el asesinato del periodista Walter Jaimes en Mérida",
+      "url": "https://www.aporrea.org/ddhh/n425175.html",
+      "domain": "aporrea.org",
+      "seendate": "20261024T153000Z",
+      "language": "Spanish",
+      "sourcecountry": "Venezuela",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001119+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://elciudadanoweb.com/la-soberania-libertaria-duro-poco-el-gobierno-enfria-el-proyecto-de-ley-porque-trump-no-quiere-que-toquen-a-las-empresas-de-su-pais/",
+      "title": "La  soberanía  libertaria duró poco : el gobierno enfría el proyecto de ley porque Trump no quiere que toquen a las empresas de su país",
+      "url": "https://elciudadanoweb.com/la-soberania-libertaria-duro-poco-el-gobierno-enfria-el-proyecto-de-ley-porque-trump-no-quiere-que-toquen-a-las-empresas-de-su-pais/",
+      "domain": "elciudadanoweb.com",
+      "seendate": "20261024T153000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001121+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://regiaonoroeste.com/ultimo-dia-para-qualquer-tipo-de-propaganda-eleitoral-e-neste-sabado/",
+      "title": "Último dia para qualquer tipo de propaganda eleitoral é neste sábado",
+      "url": "https://regiaonoroeste.com/ultimo-dia-para-qualquer-tipo-de-propaganda-eleitoral-e-neste-sabado/",
+      "domain": "regiaonoroeste.com",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001122+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.stratford-herald.com/national/scottish-greens-urge-john-swinney-to-say-where-he-stands-on-energy-policy-173411/",
+      "title": "Scottish Greens urge John Swinney to say where he stands on energy policy",
+      "url": "https://www.stratford-herald.com/national/scottish-greens-urge-john-swinney-to-say-where-he-stands-on-energy-policy-173411/",
+      "domain": "stratford-herald.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001124+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.mediafax.ro/politic/vizita-surpriza-in-china-a-liderului-din-coreea-de-nord-ce-a-facut-si-cu-cine-a-discutat-kim-jong-un-23831065",
+      "title": "Vizită surpriză în China a liderului din Coreea de Nord . Ce a făcut și cu cine a discutat Kim Jong Un",
+      "url": "https://www.mediafax.ro/politic/vizita-surpriza-in-china-a-liderului-din-coreea-de-nord-ce-a-facut-si-cu-cine-a-discutat-kim-jong-un-23831065",
+      "domain": "mediafax.ro",
+      "seendate": "20261024T153000Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001126+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://abnews.ru/news/2026/10/24/kallas-opozorilas-v-kitae-prishli-v-vostorg-ot-rossijskoj-shutki-pro-ledokoly-ec",
+      "title": "« Каллас опозорилась »: в Китае пришли в восторг от российской шутки про ледоколы EC",
+      "url": "https://abnews.ru/news/2026/10/24/kallas-opozorilas-v-kitae-prishli-v-vostorg-ot-rossijskoj-shutki-pro-ledokoly-ec",
+      "domain": "abnews.ru",
+      "seendate": "20261024T153000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001128+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.stratford-herald.com/national/greens-promise-millennial-rail-card-paid-for-by-wealthy-flyers-173412/",
+      "title": "Greens promise  millennial rail card  paid for by wealthy flyers",
+      "url": "https://www.stratford-herald.com/national/greens-promise-millennial-rail-card-paid-for-by-wealthy-flyers-173412/",
+      "domain": "stratford-herald.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001130+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.thesudburystar.com/press-releases/globe-newswire/asyad-group-to-host-muscat-maritime-resilience-forum-to-strengthen-global-trade-networks/",
+      "title": "Asyad Group to Host Muscat Maritime Resilience Forum to Strengthen Global Trade Networks",
+      "url": "https://www.thesudburystar.com/press-releases/globe-newswire/asyad-group-to-host-muscat-maritime-resilience-forum-to-strengthen-global-trade-networks/",
+      "domain": "thesudburystar.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001132+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.connexionfrance.com/letters/remembering-the-sacrifices-of-war-in-normandy/823835",
+      "title": "Remembrance Day in Normandy , France : English - language services and a 1944 tribute",
+      "url": "https://www.connexionfrance.com/letters/remembering-the-sacrifices-of-war-in-normandy/823835",
+      "domain": "connexionfrance.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "France",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001133+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://nuevaalcarria.com/articulos/problema-de-egos",
+      "title": "Problema de egos",
+      "url": "https://nuevaalcarria.com/articulos/problema-de-egos",
+      "domain": "nuevaalcarria.com",
+      "seendate": "20261024T153000Z",
+      "language": "Spanish",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001137+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.echo-news.co.uk/news/national/26667270.snp-says-uk-must-rule-use-scottish-revenue-english-nuclear-energy/",
+      "title": "SNP says united kingdom must rule out use of Scottish revenue for English nuclear energy",
+      "url": "https://www.echo-news.co.uk/news/national/26667270.snp-says-uk-must-rule-use-scottish-revenue-english-nuclear-energy/",
+      "domain": "echo-news.co.uk",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001141+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://web.de/magazine/politik/brasilien-machtwechsel-lula-bolsonaro-ringen-stimmen-42799544",
+      "title": "Brasilien vor dem Machtwechsel ? Lula und Bolsonaro ringen um die letzten Stimmen",
+      "url": "https://web.de/magazine/politik/brasilien-machtwechsel-lula-bolsonaro-ringen-stimmen-42799544",
+      "domain": "web.de",
+      "seendate": "20261024T153000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001143+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://news.israelinfo.co.il/149142",
+      "title": "Барак Равид : в Белом доме не желают победы Нетанияху",
+      "url": "https://news.israelinfo.co.il/149142",
+      "domain": "news.israelinfo.co.il",
+      "seendate": "20261024T153000Z",
+      "language": "Russian",
+      "sourcecountry": "Israel",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001144+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.nigerianeye.com/2026/10/kaduna-government-denies-approving.html",
+      "title": "Kaduna government denies approving N2 . 3trn for APC campaign flag - off - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/kaduna-government-denies-approving.html",
+      "domain": "nigerianeye.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "Nigeria",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001146+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.heraldscotland.com/news/26667306.snp-uk-must-rule-scottish-revenue-use-english-nuclear-energy/",
+      "title": "SNP : united kingdom must rule out Scottish revenue use for English nuclear energy",
+      "url": "https://www.heraldscotland.com/news/26667306.snp-uk-must-rule-scottish-revenue-use-english-nuclear-energy/",
+      "domain": "heraldscotland.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001148+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.huxiu.com/article/4900157.html",
+      "title": "欧美围堵 ， 当地提防 ， 中国企业出海如何做到  你好我也好 ？- 虎嗅网",
+      "url": "https://www.huxiu.com/article/4900157.html",
+      "domain": "huxiu.com",
+      "seendate": "20261024T153000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001150+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.sudouest.fr/politique/attaque-dans-les-yvelines-la-famille-de-la-victime-pointe-des-defaillances-de-suivi-l-avocat-parle-denonce-un-attentat-raciste-31219247.php",
+      "title": "Attaque dans les Yvelines  : la famille de la victime pointe des défaillances de suivi , lavocat parle dénonce un attentat raciste",
+      "url": "https://www.sudouest.fr/politique/attaque-dans-les-yvelines-la-famille-de-la-victime-pointe-des-defaillances-de-suivi-l-avocat-parle-denonce-un-attentat-raciste-31219247.php",
+      "domain": "sudouest.fr",
+      "seendate": "20261024T153000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001151+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://web.de/magazine/unterhaltung/adel/flugschul-insolvenz-mette-marits-bruder-verklagt-42871612",
+      "title": "Nach Flugschul - Insolvenz : Mette - Marits Bruder wird verklagt",
+      "url": "https://web.de/magazine/unterhaltung/adel/flugschul-insolvenz-mette-marits-bruder-verklagt-42871612",
+      "domain": "web.de",
+      "seendate": "20261024T153000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001153+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.e-radio.gr/post/335968/elena-xristopoyloy-iliana-papagewrgioy-nea-agwgi-tis-manatzer-sto-montelo-gia-amoives-poy-ypervainoyn-ta-150000-eyrw",
+      "title": "Ελενα Χριστοπούλου - Ηλιάνα Παπαγεωργίου : Νέα αγωγή της μάνατζερ στο μοντέλο για αμοιβές που υπερβαίνουν τα 150 . 000 ευρώ ( pics )",
+      "url": "https://www.e-radio.gr/post/335968/elena-xristopoyloy-iliana-papagewrgioy-nea-agwgi-tis-manatzer-sto-montelo-gia-amoives-poy-ypervainoyn-ta-150000-eyrw",
+      "domain": "e-radio.gr",
+      "seendate": "20261024T153000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001155+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.malverngazette.co.uk/news/national/26667157.scottish-greens-urge-john-swinney-say-stands-energy-policy/",
+      "title": "Scottish Greens urge John Swinney to say where he stands on energy policy",
+      "url": "https://www.malverngazette.co.uk/news/national/26667157.scottish-greens-urge-john-swinney-say-stands-energy-policy/",
+      "domain": "malverngazette.co.uk",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001157+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.suryaa.com/telugu-news/andhrapradesh/kumdurpi-lo-sthaanika-ennikala-empitisijadpitisi-laku-113-mmdi-empeeteeseelaku-jadpeeteeseelaku-naluguru-naamineshan-veshaaru",
+      "title": "కుందుర్పి లో స్థానిక ఎన్నికల ఎంపిటిసి , జడ్పిటిసి లకు 113 మంది ఎంపీటీసీలకు , జడ్పీటీసీలకు నలుగురు నామినేషన్ వేశారు .",
+      "url": "https://www.suryaa.com/telugu-news/andhrapradesh/kumdurpi-lo-sthaanika-ennikala-empitisijadpitisi-laku-113-mmdi-empeeteeseelaku-jadpeeteeseelaku-naluguru-naamineshan-veshaaru",
+      "domain": "suryaa.com",
+      "seendate": "20261024T153000Z",
+      "language": "Telugu",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001159+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://abnews.ru/center/news/yaroslavl/2026/10/24/v-yaroslavskoj-oblasti-v-sentyabre-stal-deshevle-sahar-dorozhe-smartfony",
+      "title": "Что подешевело , а что подорожало в Ярославской области в сентябре",
+      "url": "https://abnews.ru/center/news/yaroslavl/2026/10/24/v-yaroslavskoj-oblasti-v-sentyabre-stal-deshevle-sahar-dorozhe-smartfony",
+      "domain": "abnews.ru",
+      "seendate": "20261024T153000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001160+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.mediafax.ro/politic/alegeri-cu-miza-uriasa-la-granita-romaniei-o-surpriza-uriasa-s-ar-putea-produce-23831043",
+      "title": "Alegeri cu miză uriașă la granița României . O surpriză uriașă s - ar putea produce",
+      "url": "https://www.mediafax.ro/politic/alegeri-cu-miza-uriasa-la-granita-romaniei-o-surpriza-uriasa-s-ar-putea-produce-23831043",
+      "domain": "mediafax.ro",
+      "seendate": "20261024T153000Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001162+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.iowapublicradio.org/news-from-npr/2026-10-24/european-student-protests-take-aim-at-serbias-elections",
+      "title": "European student protests take aim at Serbia elections",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-24/european-student-protests-take-aim-at-serbias-elections",
+      "domain": "iowapublicradio.org",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001164+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.inewsgr.com/184/i-Daily-Mail-proteinei-tria-vivlia-gia-tin-evdomada-to-ena-elliniko--kathilonei-leei-o-lanthimos.htm",
+      "title": "Η Daily Mail προτείνει τρία βιβλία για την εβδομάδα , το ένα ελληνικό -« Καθηλώνει » λέει ο Λάνθιμος",
+      "url": "https://www.inewsgr.com/184/i-Daily-Mail-proteinei-tria-vivlia-gia-tin-evdomada-to-ena-elliniko--kathilonei-leei-o-lanthimos.htm",
+      "domain": "inewsgr.com",
+      "seendate": "20261024T153000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001167+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.laleggepertutti.it/818344_come-calcolare-maggioranze-in-assemblea-con-piu-proprietari-di-un-solo-appartamento",
+      "title": "Come calcolare maggioranze in assemblea con più proprietari di un solo appartamento ?",
+      "url": "https://www.laleggepertutti.it/818344_come-calcolare-maggioranze-in-assemblea-con-piu-proprietari-di-un-solo-appartamento",
+      "domain": "laleggepertutti.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001170+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.yourlocalguardian.co.uk/news/national/26667270.snp-says-uk-must-rule-use-scottish-revenue-english-nuclear-energy/",
+      "title": "SNP says united kingdom must rule out use of Scottish revenue for English nuclear energy",
+      "url": "https://www.yourlocalguardian.co.uk/news/national/26667270.snp-says-uk-must-rule-use-scottish-revenue-english-nuclear-energy/",
+      "domain": "yourlocalguardian.co.uk",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001171+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.leprogres.fr/social/2026/10/24/urbanisation-le-tribunal-administratif-n-a-toujours-pas-donne-suite-a-notre-recours",
+      "title": "Chazay - dAzergues . Urbanisation :  Le tribunal administratif na toujours pas donné suite à notre recours",
+      "url": "https://www.leprogres.fr/social/2026/10/24/urbanisation-le-tribunal-administratif-n-a-toujours-pas-donne-suite-a-notre-recours",
+      "domain": "leprogres.fr",
+      "seendate": "20261024T153000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001173+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.ceskenoviny.cz/zpravy/pravnik-je-nejiste-zda-by-us-zrusil-prosazeni-navrhu-k-financovani-ct-a-cro/2892529",
+      "title": "Právník : Je nejisté , zda by ÚS zrušil prosazení návrhu k financování ČT a ČRo",
+      "url": "https://www.ceskenoviny.cz/zpravy/pravnik-je-nejiste-zda-by-us-zrusil-prosazeni-navrhu-k-financovani-ct-a-cro/2892529",
+      "domain": "ceskenoviny.cz",
+      "seendate": "20261024T153000Z",
+      "language": "Czech",
+      "sourcecountry": "Czech Republic",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001175+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/californians-support-for-cutting-carbon-emissions-wanes-as-new-climate-warnings-arrive-dan-walters/article_00dc92df-164e-4139-a1d6-802059845a16.html",
+      "title": "Californian support for cutting carbon emissions wanes as new climate warnings arrive | Dan Walters | Dan - walters",
+      "url": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/californians-support-for-cutting-carbon-emissions-wanes-as-new-climate-warnings-arrive-dan-walters/article_00dc92df-164e-4139-a1d6-802059845a16.html",
+      "domain": "santamariatimes.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001184+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.argentinastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.argentinastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "argentinastar.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "Argentina",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001186+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.turkiyegazetesi.com.tr/dunya/iran-olasi-saldirinin-sonucunu-simdiden-ilan-etti-onlar-herkesten-iyi-biliyor-1824940",
+      "title": "İran , olası saldırının sonucunu şimdiden ilan etti !  Onlar herkesten iyi biliyor",
+      "url": "https://www.turkiyegazetesi.com.tr/dunya/iran-olasi-saldirinin-sonucunu-simdiden-ilan-etti-onlar-herkesten-iyi-biliyor-1824940",
+      "domain": "turkiyegazetesi.com.tr",
+      "seendate": "20261024T153000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001188+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.cdt.ch/news/assemblea-pvl-si-a-denti-stretti-al-finanziamento-dellavs-442656",
+      "title": "Assemblea PVL , « sì a denti stretti » al finanziamento dellAVS",
+      "url": "https://www.cdt.ch/news/assemblea-pvl-si-a-denti-stretti-al-finanziamento-dellavs-442656",
+      "domain": "cdt.ch",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Switzerland",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001190+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.jujuyalmomento.com/clausura/zapla-campeon-vencio-lujan-penales-y-se-quedo-el-clausura-n209023",
+      "title": "Zapla campeón , venció a Luján por penales y se quedó con el Clausura",
+      "url": "https://www.jujuyalmomento.com/clausura/zapla-campeon-vencio-lujan-penales-y-se-quedo-el-clausura-n209023",
+      "domain": "jujuyalmomento.com",
+      "seendate": "20261024T153000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001192+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.dailyadvance.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_4c71bdc1-9f16-537c-93b7-f1a72ea39e62.html",
+      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
+      "url": "http://www.dailyadvance.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_4c71bdc1-9f16-537c-93b7-f1a72ea39e62.html",
+      "domain": "dailyadvance.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001193+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.civonline.it/news/cronaca/1356992/amianto-nelle-officine-cotral-rendita-alla-vedova-del-meccanico-morto-di-tumore.html",
+      "title": "Amianto nelle officine Cotral , rendita alla vedova del meccanico morto di tumore",
+      "url": "https://www.civonline.it/news/cronaca/1356992/amianto-nelle-officine-cotral-rendita-alla-vedova-del-meccanico-morto-di-tumore.html",
+      "domain": "civonline.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001195+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.tanea.gr/print/2026/10/24/opinions/to-prasino-ta-parka-kai-i-athina/",
+      "title": "Το πράσινο , τα πάρκα , και η Αθήνα",
+      "url": "https://www.tanea.gr/print/2026/10/24/opinions/to-prasino-ta-parka-kai-i-athina/",
+      "domain": "tanea.gr",
+      "seendate": "20261024T153000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001197+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://web.de/magazine/politik/wahlen/midterms/us-zwischenwahlen-midterms-wissen-42862796",
+      "title": "US - Zwischenwahlen : Das musst du über die Midterms wissen",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/us-zwischenwahlen-midterms-wissen-42862796",
+      "domain": "web.de",
+      "seendate": "20261024T153000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001199+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/dunya/avrupayi-tedirgin-harita-yuzlerce-olay-incelendi-43353597",
+      "title": "Avrupayı korkutan harita ! Yüzlerce olay incelendi",
+      "url": "https://www.hurriyet.com.tr/dunya/avrupayi-tedirgin-harita-yuzlerce-olay-incelendi-43353597",
+      "domain": "hurriyet.com.tr",
+      "seendate": "20261024T153000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001201+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.srilankasource.com/news/279395059/china-grants-approval-to-citi-for-wholly-owned-securities-company-in-opening-up-push",
+      "title": "China grants approval to Citi for wholly - owned securities company in opening - up push",
+      "url": "http://www.srilankasource.com/news/279395059/china-grants-approval-to-citi-for-wholly-owned-securities-company-in-opening-up-push",
+      "domain": "srilankasource.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "Sri Lanka",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001202+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.notimerica.com/politica/noticia-espana-milei-vuelve-llamar-ladron-corrupto-sanchez-le-acusa-querer-amanar-elecciones-ley-nietos-20261024161052.html",
+      "title": "Milei vuelve a llamar  ladrón corrupto  a Sánchez y le acusa de querer amañar elecciones con la ley de nietos",
+      "url": "https://www.notimerica.com/politica/noticia-espana-milei-vuelve-llamar-ladron-corrupto-sanchez-le-acusa-querer-amanar-elecciones-ley-nietos-20261024161052.html",
+      "domain": "notimerica.com",
+      "seendate": "20261024T153000Z",
+      "language": "Spanish",
+      "sourcecountry": "Colombia",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001204+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-24/alice-nella-citta-cresce-la-partecipazione-di-giovani-e-studenti-bettini-e-giannelli-il-festival-offre-alle-nuove-voci-del-cinema-italiano-occasioni-concrete-per-emergere/19843116/",
+      "title": "Alice nella città Cresce la partecipazione di giovani e studenti Bettini e Giannelli | Il festival offre alle nuove voci del cinema italiano occasioni concrete per emergere",
+      "url": "https://www.zazoom.it/2026-10-24/alice-nella-citta-cresce-la-partecipazione-di-giovani-e-studenti-bettini-e-giannelli-il-festival-offre-alle-nuove-voci-del-cinema-italiano-occasioni-concrete-per-emergere/19843116/",
+      "domain": "zazoom.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001206+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.deccanchronicle.com/opinion/columnists/the-election-commission-cannot-outsource-its-defence-1998524",
+      "title": "The Election Commission Cannot Outsource Its Defence",
+      "url": "https://www.deccanchronicle.com/opinion/columnists/the-election-commission-cannot-outsource-its-defence-1998524",
+      "domain": "deccanchronicle.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001208+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.mediafax.ro/externe/bulgaria-isi-alege-duminica-presedintele-pe-fondul-atacurilor-cu-drone-din-marea-neagra-cine-sunt-favoritii-si-ce-arata-sondajele-23831042",
+      "title": "Bulgaria își alege duminică președintele , pe fondul atacurilor cu drone din Marea Neagră . Cine sunt favoriții și ce arată sondajele",
+      "url": "https://www.mediafax.ro/externe/bulgaria-isi-alege-duminica-presedintele-pe-fondul-atacurilor-cu-drone-din-marea-neagra-cine-sunt-favoritii-si-ce-arata-sondajele-23831042",
+      "domain": "mediafax.ro",
+      "seendate": "20261024T153000Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001209+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.ijpr.org/interviews/2026-10-24/im-just-a-carpenter-from-bend-father-who-killed-silver-rail-school-shooter-grapples-with-the-aftermath",
+      "title": "Im just a carpenter from Bend : Father who killed Silver Rail school shooter grapples with the aftermath",
+      "url": "https://www.ijpr.org/interviews/2026-10-24/im-just-a-carpenter-from-bend-father-who-killed-silver-rail-school-shooter-grapples-with-the-aftermath",
+      "domain": "ijpr.org",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001213+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.diariodoamapa.com.br/cadernos/politica/justica-extingue-ultima-acao-que-questionava-eleicao-da-mesa-diretora-da-camara-de-macapa/",
+      "title": "Justiça extingue última ao que questionava eleio da Mesa Diretora da Câmara de Macapá – Diário do Amap",
+      "url": "https://www.diariodoamapa.com.br/cadernos/politica/justica-extingue-ultima-acao-que-questionava-eleicao-da-mesa-diretora-da-camara-de-macapa/",
+      "domain": "diariodoamapa.com.br",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001214+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-24/lega-romeo-contro-salvini-per-un-posto-in-lista-io-quello-che-rischia-di-piu/19843132/",
+      "title": "Lega Romeo | Contro Salvini per un posto in lista ? Io quello che rischia di più",
+      "url": "https://www.zazoom.it/2026-10-24/lega-romeo-contro-salvini-per-un-posto-in-lista-io-quello-che-rischia-di-piu/19843132/",
+      "domain": "zazoom.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001216+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://kenya-today.com/report-us-representative-introduces-bill-to-end-diversity-visa-lottery-threatening-kenyan-applicants-16059/",
+      "title": "U . S . Representative Introduces Bill to End Diversity Visa Lottery , Threatening Kenyan Applicants",
+      "url": "https://kenya-today.com/report-us-representative-introduces-bill-to-end-diversity-visa-lottery-threatening-kenyan-applicants-16059/",
+      "domain": "kenya-today.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "Kenya",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001218+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://reason.com/2026/10/24/iowa-voters-dont-want-police-or-flock-tracking-their-cars-politicians-are-still-catching-up/",
+      "title": "Iowa voters dont want police or Flock tracking their cars . Politicians are still catching up .",
+      "url": "https://reason.com/2026/10/24/iowa-voters-dont-want-police-or-flock-tracking-their-cars-politicians-are-still-catching-up/",
+      "domain": "reason.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001219+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.fenlandcitizen.co.uk/national/greens-promise-millennial-rail-card-paid-for-by-wealthy-flyers-173412/",
+      "title": "Greens promise  millennial rail card  paid for by wealthy flyers",
+      "url": "https://www.fenlandcitizen.co.uk/national/greens-promise-millennial-rail-card-paid-for-by-wealthy-flyers-173412/",
+      "domain": "fenlandcitizen.co.uk",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001223+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-24/manifestazioni-studentesche-24-ottobre-le-maggiori-citta-blindate-tensione-a-torino-individuato-a-milano-ideatore-movimento-17-ottobre-in-aggiornamento/19843184/",
+      "title": "Manifestazioni studentesche 24 ottobre le maggiori città blindate tensione a Torino individuato a Milano ideatore movimento 17 ottobre IN AGGIORNAMENTO",
+      "url": "https://www.zazoom.it/2026-10-24/manifestazioni-studentesche-24-ottobre-le-maggiori-citta-blindate-tensione-a-torino-individuato-a-milano-ideatore-movimento-17-ottobre-in-aggiornamento/19843184/",
+      "domain": "zazoom.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001225+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://nra.lv/pasaule/532915-asv-izlukdienesti-sniedz-ukrainai-informaciju-triecieniem-krievija.htm",
+      "title": "Tramps vaino Zelenski , taču CIP turpina palīdzēt Ukrainai",
+      "url": "https://nra.lv/pasaule/532915-asv-izlukdienesti-sniedz-ukrainai-informaciju-triecieniem-krievija.htm",
+      "domain": "nra.lv",
+      "seendate": "20261024T153000Z",
+      "language": "Latvian",
+      "sourcecountry": "Latvia",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001227+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.mavikocaeli.com.tr/kocaelide-aile-gecmisini-arastirirken-sadrazam-torunu-cikti/257043/",
+      "title": "Kocaelide aile geçmişini araştırırken sadrazam torunu çıktı",
+      "url": "https://www.mavikocaeli.com.tr/kocaelide-aile-gecmisini-arastirirken-sadrazam-torunu-cikti/257043/",
+      "domain": "mavikocaeli.com.tr",
+      "seendate": "20261024T153000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001228+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.dailymail.com/tvshowbiz/article-16234823/bette-midler-pose-daughter-sophie-star-studded-halloween-bash.html",
+      "title": "Bette Midler , 80 , strikes a pose with look - alike daughter Sophie , 39 , at star - studded Halloween bash attended by Cyndi Lauper",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16234823/bette-midler-pose-daughter-sophie-star-studded-halloween-bash.html",
+      "domain": "dailymail.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001230+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.setn.com/news/1927951",
+      "title": "馬德里25萬人遊行 訴求保障國家退休金制度 | 國際 | 三立新聞網 SETN . COM",
+      "url": "https://www.setn.com/news/1927951",
+      "domain": "setn.com",
+      "seendate": "20261024T153000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001232+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://entretenimento.r7.com/famosos-e-tv/vanity-brasil/margareth-serrao-exibe-resultado-de-treinos-e-plasticas-ao-renovar-o-bronzeado-24102026/",
+      "title": "Margareth Serrão exibe resultado de treinos e plásticas ao renovar o bronzeado",
+      "url": "https://entretenimento.r7.com/famosos-e-tv/vanity-brasil/margareth-serrao-exibe-resultado-de-treinos-e-plasticas-ao-renovar-o-bronzeado-24102026/",
+      "domain": "entretenimento.r7.com",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001233+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-24/piazze-blindate-in-tutta-italia-tensioni-tra-manifestanti-e-forze-dellordine-a-torino/19843154/",
+      "title": "Piazze blindate in tutta Italia | tensioni tra manifestanti e forze dellordine a Torino",
+      "url": "https://www.zazoom.it/2026-10-24/piazze-blindate-in-tutta-italia-tensioni-tra-manifestanti-e-forze-dellordine-a-torino/19843154/",
+      "domain": "zazoom.it",
+      "seendate": "20261024T153000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001235+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.dailyadvance.com/news/world/what-to-know-as-brazilians-choose-between-lula-and-fl-vio-bolsonaro-on-sunday/article_e6b4856e-e63b-5f3a-897d-5adaf02eea0c.html",
+      "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
+      "url": "http://www.dailyadvance.com/news/world/what-to-know-as-brazilians-choose-between-lula-and-fl-vio-bolsonaro-on-sunday/article_e6b4856e-e63b-5f3a-897d-5adaf02eea0c.html",
+      "domain": "dailyadvance.com",
+      "seendate": "20261024T153000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001238+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.lance.com.br/volei/cruzeiro-campinas-e-mais-como-chegam-os-favoritos-a-superliga.html",
+      "title": "Cruzeiro , Campinas e mais : como chegam os favoritos à Superliga",
+      "url": "https://www.lance.com.br/volei/cruzeiro-campinas-e-mais-como-chegam-os-favoritos-a-superliga.html",
+      "domain": "lance.com.br",
+      "seendate": "20261024T153000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-10-24T15:56:59.001240+00:00",
+      "topics": [
+        "top"
+      ]
+    }
+  ]
 }
