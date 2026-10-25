@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T04:42:10.960484+00:00",
+  "generated_at": "2026-10-25T11:29:43.997406+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://www.balkanweb.com/alarm-per-lirine-e-medias-gjate-protestave-agsh-50-sulme-ndaj-gazetareve-ne-12-dite-80-e-rasteve-lidhen-me-policine-e-shtetit/",
+      "title": "Alarm për lirinë e medias gjatë protestave / AGSH : 50 sulme ndaj gazetarëve në 12 ditë , 80 % e rasteve lidhen me Policinë e Shtetit",
+      "url": "https://www.balkanweb.com/alarm-per-lirine-e-medias-gjate-protestave-agsh-50-sulme-ndaj-gazetareve-ne-12-dite-80-e-rasteve-lidhen-me-policine-e-shtetit/",
+      "domain": "balkanweb.com",
+      "seendate": "20261025T110000Z",
+      "language": "Albanian",
+      "sourcecountry": "Albania",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.239922+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://cyprusnews.eu/dialogos-kipros/limani-kai-marina-larnakas-den-dechomaste-kamia-kathysterisi-ti-zita-o-eoa/",
+      "title": "Λιμάνι και μαρίνα Λάρνακας : « Δεν δεχόμαστε καμία καθυστέρηση » – Τι ζητά ο ΕΟΑ",
+      "url": "https://cyprusnews.eu/dialogos-kipros/limani-kai-marina-larnakas-den-dechomaste-kamia-kathysterisi-ti-zita-o-eoa/",
+      "domain": "cyprusnews.eu",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.239983+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://report-tv.al/lajm/pas-protestave-te-dhunshme-ne-tirane-rama-prezanton-paketen-e-re-ligjore-kunder-dhunes-dhe-anarkise-urbane",
+      "title": "Nga dëmshpërblimi i bizneseve te ndëshkimet financiare e penale për dhunuesit në protesta , Rama prezanton një paketë të gjerë masash : Kush thyen paguan ! Dje në Tiranë mercenarë nga Spanja ! Akuza për PD : Strehë e dhunës",
+      "url": "https://report-tv.al/lajm/pas-protestave-te-dhunshme-ne-tirane-rama-prezanton-paketen-e-re-ligjore-kunder-dhunes-dhe-anarkise-urbane",
+      "domain": "report-tv.al",
+      "seendate": "20261025T110000Z",
+      "language": "Albanian",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.239990+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://informer.rs/planeta/vesti/1163966/donald-tramp-rat-u-ukrajini-rusija",
+      "title": "Tramp najavio poslovnu saradnju sa Rusijom posle rata i ponovo pomenuo sporazum sa Ukrajinom vredan bilion dolara",
+      "url": "https://informer.rs/planeta/vesti/1163966/donald-tramp-rat-u-ukrajini-rusija",
+      "domain": "informer.rs",
+      "seendate": "20261025T110000Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.239995+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://apa.at/news/in-frankreich-finden-landesweit-neue-proteste-statt/",
+      "title": "Fast 1 . 000 Festnahmen bei Protesten in Frankreich",
+      "url": "https://apa.at/news/in-frankreich-finden-landesweit-neue-proteste-statt/",
+      "domain": "apa.at",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240001+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://fakti.bg/world/1093695-zelenski-rusia-izstrela-blizo-2300-drona-48-raketi-i-1600-aviobombi-za-sedmica",
+      "title": "Русия е изстреляла 1600 авиобомби и 2300 дрона",
+      "url": "https://fakti.bg/world/1093695-zelenski-rusia-izstrela-blizo-2300-drona-48-raketi-i-1600-aviobombi-za-sedmica",
+      "domain": "fakti.bg",
+      "seendate": "20261025T110000Z",
+      "language": "Bulgarian",
+      "sourcecountry": "Bulgaria",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240005+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.hameensanomat.fi/paikalliset/9896486",
+      "title": "Mielipide | Keskustelu Hattulan kyläkouluinvestoinnista kaipaa realismia , ei vastakkaisnasettelua",
+      "url": "https://www.hameensanomat.fi/paikalliset/9896486",
+      "domain": "hameensanomat.fi",
+      "seendate": "20261025T110000Z",
+      "language": "Finnish",
+      "sourcecountry": "Finland",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240007+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://unn.ua/ru/news/iran-gotov-otkrit-ormuzskii-proliv-posle-otmeni-blokadi-ssha-ap",
+      "title": "Иран готов открыть Ормузский пролив после отмены блокады США AP",
+      "url": "https://unn.ua/ru/news/iran-gotov-otkrit-ormuzskii-proliv-posle-otmeni-blokadi-ssha-ap",
+      "domain": "unn.ua",
+      "seendate": "20261025T110000Z",
+      "language": "Russian",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240010+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.chinatimes.com/realtimenews/20261025002420-260407",
+      "title": "環團促簽 「 沒改善空汙不連任 」 柯志恩 、 賴瑞隆回應了 - 政治",
+      "url": "https://www.chinatimes.com/realtimenews/20261025002420-260407",
+      "domain": "chinatimes.com",
+      "seendate": "20261025T110000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240016+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://wiadomosci.gazeta.pl/polityka/7,198013,33097587,slowacka-opozycja-wygrywa-w-bratyslawie-kandydaci-ficy-nie.html",
+      "title": "Słowacja . Opozycja wygrywa w Bratysławie , rząd Fico bez burmistrza w żadnym mieście wojewódzkim",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33097587,slowacka-opozycja-wygrywa-w-bratyslawie-kandydaci-ficy-nie.html",
+      "domain": "wiadomosci.gazeta.pl",
+      "seendate": "20261025T110000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240019+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.kathpress.at/goto/meldung/2624339/lucky-luke-wird-in-jubilaeums-comic-zum-heiligen",
+      "title": "Lucky Luke wird in Jubiläums - Comic zum Heiligen",
+      "url": "https://www.kathpress.at/goto/meldung/2624339/lucky-luke-wird-in-jubilaeums-comic-zum-heiligen",
+      "domain": "kathpress.at",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240022+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.protothema.gr/politics/article/1900290/drumiotis-an-to-pasok-stamatisei-na-psahnei-gia-psaria-stin-aristeri-limni-tha-perasei-ton-tsipra/",
+      "title": "Δρυμιώτης : Αν το ΠΑΣΟΚ σταματήσει να ψάχνει για ψάρια στην αριστερή λίμνη θα περάσει τον Τσίπρα",
+      "url": "https://www.protothema.gr/politics/article/1900290/drumiotis-an-to-pasok-stamatisei-na-psahnei-gia-psaria-stin-aristeri-limni-tha-perasei-ton-tsipra/",
+      "domain": "protothema.gr",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240024+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.kikar.co.il/political-news/netanyahu-solberg-urgent-response-election-meeting",
+      "title": "ועדת הבחירות : דיון דחוף על פגישת נתניהו ובן גביר",
+      "url": "https://www.kikar.co.il/political-news/netanyahu-solberg-urgent-response-election-meeting",
+      "domain": "kikar.co.il",
+      "seendate": "20261025T110000Z",
+      "language": "Hebrew",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240027+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.iefimerida.gr/politiki/marinakis-den-zitame-adeia-apo-tin-toyrkia",
+      "title": "Μαρινάκης : Το καλώδιο Ελλάδας - Κύπρου θα προχωρήσει κανονικά -« Δεν ζητάμε άδεια από την Τουρκία »",
+      "url": "https://www.iefimerida.gr/politiki/marinakis-den-zitame-adeia-apo-tin-toyrkia",
+      "domain": "iefimerida.gr",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240029+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://correio.rac.com.br/agenciabrasil/eleitores-v-o-as-urnas-hoje-para-escolher-o-presidente-do-pais-1.1870718",
+      "title": "Eleitores vão às urnas hoje para escolher o presidente do país",
+      "url": "https://correio.rac.com.br/agenciabrasil/eleitores-v-o-as-urnas-hoje-para-escolher-o-presidente-do-pais-1.1870718",
+      "domain": "correio.rac.com.br",
+      "seendate": "20261025T110000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240031+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.jutarnji.hr/vijesti/hrvatska/rekordna-izlaznost-srbija-ipsos-cesid-studenti-pobjeduju-vucic-kriza-15759174",
+      "title": "Jutarnji list - Vijest iz Srbije već sad ukazuje na pobjednika izbora ?  Potpuni raspad , Vučić više ne zna što radi !",
+      "url": "https://www.jutarnji.hr/vijesti/hrvatska/rekordna-izlaznost-srbija-ipsos-cesid-studenti-pobjeduju-vucic-kriza-15759174",
+      "domain": "jutarnji.hr",
+      "seendate": "20261025T110000Z",
+      "language": "Croatian",
+      "sourcecountry": "Croatia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240034+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.hankookilbo.com/news/article/A2026102518240003658",
+      "title": "삼성바이오 노조 , 12억 파업기금 조성안 가결 … 총파업 재개 준비 - 경제ㅣ한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026102518240003658",
+      "domain": "hankookilbo.com",
+      "seendate": "20261025T110000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240036+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://privatbankar.hu/cikkek/kozerdeku/orban-balazs-szakkollegiuma-is-busasan-kapott-az-mnb-alapitvanyoktol.html",
+      "title": "Orbán Balázs volt szakkollégiuma is busásan kapott az MNB - alapítványoktól",
+      "url": "https://privatbankar.hu/cikkek/kozerdeku/orban-balazs-szakkollegiuma-is-busasan-kapott-az-mnb-alapitvanyoktol.html",
+      "domain": "privatbankar.hu",
+      "seendate": "20261025T110000Z",
+      "language": "Hungarian",
+      "sourcecountry": "Hungary",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240038+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.laprovinciadicomo.it/stories/premium/editoriali/il-caso-milano-diritti-e-doveri-intrecciati-o_3980337_11/",
+      "title": "Il caso Milano , diritti e doveri intrecciati",
+      "url": "https://www.laprovinciadicomo.it/stories/premium/editoriali/il-caso-milano-diritti-e-doveri-intrecciati-o_3980337_11/",
+      "domain": "laprovinciadicomo.it",
+      "seendate": "20261025T110000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240041+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
+      "title": "Bond yields rise nearly 30 bps in Oct , to raise govt interest burden",
+      "url": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
+      "domain": "business-standard.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240043+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.timesleader.com/opinion/1763405/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys",
+      "title": "Editorial :  Like giving whiskey and car keys to teenage boys",
+      "url": "https://www.timesleader.com/opinion/1763405/editorial-like-giving-whiskey-and-car-keys-to-teenage-boys",
+      "domain": "timesleader.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240045+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://baijiahao.baidu.com/s?id=1880017599912853651",
+      "title": "2026青科会观察 ： 渣土变石点废成金 ， 固废资源化有新解法",
+      "url": "https://baijiahao.baidu.com/s?id=1880017599912853651",
+      "domain": "baijiahao.baidu.com",
+      "seendate": "20261025T110000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240048+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.livehindustan.com/lifestyle/add-tea-powder-into-soil-to-grow-money-plant-bushy-growth-and-keep-green-leaf-in-winter-201792921431883.html",
+      "title": "सर्दियों में भी हरी - भरी रहेगी मनी प्लांट की बेल , हफ्ते में 1 बार मिट्टी में डालें चाय की पत्ती",
+      "url": "https://www.livehindustan.com/lifestyle/add-tea-powder-into-soil-to-grow-money-plant-bushy-growth-and-keep-green-leaf-in-winter-201792921431883.html",
+      "domain": "livehindustan.com",
+      "seendate": "20261025T110000Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240050+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://vtv.vn/chu-tich-quoc-hoi-tran-thanh-man-nhan-manh-tinh-than-3-khong-trong-thuc-hien-du-an-phuc-vu-apec-2027-10026102516461229.htm",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn nhấn mạnh tinh thần  3 không  trong thực hiện dự án phục vụ APEC 2027",
+      "url": "https://vtv.vn/chu-tich-quoc-hoi-tran-thanh-man-nhan-manh-tinh-than-3-khong-trong-thuc-hien-du-an-phuc-vu-apec-2027-10026102516461229.htm",
+      "domain": "vtv.vn",
+      "seendate": "20261025T110000Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240052+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.nicematin.com/societe/eric-ciotti-emmanuel-macron-rassemblement-national-manifestations-le-regard-sans-detour-du-maire-de-coursegoules-village-perche-a-une-heure-de-nice-10744383",
+      "title": "Éric Ciotti , Emmanuel Macron , Rassemblement national , manifestations … le regard sans détour du maire de Coursegoules , village perché à une heure de Nice",
+      "url": "https://www.nicematin.com/societe/eric-ciotti-emmanuel-macron-rassemblement-national-manifestations-le-regard-sans-detour-du-maire-de-coursegoules-village-perche-a-une-heure-de-nice-10744383",
+      "domain": "nicematin.com",
+      "seendate": "20261025T110000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240054+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://informer.rs/politika/vesti/1163969/izbori-2026-izlaznost-9-sati",
+      "title": "Izlaznost do 9 časova 12 odsto - Informer . rs",
+      "url": "https://informer.rs/politika/vesti/1163969/izbori-2026-izlaznost-9-sati",
+      "domain": "informer.rs",
+      "seendate": "20261025T110000Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240058+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://newsmaxbalkans.al/shqiperi/politike/77593/kush-thyen-paguan-rama-prezanton-paketen-me-6-masa-kunder-dhunes-gjoba-deri-ne-500-mije-leke-dhe-denime-me-burg/news",
+      "title": "Kush thyen , paguan ! Rama prezanton paketën me 6 masa kundër dhunës , gjoba deri në 500 mijë lekë dhe dënime me burg",
+      "url": "https://newsmaxbalkans.al/shqiperi/politike/77593/kush-thyen-paguan-rama-prezanton-paketen-me-6-masa-kunder-dhunes-gjoba-deri-ne-500-mije-leke-dhe-denime-me-burg/news",
+      "domain": "newsmaxbalkans.al",
+      "seendate": "20261025T110000Z",
+      "language": "Albanian",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240062+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/world/rest-of-world/in-the-1850s-gold-mining-turned-australias-steiglitz-into-a-booming-town-with-gold-bearing-quartz-roads-by-1904-only-150-people-remained/articleshow/135186252.cms",
+      "title": "In the 1850s , gold mining turned Australia Steiglitz into a booming town with gold - bearing quartz roads ; by 1904 , only 150 people remained",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-the-1850s-gold-mining-turned-australias-steiglitz-into-a-booming-town-with-gold-bearing-quartz-roads-by-1904-only-150-people-remained/articleshow/135186252.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240066+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://informer.rs/politika/vesti/1163976/nova-s-krsenje-izborne-tisine",
+      "title": "Nova S ponovo krši izbornu tišinu",
+      "url": "https://informer.rs/politika/vesti/1163976/nova-s-krsenje-izborne-tisine",
+      "domain": "informer.rs",
+      "seendate": "20261025T110000Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240070+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.singtaousa.com/2026/10/25/news/usa/early-voting-queens/",
+      "title": "提前投票開始 法拉盛票站出現人龍 - 星島日報",
+      "url": "https://www.singtaousa.com/2026/10/25/news/usa/early-voting-queens/",
+      "domain": "singtaousa.com",
+      "seendate": "20261025T110000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240072+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://trinidadexpress.com/news/local/state-s-court-judgment-bill-jumps-to-140m/article_3b2722e0-7c1e-4709-9007-06e58ea7768a.html",
+      "title": "State court judgment bill jumps to $140m | Local News",
+      "url": "https://trinidadexpress.com/news/local/state-s-court-judgment-bill-jumps-to-140m/article_3b2722e0-7c1e-4709-9007-06e58ea7768a.html",
+      "domain": "trinidadexpress.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "Trinidad and Tobago",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240075+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.die-glocke.de/blick-in-die-welt/nrw/artikel/abenteuer-almanya-als-die-ersten-tuerken-kamen-1792911908",
+      "title": "Abenteuer Almanya - Als die ersten Türken kamen",
+      "url": "https://www.die-glocke.de/blick-in-die-welt/nrw/artikel/abenteuer-almanya-als-die-ersten-tuerken-kamen-1792911908",
+      "domain": "die-glocke.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240077+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://vtv.vn/chuong-trinh-hanh-dong-cua-chinh-phu-ve-thu-hut-va-trong-dung-nhan-tai-trong-cac-nganh-linh-vuc-mui-nhon-100261025150034842.htm",
+      "title": "Chương trình hành động của Chính phủ về thu hút và trọng dụng nhân tài trong các ngành , lĩnh vực mũi nhọn",
+      "url": "https://vtv.vn/chuong-trinh-hanh-dong-cua-chinh-phu-ve-thu-hut-va-trong-dung-nhan-tai-trong-cac-nganh-linh-vuc-mui-nhon-100261025150034842.htm",
+      "domain": "vtv.vn",
+      "seendate": "20261025T110000Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240079+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://24-ore.com/koalicioni-intercepton-10-raketa-balistike-te-huthi-ve-drejt-jugut-te-arabise-saudite/",
+      "title": "Koalicioni intercepton 10 raketa balistike të Huthi - ve drejt jugut të Arabisë Saudite",
+      "url": "https://24-ore.com/koalicioni-intercepton-10-raketa-balistike-te-huthi-ve-drejt-jugut-te-arabise-saudite/",
+      "domain": "24-ore.com",
+      "seendate": "20261025T110000Z",
+      "language": "Albanian",
+      "sourcecountry": "Albania",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240082+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.calcuttanews.net/news/279396650/france-protests-see-clashes-despite-heavy-security",
+      "title": "France protests see clashes despite heavy security",
+      "url": "http://www.calcuttanews.net/news/279396650/france-protests-see-clashes-despite-heavy-security",
+      "domain": "calcuttanews.net",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240084+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.hngnews.com/nation_world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_6f1fc46e-35b2-55e5-b783-18d81ea9460e.html",
+      "title": "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
+      "url": "http://www.hngnews.com/nation_world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_6f1fc46e-35b2-55e5-b783-18d81ea9460e.html",
+      "domain": "hngnews.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240086+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.hngnews.com/nation_world/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist-and-other-mideast-news/article_6c78dfbf-d8e0-53f5-a3ec-9ee670cc6251.html",
+      "title": "Saudi Arabia reopens airport as attacks by Houthi rebels persist , and other Mideast news",
+      "url": "http://www.hngnews.com/nation_world/saudi-arabia-reopens-airport-as-attacks-by-houthi-rebels-persist-and-other-mideast-news/article_6c78dfbf-d8e0-53f5-a3ec-9ee670cc6251.html",
+      "domain": "hngnews.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240088+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/meclise-60-yas-ve-ustu-vatandaslara-yesil-pasaport-hakki-verilsin-talebi/4100104",
+      "title": "Meclise  60 yaş ve üstü vatandaşlara yeşil pasaport hakkı verilsin  talebi",
+      "url": "https://www.aa.com.tr/tr/gundem/meclise-60-yas-ve-ustu-vatandaslara-yesil-pasaport-hakki-verilsin-talebi/4100104",
+      "domain": "aa.com.tr",
+      "seendate": "20261025T110000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240091+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.ettoday.net/news/20261025/3260592.htm",
+      "title": "倒數34天 ／ 蔣萬安勘災掃地＋助陣小雞 洋流號裝防彈玻璃外溢新竹",
+      "url": "https://www.ettoday.net/news/20261025/3260592.htm",
+      "domain": "ettoday.net",
+      "seendate": "20261025T110000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240093+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.hameensanomat.fi/uutissuomalainen/9899815",
+      "title": "Kokoomusvaikuttajia harmittavat viestintätappiot perussuomalaisille :  Näytt siltä , että meitä potkitaan koko ajan",
+      "url": "https://www.hameensanomat.fi/uutissuomalainen/9899815",
+      "domain": "hameensanomat.fi",
+      "seendate": "20261025T110000Z",
+      "language": "Finnish",
+      "sourcecountry": "Finland",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240095+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.kikar.co.il/political-news/yechin-institute-coalition-plan-education-reform",
+      "title": "מרכז יכין : תוכנית מקיפה להסכמים הקואליציוניים הבאים",
+      "url": "https://www.kikar.co.il/political-news/yechin-institute-coalition-plan-education-reform",
+      "domain": "kikar.co.il",
+      "seendate": "20261025T110000Z",
+      "language": "Hebrew",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240097+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.protothema.gr/politics/article/1900235/kammenos-o-tsipras-den-theorei-oti-eimai-akrodexios-i-karustianou-epese-thuma-tou-sustimatos-samara/",
+      "title": "Καμμένος : Αν κατέβει ο Σαμαράς θα δραστηριοποιηθώ κι εγώ , ο Τσίπρας δεν θεωρεί ότι είμαι ακροδεξιός",
+      "url": "https://www.protothema.gr/politics/article/1900235/kammenos-o-tsipras-den-theorei-oti-eimai-akrodexios-i-karustianou-epese-thuma-tou-sustimatos-samara/",
+      "domain": "protothema.gr",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240100+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://taz.de/Proteste-an-Flughaefen/!6224753/",
+      "title": "Proteste an Flughäfen : Sofortiger Abschiebestopp gefordert",
+      "url": "https://taz.de/Proteste-an-Flughaefen/!6224753/",
+      "domain": "taz.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240102+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.idowa.de/politik/randale-bei-protesten-in-mehreren-europaeischen-laendern-art-422158",
+      "title": "Randale bei Protesten in mehreren europäischen Ländern",
+      "url": "https://www.idowa.de/politik/randale-bei-protesten-in-mehreren-europaeischen-laendern-art-422158",
+      "domain": "idowa.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240104+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.az-online.de/politik/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-zr-94557057.html",
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "url": "https://www.az-online.de/politik/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-zr-94557057.html",
+      "domain": "az-online.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240106+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.bt.dk/fodbold/hoegh-smidt-paa-baenken--kritikken-hagler-nu-ned-ufatteligt",
+      "title": "Høgh smidt på bænken – kritikken hagler nu ned :  Ufatteligt",
+      "url": "https://www.bt.dk/fodbold/hoegh-smidt-paa-baenken--kritikken-hagler-nu-ned-ufatteligt",
+      "domain": "bt.dk",
+      "seendate": "20261025T110000Z",
+      "language": "Danish",
+      "sourcecountry": "Denmark",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240109+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.infolibre.es/politica/total-128-detenidos-15-policias-heridos-disturbios-barcelona_1_2239009.html",
+      "title": "Un total de 128 detenidos y 15 policías heridos en los disturbios de Barcelona",
+      "url": "https://www.infolibre.es/politica/total-128-detenidos-15-policias-heridos-disturbios-barcelona_1_2239009.html",
+      "domain": "infolibre.es",
+      "seendate": "20261025T110000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240111+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://baijiahao.baidu.com/s?id=1880001825966671043",
+      "title": "意大利多地举行示威活动 部分城市发生警民冲突",
+      "url": "https://baijiahao.baidu.com/s?id=1880001825966671043",
+      "domain": "baijiahao.baidu.com",
+      "seendate": "20261025T110000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240115+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=02286166645616528&mediaCodeNo=257",
+      "title": "한동훈 , 가상자산 과세 재유예 검토에  환영 … 늦게나마 제동 다행",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02286166645616528&mediaCodeNo=257",
+      "domain": "edaily.co.kr",
+      "seendate": "20261025T110000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240117+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.kjzz.org/npr-top-stories/2026-10-25/independent-candidates-sense-a-moment-in-the-west-democrats-are-hoping-theyre-right",
+      "title": "Independent candidates sense a moment in the West . Democrats are hoping theyre right",
+      "url": "https://www.kjzz.org/npr-top-stories/2026-10-25/independent-candidates-sense-a-moment-in-the-west-democrats-are-hoping-theyre-right",
+      "domain": "kjzz.org",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240119+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.nordkurier.de/politik/randale-bei-protesten-in-mehreren-europaeischen-laendern-4961758",
+      "title": "Randale bei Protesten in Europa – Hunderte Festnahmen in Frankreich",
+      "url": "https://www.nordkurier.de/politik/randale-bei-protesten-in-mehreren-europaeischen-laendern-4961758",
+      "domain": "nordkurier.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240122+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://fakti.bg/kultura-art/1093682-orkestar-100-kaba-gaidi-otbelazva-65-godishninata-si-s-koncert-v-smolan",
+      "title": "Оркестър „ 100 каба гайди  отбелязва 65 - годишнината си с концерт в Смолян",
+      "url": "https://fakti.bg/kultura-art/1093682-orkestar-100-kaba-gaidi-otbelazva-65-godishninata-si-s-koncert-v-smolan",
+      "domain": "fakti.bg",
+      "seendate": "20261025T110000Z",
+      "language": "Bulgarian",
+      "sourcecountry": "Bulgaria",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240124+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://informer.rs/politika/vesti/1164005/kol-centar-batajnica-napad-sns-svedocenje",
+      "title": "Jezivo svedočenje napadnute devojke iz kol centra u Batajnici",
+      "url": "https://informer.rs/politika/vesti/1164005/kol-centar-batajnica-napad-sns-svedocenje",
+      "domain": "informer.rs",
+      "seendate": "20261025T110000Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240126+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.zazoom.it/2026-10-25/russia-attacco-ucraino-con-droni-a-belgorod-almeno-un-morto-quattro-vittime-e-22-feriti-a-dnipro/19845768/",
+      "title": "Russia attacco ucraino con droni a Belgorod | almeno un morto | Quattro vittime e 22 feriti a Dnipro",
+      "url": "https://www.zazoom.it/2026-10-25/russia-attacco-ucraino-con-droni-a-belgorod-almeno-un-morto-quattro-vittime-e-22-feriti-a-dnipro/19845768/",
+      "domain": "zazoom.it",
+      "seendate": "20261025T110000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240128+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.pb.pl/fed-ebc-i-wybory-co-czeka-rynki-w-nadchodzacym-tygodniu-1269390",
+      "title": "Fed , EBC i wybory . Co czeka rynki w nadchodzącym tygodniu ?",
+      "url": "https://www.pb.pl/fed-ebc-i-wybory-co-czeka-rynki-w-nadchodzacym-tygodniu-1269390",
+      "domain": "pb.pl",
+      "seendate": "20261025T110000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240131+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://cyprusnews.eu/reporter-kipros/afstiro-minyma-eoa-larnakas-gia-ti-marina-den-borei-na-ginei-apodekti-opoiadipote-kathysterisi-gia-ylopoiisi-tou-ergou/",
+      "title": "Αυστηρό μήνυμα ΕΟΑ Λάρνακας για τη Μαρίνα -« Δεν μπορεί να γίνει αποδεκτή οποιαδήποτε καθυστέρηση για υλοποίηση του έργου »",
+      "url": "https://cyprusnews.eu/reporter-kipros/afstiro-minyma-eoa-larnakas-gia-ti-marina-den-borei-na-ginei-apodekti-opoiadipote-kathysterisi-gia-ylopoiisi-tou-ergou/",
+      "domain": "cyprusnews.eu",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240133+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.hankookilbo.com/news/article/A2026102516160001059",
+      "title": "이 대통령 주문 이틀 만에 또 스토킹 살해 ...  가해자 의무 체포 등 격리해야 - 사회ㅣ한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026102516160001059",
+      "domain": "hankookilbo.com",
+      "seendate": "20261025T110000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240135+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://euronews.al/trump-voton-ne-florida-per-zgjedhjet-e-mesmandatit-mbeshtes-republikanet-ne-fitojme/",
+      "title": "Trump voton në Florida për zgjedhjet e mesmandatit : Mbështes republikanët , ne fitojmë !",
+      "url": "https://euronews.al/trump-voton-ne-florida-per-zgjedhjet-e-mesmandatit-mbeshtes-republikanet-ne-fitojme/",
+      "domain": "euronews.al",
+      "seendate": "20261025T110000Z",
+      "language": "Albanian",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240139+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.capeandislands.org/2026-10-25/more-dads-taking-paid-family-leave-for-a-new-baby-sometimes-as-much-as-moms-are",
+      "title": "More dads taking paid family leave for a new baby , sometimes as much as moms are",
+      "url": "https://www.capeandislands.org/2026-10-25/more-dads-taking-paid-family-leave-for-a-new-baby-sometimes-as-much-as-moms-are",
+      "domain": "capeandislands.org",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240142+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.patrika.com/mumbai-news/maharashtra-sunetra-pawar-finance-portfolio-cm-fadnavis-ncp-meeting-21007356",
+      "title": "महाराष्ट्र : सुनेत्रा पवार बनेंगी वित्त मंत्री ? फडणवीस से मिले NCP के शीर्ष नेता , बोले - शीतकालीन सत्र से पहले हो सकता है फैसला | Maharashtra Sunetra Pawar Finance Portfolio Cm Fadnavis Ncp Meeting",
+      "url": "https://www.patrika.com/mumbai-news/maharashtra-sunetra-pawar-finance-portfolio-cm-fadnavis-ncp-meeting-21007356",
+      "domain": "patrika.com",
+      "seendate": "20261025T110000Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240144+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://sharebazarnews.com/posts/ritarn-na-dile-jrimana-kt-i-tindhareeder-za-jana-pryojn",
+      "title": "রিটার্ন না দিলে জরিমানা কত , ই - টিনধারীদের যা জানা প্রয়োজন",
+      "url": "https://sharebazarnews.com/posts/ritarn-na-dile-jrimana-kt-i-tindhareeder-za-jana-pryojn",
+      "domain": "sharebazarnews.com",
+      "seendate": "20261025T110000Z",
+      "language": "Bengali",
+      "sourcecountry": "Bangladesh",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240146+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.timesleader.com/opinion/columns/1763402/beyond-byline-make-up-your-mind-and-then-vote",
+      "title": "Beyond Byline : Make up your mind and then vote",
+      "url": "https://www.timesleader.com/opinion/columns/1763402/beyond-byline-make-up-your-mind-and-then-vote",
+      "domain": "timesleader.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240148+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://naslovi.net/2026-10-25/dw/uzivo-veliki-redovi-do-11-sati-glasalo-27-3-odsto/42526204",
+      "title": "+++ UŽIVO +++ Veliki redovi , do 11 sati glasalo 27 , 3 odsto",
+      "url": "https://naslovi.net/2026-10-25/dw/uzivo-veliki-redovi-do-11-sati-glasalo-27-3-odsto/42526204",
+      "domain": "naslovi.net",
+      "seendate": "20261025T110000Z",
+      "language": "Bosnian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240151+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://informer.rs/planeta/vesti/1164000/francuska-demonstracije-drustvene-mreze",
+      "title": "Lekorni traži spremnost za gašenje društvenih mreža tokom nereda ! TikTok , Instagram i Iks na udaru",
+      "url": "https://informer.rs/planeta/vesti/1164000/francuska-demonstracije-drustvene-mreze",
+      "domain": "informer.rs",
+      "seendate": "20261025T110000Z",
+      "language": "Bosnian",
+      "sourcecountry": "Serbia",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240153+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://udakuspecially.com/meridianbet-yaongoza-mapambano-ya-usafi-wa-mazingira-mbezi-juu/",
+      "title": "Meridianbet Yaongoza Mapambano Ya Usafi Wa Mazingira Mbezi Juu",
+      "url": "https://udakuspecially.com/meridianbet-yaongoza-mapambano-ya-usafi-wa-mazingira-mbezi-juu/",
+      "domain": "udakuspecially.com",
+      "seendate": "20261025T110000Z",
+      "language": "Swahili",
+      "sourcecountry": "Tanzania",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240155+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece",
+      "title": "Telangana H1 revenue below expectations as expenditure remains high",
+      "url": "https://www.thehindu.com/news/national/telangana/telanganas-h1-revenue-below-expectations-as-expenditure-remains-high/article71622829.ece",
+      "domain": "thehindu.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240158+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.pc.co.il/news/460279/",
+      "title": "סופית : אסור למשקיפים בקלפי להעביר מידע על בוחרים בזמן אמת -",
+      "url": "https://www.pc.co.il/news/460279/",
+      "domain": "pc.co.il",
+      "seendate": "20261025T110000Z",
+      "language": "Hebrew",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240160+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://e-thessalia.gr/i-mitropoli-dimitriados-tima-ton-agona-toy-giorgoy-soyrla-gia-toys-atafoys-iroes-toy-1940/",
+      "title": "Η Μητρόπολη Δημητριάδος τιμά τον αγώνα του Γιώργου Σούρλα για τους άταφους ήρωες του 1940",
+      "url": "https://e-thessalia.gr/i-mitropoli-dimitriados-tima-ton-agona-toy-giorgoy-soyrla-gia-toys-atafoys-iroes-toy-1940/",
+      "domain": "e-thessalia.gr",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240164+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.eldia.com/opinion/luces-de-alerta-por-el-ejercicio-ilegal-de-distintas-profesiones-opinion_1792900516",
+      "title": "Luces de alerta por el ejercicio ilegal de distintas profesiones",
+      "url": "http://www.eldia.com/opinion/luces-de-alerta-por-el-ejercicio-ilegal-de-distintas-profesiones-opinion_1792900516",
+      "domain": "eldia.com",
+      "seendate": "20261025T110000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240167+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.goskagit.com/news/world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_2ed75695-3bd2-5be4-b5be-2a91f23920f1.html",
+      "title": "Serbia holds a parliamentary election as strongman Vucic faces protesting students",
+      "url": "http://www.goskagit.com/news/world/serbia-holds-a-parliamentary-election-as-strongman-vucic-faces-protesting-students/article_2ed75695-3bd2-5be4-b5be-2a91f23920f1.html",
+      "domain": "goskagit.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240169+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.idowa.de/politik/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-art-422161",
+      "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
+      "url": "https://www.idowa.de/politik/dobrindt-plant-hohe-huerden-fuer-vergesellschaftungen-art-422161",
+      "domain": "idowa.de",
+      "seendate": "20261025T110000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240171+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.aol.co.uk/articles/inside-britains-multi-million-car-100120000.html",
+      "title": "Inside Britain multi - million car parking industry as PM announces clampdown",
+      "url": "https://www.aol.co.uk/articles/inside-britains-multi-million-car-100120000.html",
+      "domain": "aol.co.uk",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240173+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.mikrometoxos.gr/o-chartis-ton-trapezikon-apotelesmaton-imerominies-ektimiseis-kai-times-stochoi/",
+      "title": "Ο χάρτης των τραπεζικών αποτελεσμάτων , ημερομηνίες , εκτιμήσεις και τιμές στόχοι",
+      "url": "https://www.mikrometoxos.gr/o-chartis-ton-trapezikon-apotelesmaton-imerominies-ektimiseis-kai-times-stochoi/",
+      "domain": "mikrometoxos.gr",
+      "seendate": "20261025T110000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240175+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.theadvocate.com/baton_rouge/news/crime_police/new-orleans-ice-arrest-deportation/article_0030f5d2-076f-5da3-98f3-17faa8ef3c14.html",
+      "title": "Inside Louisiana ICE sweep as arrests , deportations surge | Crime / Police",
+      "url": "https://www.theadvocate.com/baton_rouge/news/crime_police/new-orleans-ice-arrest-deportation/article_0030f5d2-076f-5da3-98f3-17faa8ef3c14.html",
+      "domain": "theadvocate.com",
+      "seendate": "20261025T110000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240177+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.money.pl/gospodarka/musk-sie-przyznal-tlumaczy-powod-ograniczenia-starlinka-7343777739737184a.html",
+      "title": "Musk się przyznał . Tłumaczy powód ograniczenia Starlinka",
+      "url": "https://www.money.pl/gospodarka/musk-sie-przyznal-tlumaczy-powod-ograniczenia-starlinka-7343777739737184a.html",
+      "domain": "money.pl",
+      "seendate": "20261025T110000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-25T11:29:30.240180+00:00",
+      "topics": [
+        "politics"
+      ]
+    }
+  ]
 }
