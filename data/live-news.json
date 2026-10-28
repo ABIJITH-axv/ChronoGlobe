@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T05:42:52.755022+00:00",
+  "generated_at": "2026-10-28T12:55:10.019618+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://planoinformativo.com/1177797/se-mantiene-rehabilitacion-del-puente-la-sagrada-familia-en-tanquian-de-escobedo",
+      "title": "Se mantiene rehabilitación del puente La Sagrada Familia en Tanquián de Escobedo",
+      "url": "https://planoinformativo.com/1177797/se-mantiene-rehabilitacion-del-puente-la-sagrada-familia-en-tanquian-de-escobedo",
+      "domain": "planoinformativo.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862022+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.agencianova.com/gremiales/2026/10/26/174436/video-las-62-organizaciones-peronistas-normalizaron-su-regional-de-san-martin-y-otros-cuatro-distritos/",
+      "title": "VIDEO | Las 62 Organizaciones Peronistas normalizaron su regional de San Martín y otros cuatro distritos",
+      "url": "https://www.agencianova.com/gremiales/2026/10/26/174436/video-las-62-organizaciones-peronistas-normalizaron-su-regional-de-san-martin-y-otros-cuatro-distritos/",
+      "domain": "agencianova.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862043+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-77f1-d682-a7af-7ff700de0000",
+      "title": "פרשנות | שינוי יחייב מאמץ עליון . האלטרנטיבה היא חורבן - בחירות 2026",
+      "url": "https://www.haaretz.co.il/news/elections/2026-10-27/ty-article/.highlight/000001a1-77f1-d682-a7af-7ff700de0000",
+      "domain": "haaretz.co.il",
+      "seendate": "20261027T051500Z",
+      "language": "Hebrew",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862049+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.naidunia.com/chhattisgarh/raipur-chhattisgarh-faces-threat-from-arnab-system-has-emerged-in-bay-of-bengal-modi-government-cabinet-secretary-has-reviewed-disaster-management-preparations-8472516",
+      "title": "बंगाल की खाड़ी में उठे  अर्णब  से छत्तीसगढ़ को खतरा , मोदी सरकार के कैबिनेट सचिव ने की आपदा प्रबंधन की समीक्षा",
+      "url": "https://www.naidunia.com/chhattisgarh/raipur-chhattisgarh-faces-threat-from-arnab-system-has-emerged-in-bay-of-bengal-modi-government-cabinet-secretary-has-reviewed-disaster-management-preparations-8472516",
+      "domain": "naidunia.com",
+      "seendate": "20261027T051500Z",
+      "language": "Hindi",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862052+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://vnexpress.net/ung-vien-tong-thong-brazil-bi-cam-xuat-canh-sau-that-bai-bau-cu-5137229.html",
+      "title": "Ứng viên tổng thống Brazil bị cấm xuất cảnh sau thất bại bầu cử",
+      "url": "https://vnexpress.net/ung-vien-tong-thong-brazil-bi-cam-xuat-canh-sau-that-bai-bau-cu-5137229.html",
+      "domain": "vnexpress.net",
+      "seendate": "20261027T051500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862055+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://periodicocorreo.com.mx/vida-publica/2026/oct/26/congreso-de-guanajuato-enfrenta-baja-participacion-en-consultas-sobre-derechos-humanos-170101.html",
+      "title": "Congreso de Guanajuato enfrenta baja participación en consultas sobre derechos humanos",
+      "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/26/congreso-de-guanajuato-enfrenta-baja-participacion-en-consultas-sobre-derechos-humanos-170101.html",
+      "domain": "periodicocorreo.com.mx",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862061+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.jpost.com/israel-election-2026/article-912988",
+      "title": "This time I wont vote for Likud , Netanyahu cousin says , citing October 7",
+      "url": "http://www.jpost.com/israel-election-2026/article-912988",
+      "domain": "jpost.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862063+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+      "title": "King begins tour of Caribbean as calls grow for slavery apology",
+      "url": "https://www.keighleynews.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+      "domain": "keighleynews.co.uk",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862066+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10916243",
+      "title": "김영훈  초광역특구법의 노동 특례 도입 , 사회적 대화 반드시 성사해야",
+      "url": "https://biz.heraldcorp.com/article/10916243",
+      "domain": "biz.heraldcorp.com",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862068+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.gzstv.com/a/8d5904cbc0984c319c71aa62a60861ab",
+      "title": "奥迪中国官宣 ： 四环标归一汽 ， 字母标 （ AUDI ） 归上汽",
+      "url": "https://www.gzstv.com/a/8d5904cbc0984c319c71aa62a60861ab",
+      "domain": "gzstv.com",
+      "seendate": "20261027T051500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862071+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.wirtualnemedia.pl/youtuber-ojwojtek-o-wywiadzie-z-prezydentem-no-k-raz-sie-zyje,7344172101818400a",
+      "title": "Youtuber OjWojtek o wywiadzie z prezydentem :  No k ... raz się żyje",
+      "url": "https://www.wirtualnemedia.pl/youtuber-ojwojtek-o-wywiadzie-z-prezydentem-no-k-raz-sie-zyje,7344172101818400a",
+      "domain": "wirtualnemedia.pl",
+      "seendate": "20261027T051500Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862073+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.hani.co.kr/arti/society/society_general/1284352.html",
+      "title": "[ 포토 ] 핸드볼경기장 압수수색 마친 이태한 특검팀",
+      "url": "https://www.hani.co.kr/arti/society/society_general/1284352.html",
+      "domain": "hani.co.kr",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862076+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.ultimahora.es/noticias/local/2026/10/27/2734195/solucion-problema-vivienda-tienen-ayuntamientos.html",
+      "title": "« La solución al problema de la vivienda la tienen los ayuntamientos »",
+      "url": "https://www.ultimahora.es/noticias/local/2026/10/27/2734195/solucion-problema-vivienda-tienen-ayuntamientos.html",
+      "domain": "ultimahora.es",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862078+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.jpost.com/opinion/article-912952",
+      "title": "Israelis should allow themselves to enjoy Election Day",
+      "url": "http://www.jpost.com/opinion/article-912952",
+      "domain": "jpost.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862080+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+      "title": "Chuyên gia : Mua sắm công nên ưu tiên vật liệu tái chế - Báo VnExpress",
+      "url": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+      "domain": "vnexpress.net",
+      "seendate": "20261027T051500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862082+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.halsteadgazette.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+      "title": "King begins tour of Caribbean as calls grow for slavery apology",
+      "url": "https://www.halsteadgazette.co.uk/news/national/26672176.king-begins-tour-caribbean-calls-grow-slavery-apology/",
+      "domain": "halsteadgazette.co.uk",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862084+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.newspim.com/news/view/20261027000921",
+      "title": "동해 송정동 주민들 , LS전선 규탄 … 사원아파트 송정동에 건립하라",
+      "url": "https://www.newspim.com/news/view/20261027000921",
+      "domain": "newspim.com",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862087+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://glavcom.ua/techno/telecom/shvetsija-zakrila-urjadovtsjam-populjarni-shi-chati-shcho-dozvolili-natomist-1151632.html",
+      "title": "Швеція закрила урядовцям популярні ШІ - чати : що дозволили натомість",
+      "url": "https://glavcom.ua/techno/telecom/shvetsija-zakrila-urjadovtsjam-populjarni-shi-chati-shcho-dozvolili-natomist-1151632.html",
+      "domain": "glavcom.ua",
+      "seendate": "20261027T051500Z",
+      "language": "Ukrainian",
+      "sourcecountry": "Ukraine",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862089+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://akhbarlibya24.net/2026/10/26/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B5%D8%A7",
+      "title": "السعودية تعترض صواريخ ومسيرات وسط تصاعد المواجهة مع الحوثيين",
+      "url": "https://akhbarlibya24.net/2026/10/26/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D9%88%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B5%D8%A7",
+      "domain": "akhbarlibya24.net",
+      "seendate": "20261027T051500Z",
+      "language": "Arabic",
+      "sourcecountry": "Libya",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862091+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202610271326550382",
+      "title": "노동장관  쿠팡 불기소 , 美와 전혀 무관 … 국민들 납득 어려운 부분 있다고 생각",
+      "url": "https://www.fnnews.com/news/202610271326550382",
+      "domain": "fnnews.com",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862095+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.sozcu.com.tr/yerel-yonetim-dengeleri-degisiyor-p373085",
+      "title": "YENİ Partinin İBB ve ABB hesabı !  Mansur Yavaş  detayı",
+      "url": "https://www.sozcu.com.tr/yerel-yonetim-dengeleri-degisiyor-p373085",
+      "domain": "sozcu.com.tr",
+      "seendate": "20261027T051500Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862097+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+      "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+      "url": "https://fox56.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+      "domain": "fox56.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862100+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.sinembargo.mx/4894055/bolsonaro-dice-que-organizara-oposicion-contra-lula-y-su-partido-reconoce-la-derrota/",
+      "title": "El partido de Bolsonaro reconoce su derrota ante Lula",
+      "url": "https://www.sinembargo.mx/4894055/bolsonaro-dice-que-organizara-oposicion-contra-lula-y-su-partido-reconoce-la-derrota/",
+      "domain": "sinembargo.mx",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862102+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+      "title": "Trump says White House needed repainting and repairs , blasts Obama over upkeep",
+      "url": "https://fox17.com/news/nation-world/president-donald-trump-says-white-house-needed-repainting-and-repairs-blasts-barack-obama-over-upkeep-ballroom-the-cheesecake-factories-rose-garden-north-portico-east-wing-x-socials-menu",
+      "domain": "fox17.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862106+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://periodicocorreo.com.mx/vida-publica/2026/oct/26/aprueban-en-comision-aumento-a-apoyos-sociales-de-regidores-de-guanajuato-170096.html",
+      "title": "Aprueban en comisión aumento a apoyos sociales de regidores de Guanajuato",
+      "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/26/aprueban-en-comision-aumento-a-apoyos-sociales-de-regidores-de-guanajuato-170096.html",
+      "domain": "periodicocorreo.com.mx",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862110+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://news.liga.net/war/news/minoborony-ukraina-prosit-u-partnerov-10-ih-zapasov-raket-dlya-patriot-i-iris-t",
+      "title": "Хмара запросил у стран Европы ракеты для Patriot – Минобороны | Новости Украины",
+      "url": "https://news.liga.net/war/news/minoborony-ukraina-prosit-u-partnerov-10-ih-zapasov-raket-dlya-patriot-i-iris-t",
+      "domain": "news.liga.net",
+      "seendate": "20261027T051500Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862113+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.wirtualnemedia.pl/jacek-leski-dolacza-do-kanalu-bylego-szefa-tvp-info-nasz-news,7344328722937952a",
+      "title": "Jacek Łęski dołącza do kanału byłego szefa TVP Info [ NASZ NEWS ]",
+      "url": "https://www.wirtualnemedia.pl/jacek-leski-dolacza-do-kanalu-bylego-szefa-tvp-info-nasz-news,7344328722937952a",
+      "domain": "wirtualnemedia.pl",
+      "seendate": "20261027T051500Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862115+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.insidehalton.com/news/municipal-elections/mayoral-races/marianne-meed-ward-wins-burlington-mayor/article_8377a496-ae4a-50c5-a5a4-e025ca4626ae.html",
+      "title": "Marianne Meed Ward wins third term as Burlington mayor",
+      "url": "https://www.insidehalton.com/news/municipal-elections/mayoral-races/marianne-meed-ward-wins-burlington-mayor/article_8377a496-ae4a-50c5-a5a4-e025ca4626ae.html",
+      "domain": "insidehalton.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862117+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202610241838147461",
+      "title": "전쟁 · 관세 청구서 받아든 유권자 ... 트럼프 외교 심판대 올라 [ 11 · 3 중간선거 … 미국의 선택은 ]( 3 )",
+      "url": "https://www.fnnews.com/news/202610241838147461",
+      "domain": "fnnews.com",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862120+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.thedailytimes.com/community/daily-calendar-for-tuesday-oct-27-2026/article_69c0b1e9-d9a8-4b72-af93-c897b506ea9e.html",
+      "title": "Daily Calendar for Tuesday , Oct . 27 , 2026",
+      "url": "http://www.thedailytimes.com/community/daily-calendar-for-tuesday-oct-27-2026/article_69c0b1e9-d9a8-4b72-af93-c897b506ea9e.html",
+      "domain": "thedailytimes.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862122+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://jurnalul.ro/cultura/ce-inteles-are-numele-dolanescu-1047820.html",
+      "title": "Ce înțeles are numele Dolănescu",
+      "url": "https://jurnalul.ro/cultura/ce-inteles-are-numele-dolanescu-1047820.html",
+      "domain": "jurnalul.ro",
+      "seendate": "20261027T051500Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862124+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www1.wdr.de/politik/bundespraesident-wahl-steinmeier-aigner-kerkeling-100.html",
+      "title": "Bundespräsident : Was muss man für das Amt können ?",
+      "url": "https://www1.wdr.de/politik/bundespraesident-wahl-steinmeier-aigner-kerkeling-100.html",
+      "domain": "wdr.de",
+      "seendate": "20261027T051500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862126+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.elconfidencial.com/espana/galicia/2026-10-27/xunta-ayudas-medioambiente-fuegos-2025_4453399/",
+      "title": "La Xunta concede 400 . 000 euros para reponer los senderos , miradores y paneles que se llevó el fuego de 2025",
+      "url": "https://www.elconfidencial.com/espana/galicia/2026-10-27/xunta-ayudas-medioambiente-fuegos-2025_4453399/",
+      "domain": "elconfidencial.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862128+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://vnexpress.net/thu-tuong-israel-am-chi-noi-lai-tan-cong-iran-neu-dac-cu-5137233.html",
+      "title": "Thủ tướng Israel ám chỉ nối lại tấn công Iran nếu đắc cử",
+      "url": "https://vnexpress.net/thu-tuong-israel-am-chi-noi-lai-tan-cong-iran-neu-dac-cu-5137233.html",
+      "domain": "vnexpress.net",
+      "seendate": "20261027T051500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862131+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.tp24.it/2026/10/27/politica/petrosino-giovannella-licari-attacca-l-amministrazione-anastasi-e-scende-in-campo/241327",
+      "title": "Petrosino , Giovannella Licari attacca lamministrazione Anastasi e scende in campo",
+      "url": "https://www.tp24.it/2026/10/27/politica/petrosino-giovannella-licari-attacca-l-amministrazione-anastasi-e-scende-in-campo/241327",
+      "domain": "tp24.it",
+      "seendate": "20261027T051500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862133+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://elsiglo.com.ve/lula-esperanza-de-la-izquierda-y-pesadilla-de-trump-y-milei/",
+      "title": "Lula , esperanza de la izquierda y pesadilla de Trump y Milei",
+      "url": "https://elsiglo.com.ve/lula-esperanza-de-la-izquierda-y-pesadilla-de-trump-y-milei/",
+      "domain": "elsiglo.com.ve",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Venezuela",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862135+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://n.yam.com/Article/20261027843540",
+      "title": "光復連假臺南湧121萬人次 ！ 溫泉 、 美食與國際藝文帶動秋遊熱潮",
+      "url": "https://n.yam.com/Article/20261027843540",
+      "domain": "n.yam.com",
+      "seendate": "20261027T051500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862137+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://elpais.com/planeta-futuro/2026-10-27/la-responsabilidad-de-las-democracias-ante-la-salud-global.html",
+      "title": "La responsabilidad de las democracias ante la salud global",
+      "url": "https://elpais.com/planeta-futuro/2026-10-27/la-responsabilidad-de-las-democracias-ante-la-salud-global.html",
+      "domain": "elpais.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862140+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.mymuskokanow.com/151120/news/municipal-news/town-of-bracebridge/mayor-rick-maloney-re-elected-in-bracebridge/",
+      "title": "Mayor Rick Maloney re - elected in Bracebridge : My Muskoka Now",
+      "url": "https://www.mymuskokanow.com/151120/news/municipal-news/town-of-bracebridge/mayor-rick-maloney-re-elected-in-bracebridge/",
+      "domain": "mymuskokanow.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862142+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.insight.co.kr/news/579316",
+      "title": "與  주진우 , 의원직 내려놓고 사이버 렉카나 소설가 전향 어떻나",
+      "url": "https://www.insight.co.kr/news/579316",
+      "domain": "insight.co.kr",
+      "seendate": "20261027T051500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862144+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.morgenpost.de/kultur/tv-streaming/article413515404/hart-aber-fair-pflegende-angehoerige-zu-streeck-mir-platzt-der-kragenE2809D.html",
+      "title": "„ Hart aber fair : Pflegende Angehörige zu Streeck – „ Mir platzt der Kragen",
+      "url": "https://www.morgenpost.de/kultur/tv-streaming/article413515404/hart-aber-fair-pflegende-angehoerige-zu-streeck-mir-platzt-der-kragenE2809D.html",
+      "domain": "morgenpost.de",
+      "seendate": "20261027T051500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862146+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://elpais.com/espana/elecciones-generales/2026-10-27/pp-y-vox-una-alianza-clarificadora.html",
+      "title": "PP y Vox , una alianza clarificadora",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-27/pp-y-vox-una-alianza-clarificadora.html",
+      "domain": "elpais.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862149+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
+      "title": "Melania Trump - brokered one - city ceasefire between Russia and Ukraine takes effect",
+      "url": "https://cyprusnews.eu/cnn-kosmos/melania-trump-brokered-one-city-ceasefire-between-russia-and-ukraine-takes-effect/",
+      "domain": "cyprusnews.eu",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Greece",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862153+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://ottawasun.com/news/tim-tierney-beacon-hill-cyrville-ward",
+      "title": "Tim Tierney wins Beacon Hill - Cyrville Ward for fifth time",
+      "url": "https://ottawasun.com/news/tim-tierney-beacon-hill-cyrville-ward",
+      "domain": "ottawasun.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862155+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.haaretz.co.il/opinions/2026-10-27/ty-article-opinion/.premium/000001a1-789b-dd27-a1ef-fbfbeb200000",
+      "title": "החזרנו את מתן , היום בקלפי נחזיר גם את המדינה - דעות",
+      "url": "https://www.haaretz.co.il/opinions/2026-10-27/ty-article-opinion/.premium/000001a1-789b-dd27-a1ef-fbfbeb200000",
+      "domain": "haaretz.co.il",
+      "seendate": "20261027T051500Z",
+      "language": "Hebrew",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862157+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "http://www.jpost.com/diaspora/antisemitism/article-912987",
+      "title": "US rapper Macklemore opens  Free Palestine  tour in Dublin",
+      "url": "http://www.jpost.com/diaspora/antisemitism/article-912987",
+      "domain": "jpost.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Israel",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862159+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.stiripesurse.ro/boala-de-care-vor-suferi-11-milioane-de-romani-pana-in-2030_3931518",
+      "title": "Boala de care vor suferi 11 milioane de români până în 2030 . Tratamentele moderne rămân în continuare un lux pentru majoritatea familiilor",
+      "url": "https://www.stiripesurse.ro/boala-de-care-vor-suferi-11-milioane-de-romani-pana-in-2030_3931518",
+      "domain": "stiripesurse.ro",
+      "seendate": "20261027T051500Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862161+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.eastlondonadvertiser.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
+      "title": "Further disruption expected in Scotland as fresh weather warning in place",
+      "url": "https://www.eastlondonadvertiser.co.uk/news/national/26672177.disruption-expected-scotland-fresh-weather-warning-place/",
+      "domain": "eastlondonadvertiser.co.uk",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862164+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.vaildaily.com/news/deep-field-of-avon-town-council-candidates-seek-four-available-seats-on-nov-3/",
+      "title": "Deep field of Avon Town Council candidates seek four available seats on Nov . 3",
+      "url": "https://www.vaildaily.com/news/deep-field-of-avon-town-council-candidates-seek-four-available-seats-on-nov-3/",
+      "domain": "vaildaily.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862166+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-10/69941626-eqs-newswire-china-cosmetics-review-osm-wins-inpd-leading-grand-prize-showcasing-china-s-pearl-research-strength-to-the-world-023.htm",
+      "title": "EQS Newswire : China Cosmetics Review : OSM Wins INPD Leading Grand Prize , Showcasing China Pearl Research Strength to the World",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69941626-eqs-newswire-china-cosmetics-review-osm-wins-inpd-leading-grand-prize-showcasing-china-s-pearl-research-strength-to-the-world-023.htm",
+      "domain": "finanznachrichten.de",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Germany",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862168+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://maharashtratimes.com/maharashtra/mumbai-news/central-railway-3-youths-created-tc-fake-railway-id-cards-to-travel-for-free-on-ac-local-trains/articleshow/135223250.cms",
+      "title": "Mumbai AC Local : एसी लोकलसाठी जुगाड , मध्य रेल्वेवर तीन बहाद्दरांनी चक्क बनवलं बनावट आयडी , एका चुकीनं फसले",
+      "url": "https://maharashtratimes.com/maharashtra/mumbai-news/central-railway-3-youths-created-tc-fake-railway-id-cards-to-travel-for-free-on-ac-local-trains/articleshow/135223250.cms",
+      "domain": "maharashtratimes.com",
+      "seendate": "20261027T051500Z",
+      "language": "Marathi",
+      "sourcecountry": "India",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862170+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.greenocktelegraph.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/",
+      "title": "Supreme Court to hear Government appeal in Sean Brown public inquiry case",
+      "url": "https://www.greenocktelegraph.co.uk/news/national/26672175.supreme-court-hear-government-appeal-sean-brown-public-inquiry-case/",
+      "domain": "greenocktelegraph.co.uk",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862174+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.torquenews.com/1/he-flew-texas-last-cadillac-ct5-v-country-drove-it-1400-miles-home-and-traded-his-range-rover",
+      "title": "Man Flew to Texas for the Last Cadillac CT5 - V in the Country , Drove It 1 , 400 Miles Home and Traded His Range Rover for an Escalade the Next Weekend",
+      "url": "https://www.torquenews.com/1/he-flew-texas-last-cadillac-ct5-v-country-drove-it-1400-miles-home-and-traded-his-range-rover",
+      "domain": "torquenews.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862176+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://pakobserver.net/pakistan-president-pm-reaffirm-support-for-iiojk-people-on-black-day/",
+      "title": "Pakistan President , PM reaffirm support for IIOJK people on Black Day",
+      "url": "https://pakobserver.net/pakistan-president-pm-reaffirm-support-for-iiojk-people-on-black-day/",
+      "domain": "pakobserver.net",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862178+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://periodicocorreo.com.mx/celaya/2026/oct/26/celaya-mantiene-en-pausa-aumento-salarial-y-prestaciones-de-trabajadores-municipales-170106.html",
+      "title": "Celaya mantiene en pausa aumento salarial y prestaciones de trabajadores municipales",
+      "url": "https://periodicocorreo.com.mx/celaya/2026/oct/26/celaya-mantiene-en-pausa-aumento-salarial-y-prestaciones-de-trabajadores-municipales-170106.html",
+      "domain": "periodicocorreo.com.mx",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862181+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://tribune.com.pk/story/2637089/pti-accuses-govt-of-political-vendetta",
+      "title": "PTI accuses govt of political vendetta",
+      "url": "https://tribune.com.pk/story/2637089/pti-accuses-govt-of-political-vendetta",
+      "domain": "tribune.com.pk",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862183+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+      "title": "Oil Companies Warned Over Russian Diesel Imports | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
+      "url": "https://newstalk1400online.iheart.com/content/2026-10-27-oil-companies-warned-over-russian-diesel-imports/",
+      "domain": "newstalk1400online.iheart.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862185+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://kazanfirst.ru/news/v-rossii-obsuzhdayut-zapret-vygula-sobak-opasnyh-porod-dlya-pyanyh-hozyaev-i-detej-mladshe-16-let",
+      "title": "В России пьяным и подросткам младше 16 хотят запретить выгуливать опасных собак 27 / 10 / 2026 – Новости",
+      "url": "https://kazanfirst.ru/news/v-rossii-obsuzhdayut-zapret-vygula-sobak-opasnyh-porod-dlya-pyanyh-hozyaev-i-detej-mladshe-16-let",
+      "domain": "kazanfirst.ru",
+      "seendate": "20261027T051500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862187+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://news.pedaily.cn/202610/570898.shtml",
+      "title": "马斯克在天上赚疯了 ， 中国独角兽杀入核心赛道 ， 卡位万亿命门",
+      "url": "https://news.pedaily.cn/202610/570898.shtml",
+      "domain": "news.pedaily.cn",
+      "seendate": "20261027T051500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862189+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://unn.ua/news/velyka-brytaniia-mozhe-povernutysia-do-yes-uriad-bernema-rozpochav-perehovory-z-briusselem",
+      "title": "Велика Британія може повернутися до ЄС – уряд Бернема розпочав переговори з Брюсселем",
+      "url": "https://unn.ua/news/velyka-brytaniia-mozhe-povernutysia-do-yes-uriad-bernema-rozpochav-perehovory-z-briusselem",
+      "domain": "unn.ua",
+      "seendate": "20261027T051500Z",
+      "language": "Ukrainian",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862192+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.chattanoogan.com/2026/10/26/525266/Vince-Dooley-Battlefield-Trust-Fund.aspx",
+      "title": "Vince Dooley Battlefield Trust Fund Helps Preserve Over 300 Acres At Resaca Battlefield",
+      "url": "https://www.chattanoogan.com/2026/10/26/525266/Vince-Dooley-Battlefield-Trust-Fund.aspx",
+      "domain": "chattanoogan.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862194+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.bfmtv.com/immobilier/credit-emprunt/si-la-hausse-se-poursuit-on-va-vers-les-5-debut-2027-les-taux-des-credits-immobiliers-accelerent-leur-remontee-et-bloquent-desormais-certains-profils-de-plus-de-40-ans_AV-202610270067.html",
+      "title": "Si la hausse se poursuit , on va vers les 5 % début 2027 : les taux des crédits immobiliers accélèrent leur remontée et bloquent désormais certains profils de plus de 40 ans",
+      "url": "https://www.bfmtv.com/immobilier/credit-emprunt/si-la-hausse-se-poursuit-on-va-vers-les-5-debut-2027-les-taux-des-credits-immobiliers-accelerent-leur-remontee-et-bloquent-desormais-certains-profils-de-plus-de-40-ans_AV-202610270067.html",
+      "domain": "bfmtv.com",
+      "seendate": "20261027T051500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862196+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.insidehalton.com/news/municipal-elections/mayoral-races/oakville-jeff-knoll-mayor-election/article_d58e3d92-72cc-50a9-96e0-518743bad2d7.html",
+      "title": "Jeff Knoll ousts 5 - term incumbent Oakville Mayor Rob Burton",
+      "url": "https://www.insidehalton.com/news/municipal-elections/mayoral-races/oakville-jeff-knoll-mayor-election/article_d58e3d92-72cc-50a9-96e0-518743bad2d7.html",
+      "domain": "insidehalton.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862200+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.channel3000.com/news/harris-campaigns-for-crowley-as-tiffany-tours-wisconsin-in-governors-race/article_ac6ce846-2010-4893-be75-a9264b0984cc.html",
+      "title": "Harris campaigns for Crowley as Tiffany tours Wisconsin in governor race",
+      "url": "https://www.channel3000.com/news/harris-campaigns-for-crowley-as-tiffany-tours-wisconsin-in-governors-race/article_ac6ce846-2010-4893-be75-a9264b0984cc.html",
+      "domain": "channel3000.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862202+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
+      "title": "Money Flows To SD Senate Race As Independent Challenges Republican Incumbent",
+      "url": "https://www.yankton.net/community/article_df41d1ce-0cf2-4aba-9774-73f3157980fc.html",
+      "domain": "yankton.net",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862204+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.elconfidencial.com/deportes/futbol/2026-10-27/real-madrid-balon-de-oro-butragueno-reconciliacion-vinicius_4453359/",
+      "title": "Dos años de boicot y una paz negociada : el Real Madrid se reconcilia con el Balón de Oro pese a la derrota de Mbappé",
+      "url": "https://www.elconfidencial.com/deportes/futbol/2026-10-27/real-madrid-balon-de-oro-butragueno-reconciliacion-vinicius_4453359/",
+      "domain": "elconfidencial.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862206+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
+      "title": "14 October 2026 changes affecting residents in France",
+      "url": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
+      "domain": "connexionfrance.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "France",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862209+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.tp24.it/notizie-inchieste-eventi-a-trapani/petrosino-giovannella-licari-attacca-l-amministrazione-anastasi-e-scende-in-campo/241327",
+      "title": "Petrosino , Giovannella Licari attacca lamministrazione Anastasi e scende in campo",
+      "url": "https://www.tp24.it/notizie-inchieste-eventi-a-trapani/petrosino-giovannella-licari-attacca-l-amministrazione-anastasi-e-scende-in-campo/241327",
+      "domain": "tp24.it",
+      "seendate": "20261027T051500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862211+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
+      "title": "Early voting counts down as candidates are hot on the campaign trail",
+      "url": "https://www.atlantanewsfirst.com/2026/10/27/early-voting-counts-down-candidates-are-hot-campaign-trail/",
+      "domain": "atlantanewsfirst.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862213+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.wirtualnemedia.pl/burda-bez-szefa-sprzedazy-tomasz-kuisz-odchodzi-po-7-miesiacach-nasz-news,7344342708287520a",
+      "title": "Burda bez szefa sprzedaży . Tomasz Kuisz odchodzi po 7 miesiącach [ NASZ NEWS ]",
+      "url": "https://www.wirtualnemedia.pl/burda-bez-szefa-sprzedazy-tomasz-kuisz-odchodzi-po-7-miesiacach-nasz-news,7344342708287520a",
+      "domain": "wirtualnemedia.pl",
+      "seendate": "20261027T051500Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862215+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
+      "title": "Σε μια εβδομάδα να τελειώνουμε με τις παλαβομάρες ...",
+      "url": "https://www.politis.com.cy/apopseis/1058493/se-mia-evdomada-na-teleiwnoyme-me-tis-palavomares",
+      "domain": "politis.com.cy",
+      "seendate": "20261027T051500Z",
+      "language": "Greek",
+      "sourcecountry": "Cyprus",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862217+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://pakobserver.net/ai-must-learn-to-speak-the-language-of-the-people-i/",
+      "title": "AI Must learn to speak the language of the people I",
+      "url": "https://pakobserver.net/ai-must-learn-to-speak-the-language-of-the-people-i/",
+      "domain": "pakobserver.net",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862220+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://mimorelia.com/morelia/recuperacion-del-hospital-vasco-quiroga-del-issste-morelia-va-al-80-n5595864",
+      "title": "Recuperación del Hospital Vasco de Quiroga del ISSSTE en Morelia va al 80 %",
+      "url": "https://mimorelia.com/morelia/recuperacion-del-hospital-vasco-quiroga-del-issste-morelia-va-al-80-n5595864",
+      "domain": "mimorelia.com",
+      "seendate": "20261027T051500Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862222+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://udn.com/news/story/6809/9839102",
+      "title": "川普施壓 ！ 日本擬解禁美國生鮮馬鈴薯進口 官方急搬台韓救援 | 國際焦點 | 全球",
+      "url": "https://udn.com/news/story/6809/9839102",
+      "domain": "udn.com",
+      "seendate": "20261027T051500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862226+00:00",
+      "topics": [
+        "politics"
+      ]
+    },
+    {
+      "id": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
+      "title": "Seven days to the midterms . What at stake in Pennsylvania . | Local News",
+      "url": "https://www.phillytrib.com/news/local_news/seven-days-to-the-midterms-what-s-at-stake-in-pennsylvania/article_26a06a2a-8000-4051-8cce-3077283a2fe8.html",
+      "domain": "phillytrib.com",
+      "seendate": "20261027T051500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "politics",
+      "fetched_at": "2026-10-28T12:54:56.862228+00:00",
+      "topics": [
+        "politics"
+      ]
+    }
+  ]
 }
