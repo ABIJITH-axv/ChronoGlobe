@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T05:41:52.425500+00:00",
+  "generated_at": "2026-10-31T12:29:43.822443+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
@@ -15,7 +15,7 @@
       "language": "Hebrew",
       "sourcecountry": "Israel",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526212+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831774+00:00",
       "topics": [
         "law"
       ]
@@ -29,7 +29,7 @@
       "language": "Vietnamese",
       "sourcecountry": "Vietnam",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526235+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831801+00:00",
       "topics": [
         "law"
       ]
@@ -43,7 +43,7 @@
       "language": "English",
       "sourcecountry": "Australia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526238+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831805+00:00",
       "topics": [
         "law"
       ]
@@ -57,7 +57,7 @@
       "language": "English",
       "sourcecountry": "Israel",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526240+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831808+00:00",
       "topics": [
         "law"
       ]
@@ -71,7 +71,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526243+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831811+00:00",
       "topics": [
         "law"
       ]
@@ -85,7 +85,7 @@
       "language": "Polish",
       "sourcecountry": "Poland",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526245+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831814+00:00",
       "topics": [
         "law"
       ]
@@ -99,7 +99,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526246+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831816+00:00",
       "topics": [
         "law"
       ]
@@ -113,7 +113,7 @@
       "language": "English",
       "sourcecountry": "Israel",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526248+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831818+00:00",
       "topics": [
         "law"
       ]
@@ -127,7 +127,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526249+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831821+00:00",
       "topics": [
         "law"
       ]
@@ -141,7 +141,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526253+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831837+00:00",
       "topics": [
         "law"
       ]
@@ -155,7 +155,7 @@
       "language": "Turkish",
       "sourcecountry": "Turkey",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526254+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831840+00:00",
       "topics": [
         "law"
       ]
@@ -169,7 +169,7 @@
       "language": "Spanish",
       "sourcecountry": "Mexico",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526256+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831842+00:00",
       "topics": [
         "law"
       ]
@@ -183,7 +183,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526257+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831844+00:00",
       "topics": [
         "law"
       ]
@@ -197,7 +197,7 @@
       "language": "Vietnamese",
       "sourcecountry": "Vietnam",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526259+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831847+00:00",
       "topics": [
         "law"
       ]
@@ -211,7 +211,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526260+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831849+00:00",
       "topics": [
         "law"
       ]
@@ -225,7 +225,7 @@
       "language": "English",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526262+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831851+00:00",
       "topics": [
         "law"
       ]
@@ -239,7 +239,7 @@
       "language": "English",
       "sourcecountry": "United Kingdom",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526263+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831853+00:00",
       "topics": [
         "law"
       ]
@@ -253,7 +253,7 @@
       "language": "English",
       "sourcecountry": "Pakistan",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526265+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831855+00:00",
       "topics": [
         "law"
       ]
@@ -267,7 +267,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526267+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831858+00:00",
       "topics": [
         "law"
       ]
@@ -281,7 +281,7 @@
       "language": "English",
       "sourcecountry": "Australia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526270+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831870+00:00",
       "topics": [
         "law"
       ]
@@ -295,7 +295,7 @@
       "language": "Italian",
       "sourcecountry": "Italy",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526271+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831872+00:00",
       "topics": [
         "law"
       ]
@@ -309,7 +309,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526273+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831875+00:00",
       "topics": [
         "law"
       ]
@@ -323,7 +323,7 @@
       "language": "Greek",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526275+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831879+00:00",
       "topics": [
         "law"
       ]
@@ -337,7 +337,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526277+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831881+00:00",
       "topics": [
         "law"
       ]
@@ -351,7 +351,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526278+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831884+00:00",
       "topics": [
         "law"
       ]
@@ -365,7 +365,7 @@
       "language": "French",
       "sourcecountry": "Canada",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526280+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831886+00:00",
       "topics": [
         "law"
       ]
@@ -379,7 +379,7 @@
       "language": "Greek",
       "sourcecountry": "Cyprus",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526281+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831888+00:00",
       "topics": [
         "law"
       ]
@@ -393,7 +393,7 @@
       "language": "Arabic",
       "sourcecountry": "Egypt",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526283+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831891+00:00",
       "topics": [
         "law"
       ]
@@ -407,7 +407,7 @@
       "language": "Greek",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526284+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831893+00:00",
       "topics": [
         "law"
       ]
@@ -421,7 +421,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526286+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831895+00:00",
       "topics": [
         "law"
       ]
@@ -435,7 +435,7 @@
       "language": "Dutch",
       "sourcecountry": "Netherlands",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526287+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831897+00:00",
       "topics": [
         "law"
       ]
@@ -449,7 +449,7 @@
       "language": "English",
       "sourcecountry": "Malaysia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526289+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831899+00:00",
       "topics": [
         "law"
       ]
@@ -463,7 +463,7 @@
       "language": "Italian",
       "sourcecountry": "Italy",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526290+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831902+00:00",
       "topics": [
         "law"
       ]
@@ -477,7 +477,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526291+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831906+00:00",
       "topics": [
         "law"
       ]
@@ -491,7 +491,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526293+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831908+00:00",
       "topics": [
         "law"
       ]
@@ -505,7 +505,7 @@
       "language": "Spanish",
       "sourcecountry": "Mexico",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526294+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831910+00:00",
       "topics": [
         "law"
       ]
@@ -519,7 +519,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526296+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831912+00:00",
       "topics": [
         "law"
       ]
@@ -533,7 +533,7 @@
       "language": "Greek",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526298+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831915+00:00",
       "topics": [
         "law"
       ]
@@ -547,7 +547,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526300+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831919+00:00",
       "topics": [
         "law"
       ]
@@ -561,7 +561,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526302+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831921+00:00",
       "topics": [
         "law"
       ]
@@ -575,7 +575,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526303+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831924+00:00",
       "topics": [
         "law"
       ]
@@ -589,7 +589,7 @@
       "language": "Russian",
       "sourcecountry": "",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526305+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831926+00:00",
       "topics": [
         "law"
       ]
@@ -603,7 +603,7 @@
       "language": "English",
       "sourcecountry": "Malaysia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526306+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831929+00:00",
       "topics": [
         "law"
       ]
@@ -617,7 +617,7 @@
       "language": "Polish",
       "sourcecountry": "Poland",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526308+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831931+00:00",
       "topics": [
         "law"
       ]
@@ -631,7 +631,7 @@
       "language": "English",
       "sourcecountry": "Canada",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526309+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831934+00:00",
       "topics": [
         "law"
       ]
@@ -645,7 +645,7 @@
       "language": "English",
       "sourcecountry": "United Kingdom",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526311+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831936+00:00",
       "topics": [
         "law"
       ]
@@ -659,7 +659,7 @@
       "language": "Polish",
       "sourcecountry": "Poland",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526312+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831938+00:00",
       "topics": [
         "law"
       ]
@@ -673,7 +673,7 @@
       "language": "Norwegian",
       "sourcecountry": "Norway",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526313+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831940+00:00",
       "topics": [
         "law"
       ]
@@ -687,7 +687,7 @@
       "language": "English",
       "sourcecountry": "United Kingdom",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526315+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831942+00:00",
       "topics": [
         "law"
       ]
@@ -701,7 +701,7 @@
       "language": "Indonesian",
       "sourcecountry": "Indonesia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526316+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831944+00:00",
       "topics": [
         "law"
       ]
@@ -715,7 +715,7 @@
       "language": "Indonesian",
       "sourcecountry": "Indonesia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526318+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831946+00:00",
       "topics": [
         "law"
       ]
@@ -729,7 +729,7 @@
       "language": "Spanish",
       "sourcecountry": "Argentina",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526319+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831949+00:00",
       "topics": [
         "law"
       ]
@@ -743,7 +743,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526321+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831951+00:00",
       "topics": [
         "law"
       ]
@@ -757,7 +757,7 @@
       "language": "English",
       "sourcecountry": "United Kingdom",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526322+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831953+00:00",
       "topics": [
         "law"
       ]
@@ -771,7 +771,7 @@
       "language": "English",
       "sourcecountry": "United Kingdom",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526323+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831955+00:00",
       "topics": [
         "law"
       ]
@@ -785,7 +785,7 @@
       "language": "Spanish",
       "sourcecountry": "Mexico",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526325+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831958+00:00",
       "topics": [
         "law"
       ]
@@ -799,7 +799,7 @@
       "language": "Greek",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526337+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831960+00:00",
       "topics": [
         "law"
       ]
@@ -813,7 +813,7 @@
       "language": "Turkish",
       "sourcecountry": "Turkey",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526340+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831962+00:00",
       "topics": [
         "law"
       ]
@@ -827,7 +827,7 @@
       "language": "Italian",
       "sourcecountry": "Italy",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526343+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831966+00:00",
       "topics": [
         "law"
       ]
@@ -841,7 +841,7 @@
       "language": "English",
       "sourcecountry": "Canada",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526344+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831968+00:00",
       "topics": [
         "law"
       ]
@@ -855,7 +855,7 @@
       "language": "English",
       "sourcecountry": "Pakistan",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526346+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831971+00:00",
       "topics": [
         "law"
       ]
@@ -869,7 +869,7 @@
       "language": "Ukrainian",
       "sourcecountry": "Ukraine",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526347+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831973+00:00",
       "topics": [
         "law"
       ]
@@ -883,7 +883,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526349+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831975+00:00",
       "topics": [
         "law"
       ]
@@ -897,7 +897,7 @@
       "language": "Dutch",
       "sourcecountry": "Netherlands",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526350+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831977+00:00",
       "topics": [
         "law"
       ]
@@ -911,7 +911,7 @@
       "language": "English",
       "sourcecountry": "United States",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526352+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831979+00:00",
       "topics": [
         "law"
       ]
@@ -925,7 +925,7 @@
       "language": "Vietnamese",
       "sourcecountry": "Vietnam",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526353+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831983+00:00",
       "topics": [
         "law"
       ]
@@ -939,7 +939,7 @@
       "language": "Korean",
       "sourcecountry": "South Korea",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526355+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831986+00:00",
       "topics": [
         "law"
       ]
@@ -953,7 +953,7 @@
       "language": "Greek",
       "sourcecountry": "Cyprus",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526356+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831988+00:00",
       "topics": [
         "law"
       ]
@@ -967,7 +967,7 @@
       "language": "Greek",
       "sourcecountry": "Cyprus",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526359+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831990+00:00",
       "topics": [
         "law"
       ]
@@ -981,7 +981,7 @@
       "language": "Arabic",
       "sourcecountry": "Libya",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526360+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831992+00:00",
       "topics": [
         "law"
       ]
@@ -995,7 +995,7 @@
       "language": "English",
       "sourcecountry": "Canada",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526361+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831995+00:00",
       "topics": [
         "law"
       ]
@@ -1009,7 +1009,7 @@
       "language": "Russian",
       "sourcecountry": "Russia",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526364+00:00",
+      "fetched_at": "2026-10-31T12:29:04.831999+00:00",
       "topics": [
         "law"
       ]
@@ -1023,7 +1023,7 @@
       "language": "Spanish",
       "sourcecountry": "Spain",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526365+00:00",
+      "fetched_at": "2026-10-31T12:29:04.832001+00:00",
       "topics": [
         "law"
       ]
@@ -1037,7 +1037,7 @@
       "language": "English",
       "sourcecountry": "India",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526367+00:00",
+      "fetched_at": "2026-10-31T12:29:04.832003+00:00",
       "topics": [
         "law"
       ]
@@ -1051,7 +1051,7 @@
       "language": "Greek",
       "sourcecountry": "Greece",
       "topic": "law",
-      "fetched_at": "2026-10-31T05:40:57.526368+00:00",
+      "fetched_at": "2026-10-31T12:29:04.832005+00:00",
       "topics": [
         "law"
       ]
