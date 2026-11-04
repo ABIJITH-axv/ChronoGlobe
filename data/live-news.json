@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T06:23:08.611957+00:00",
+  "generated_at": "2026-11-04T19:46:15.018155+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://oxfordamerican.org/magazine/issue-133-134-summer-fall-2026/bill-mccullough-austin-texas-photos",
+      "title": "Oxford American | My Neighborhood",
+      "url": "https://oxfordamerican.org/magazine/issue-133-134-summer-fall-2026/bill-mccullough-austin-texas-photos",
+      "domain": "oxfordamerican.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951588+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.eleconomista.com.mx/autos/mazda-cx-90-phev-2027-prueba-mexico-suv-hibrida-cuyo-mayor-pecado-autonomia-electrica-20261103-841991.html",
+      "title": "Mazda CX - 90 PHEV 2027 a prueba en México , la SUV híbrida cuyo mayor pecado es su autonomía eléctrica",
+      "url": "https://www.eleconomista.com.mx/autos/mazda-cx-90-phev-2027-prueba-mexico-suv-hibrida-cuyo-mayor-pecado-autonomia-electrica-20261103-841991.html",
+      "domain": "eleconomista.com.mx",
+      "seendate": "20261104T013000Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951611+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://europe.chinadaily.com.cn/a/202611/03/WS6ae9cf8fe4b06d4aa0566d37.html",
+      "title": "Former China Eastern chief jailed for 14 years for bribery",
+      "url": "http://europe.chinadaily.com.cn/a/202611/03/WS6ae9cf8fe4b06d4aa0566d37.html",
+      "domain": "europe.chinadaily.com.cn",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951616+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.jagran.com/uttar-pradesh/noida-noida-air-pollution-grap2-restrictions-ignored-aqi-poor-40426737.html",
+      "title": "ग्रेप - 2 के बावजूद नोएडा की हवा जहरीली , प्रशासनिक लापरवाही से उड़ाई जा रही नियमों की धज्जियां - noida air pollution grap2 restrictions ignored aqi poor",
+      "url": "https://www.jagran.com/uttar-pradesh/noida-noida-air-pollution-grap2-restrictions-ignored-aqi-poor-40426737.html",
+      "domain": "jagran.com",
+      "seendate": "20261104T013000Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951621+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.aol.co.uk/articles/michael-jackson-estate-battle-timeline-003633000.html",
+      "title": "Michael Jackson estate battle : A timeline of the feud between star daughter Paris and executors",
+      "url": "https://www.aol.co.uk/articles/michael-jackson-estate-battle-timeline-003633000.html",
+      "domain": "aol.co.uk",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951624+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes-1.1761532",
+      "title": "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes",
+      "url": "https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/camara-de-sp-arquiva-pedido-de-impeachment-contra-ricardo-nunes-1.1761532",
+      "domain": "correiodopovo.com.br",
+      "seendate": "20261104T013000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951627+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead/",
+      "title": "Beware the  Red Mirage  if California Republicans Have an Election Night Lead",
+      "url": "https://www.northcoastjournal.com/news-2/news-blog/beware-the-red-mirage-if-california-republicans-have-an-election-night-lead/",
+      "domain": "northcoastjournal.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951632+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.whio.com/news/local/miami-county-voters-decide-tax-levy/LD7SSAN4SZACLB2F54WYLPDOQE/",
+      "title": "ELECTION 2026 : Miami County sees large voter turnout",
+      "url": "https://www.whio.com/news/local/miami-county-voters-decide-tax-levy/LD7SSAN4SZACLB2F54WYLPDOQE/",
+      "domain": "whio.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951636+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://stock.jrj.com.cn/2026/11/04083059002910.shtml",
+      "title": "11月4日A股避雷针 ： 三星新材因涉嫌信息披露违法违规被证监会立案 ， 山鹰国际实际控制人因涉嫌内幕交易和短线交易被证监会立案",
+      "url": "https://stock.jrj.com.cn/2026/11/04083059002910.shtml",
+      "domain": "stock.jrj.com.cn",
+      "seendate": "20261104T013000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951639+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.guimaraesdigital.pt/index.php/informacao/opiniao-quinzenal/102647-cumprir-e-transformar-1-ano-de-mandato-parte-2",
+      "title": "Cumprir e transformar : 1 ano de mandato ( parte 2 )",
+      "url": "https://www.guimaraesdigital.pt/index.php/informacao/opiniao-quinzenal/102647-cumprir-e-transformar-1-ano-de-mandato-parte-2",
+      "domain": "guimaraesdigital.pt",
+      "seendate": "20261104T013000Z",
+      "language": "Portuguese",
+      "sourcecountry": "",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951642+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://lactualite.com/actualites/abattage-des-autruches-la-ferme-poursuit-le-federal-lacia-et-la-grc-pour-200-m/",
+      "title": "Abattage des autruches : la ferme poursuit le fédéral , lACIA et la GRC pour 200 M$",
+      "url": "https://lactualite.com/actualites/abattage-des-autruches-la-ferme-poursuit-le-federal-lacia-et-la-grc-pour-200-m/",
+      "domain": "lactualite.com",
+      "seendate": "20261104T013000Z",
+      "language": "French",
+      "sourcecountry": "Canada",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951645+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://stock.jrj.com.cn/2026/11/04072959002337.shtml",
+      "title": "A股头条 ： 接盘资金来了 ， 数百亿级别券商资金已集结 ； 中际旭创  小作文  被澄清 ， 英伟达产业链利空发酵 ， 两融余额降至冰点 - A股头条 - 金融界",
+      "url": "https://stock.jrj.com.cn/2026/11/04072959002337.shtml",
+      "domain": "stock.jrj.com.cn",
+      "seendate": "20261104T013000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951647+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.wfsb.com/2026/11/03/technical-discussion-near-record-warmth-plus-an-end-dry-stretch/",
+      "title": "Technical Discussion : Record warmth , plus an end to the long dry stretch",
+      "url": "https://www.wfsb.com/2026/11/03/technical-discussion-near-record-warmth-plus-an-end-dry-stretch/",
+      "domain": "wfsb.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951650+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://adevarul.ro/stiri-externe/sua/pe-masura-ce-se-incheie-scrutinul-pe-pamant-trump-2568749.html",
+      "title": "Pe măsură ce se încheie scrutinul pe Pământ , Trump revendică explorarea și dezvoltarea spațiului cosmic în numele întregii umanități",
+      "url": "https://adevarul.ro/stiri-externe/sua/pe-masura-ce-se-incheie-scrutinul-pe-pamant-trump-2568749.html",
+      "domain": "adevarul.ro",
+      "seendate": "20261104T013000Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951653+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.jagran.com/politics/national-rahul-gandhi-issues-another-challenge-for-a-debate-nirmala-sitharaman-responds-40426727.html",
+      "title": "राहुल गांधी ने प्रधानमंत्री को फिर दी खुली बहस की चुनौती , निर्मला सीतारमण का पलटवार - rahul gandhi issues another challenge for a debate nirmala sitharaman responds",
+      "url": "https://www.jagran.com/politics/national-rahul-gandhi-issues-another-challenge-for-a-debate-nirmala-sitharaman-responds-40426727.html",
+      "domain": "jagran.com",
+      "seendate": "20261104T013000Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951656+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+      "title": "Midterm Elections Live Updates : Ossoff Retains Georgia Senate Seat , as Polls Close in More Battlegrounds",
+      "url": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump/were-watching-several-areas-in-texas-as-polls-close-there",
+      "domain": "nytimes.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951659+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+      "title": "Democratic Sen . Jon Ossoff cruises to re - election in Georgia",
+      "url": "https://www.nbcnewyork.com/elections/georgia-senate-race-2026/6567183/",
+      "domain": "nbcnewyork.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951661+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://udn.com/news/story/6811/9855856",
+      "title": "傳美限制對中晶片設備出口 SK海力士紐約投資計畫受阻 | 全球財經 | 全球",
+      "url": "https://udn.com/news/story/6811/9855856",
+      "domain": "udn.com",
+      "seendate": "20261104T013000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951664+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+      "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
+      "url": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
+      "domain": "nytimes.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951666+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.elmundo.es/espana/2026/11/04/6aea5cf9fdddffbb3e8b45d0.html",
+      "title": "Óscar Puente se deja caer",
+      "url": "https://www.elmundo.es/espana/2026/11/04/6aea5cf9fdddffbb3e8b45d0.html",
+      "domain": "elmundo.es",
+      "seendate": "20261104T013000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951669+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
+      "title": "US midterms in charts : What the data tells us",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886",
+      "domain": "dw.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951672+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways/",
+      "title": "Cost of living , economy and unhappiness with Trump job performance among early voting takeaways",
+      "url": "https://www.wthitv.com:443/2026/11/03/cost-living-economy-unhappiness-with-trumps-job-performance-among-early-voting-takeaways/",
+      "domain": "wthitv.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951674+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.yeniasya.com.tr/gundem/memur-sen-den-enflasyon-tepkisi-gelirimiz-kontrolsuz-bicimde-dusuyor_628038",
+      "title": "Memur - Senden enflasyon tepkisi :  Gelirimiz kontrolsüz biçimde düşüyor",
+      "url": "https://www.yeniasya.com.tr/gundem/memur-sen-den-enflasyon-tepkisi-gelirimiz-kontrolsuz-bicimde-dusuyor_628038",
+      "domain": "yeniasya.com.tr",
+      "seendate": "20261104T013000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951679+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+      "title": "US to cut Israel military aid by end of year , Trump says",
+      "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860",
+      "domain": "dw.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951682+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.eleconomista.com.mx/politica/ine-dara-vista-fgr-sobre-presuntas-irregularidades-blanca-cruz-20261103-841985.html",
+      "title": "INE dará vista a la FGR sobre presuntas irregularidades : Blanca Cruz",
+      "url": "https://www.eleconomista.com.mx/politica/ine-dara-vista-fgr-sobre-presuntas-irregularidades-blanca-cruz-20261103-841985.html",
+      "domain": "eleconomista.com.mx",
+      "seendate": "20261104T013000Z",
+      "language": "Spanish",
+      "sourcecountry": "Mexico",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951684+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
+      "title": "Election Day 2026 : Photos from around the country",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/election-day-2026-photos-from-around-the-country",
+      "domain": "wxxinews.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951687+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://pqbnews.com/2026/11/03/union-of-b-c-municipalities-appoints-new-president-after-incumbent-loses-mayoral-race/",
+      "title": "Union of B . C . Municipalities appoints new president after incumbent loses mayoral race",
+      "url": "https://pqbnews.com/2026/11/03/union-of-b-c-municipalities-appoints-new-president-after-incumbent-loses-mayoral-race/",
+      "domain": "pqbnews.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951691+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/elecciones-en-estados-unidos-emisarios-de-milei-siguen-el-escrutinio-junto-al-embajador_609894",
+      "title": "Elecciones en Estados Unidos : emisarios de Milei siguen el escrutinio junto al embajador",
+      "url": "https://www.cadena3.com/noticia/elecciones-en-eeuu-2026/elecciones-en-estados-unidos-emisarios-de-milei-siguen-el-escrutinio-junto-al-embajador_609894",
+      "domain": "cadena3.com",
+      "seendate": "20261104T013000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951694+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.politika.rs/scc/clanak/799563/pomilovani-za-napada-na-kapitol-pretio-ubistvom-sudijama",
+      "title": "Помиловани за напада на Капитол претио убиством судијама",
+      "url": "https://www.politika.rs/scc/clanak/799563/pomilovani-za-napada-na-kapitol-pretio-ubistvom-sudijama",
+      "domain": "politika.rs",
+      "seendate": "20261104T013000Z",
+      "language": "Serbian",
+      "sourcecountry": "Serbia",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951696+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://coastalcourier.com/news/baker-takes-commanding-lead-in-early-voting-for-1st-district-seat/",
+      "title": "Baker takes commanding lead in early voting for 1st District seat",
+      "url": "https://coastalcourier.com/news/baker-takes-commanding-lead-in-early-voting-for-1st-district-seat/",
+      "domain": "coastalcourier.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951699+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.irishnews.com/news/northern-ireland/almost-200000-people-in-northern-ireland-at-risk-of-needing-to-use-food-banks-charity-says-GDWYYG47M5CNVA5PLVRUSVOZTY/",
+      "title": "Almost 200 , 000 people in Northern Ireland at risk of needing to use food banks , charity says",
+      "url": "https://www.irishnews.com/news/northern-ireland/almost-200000-people-in-northern-ireland-at-risk-of-needing-to-use-food-banks-charity-says-GDWYYG47M5CNVA5PLVRUSVOZTY/",
+      "domain": "irishnews.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951702+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.impartialreporter.com/news/national/26696552.swinney-backs-rules-people-limited-leave-remain-standing-election/",
+      "title": "Swinney backs rules on people with limited leave to remain standing for election",
+      "url": "https://www.impartialreporter.com/news/national/26696552.swinney-backs-rules-people-limited-leave-remain-standing-election/",
+      "domain": "impartialreporter.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951705+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611040611326859",
+      "title": "세금은 내는데 건보료는 제외 … 분리과세소득에 건보료 부과 검토",
+      "url": "https://www.fnnews.com/news/202611040611326859",
+      "domain": "fnnews.com",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951709+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.bostonherald.com/2026/11/03/obit-shaker-sister/",
+      "title": "Sister June Carpenter , one of the few remaining Shakers , dies in Maine . She was 88",
+      "url": "https://www.bostonherald.com/2026/11/03/obit-shaker-sister/",
+      "domain": "bostonherald.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951712+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.bostonherald.com/2026/11/03/battenfeld-election-credibility-on-the-line-from-maine-to-alaska/",
+      "title": "Election credibility at stake , from Maine to Alaska",
+      "url": "https://www.bostonherald.com/2026/11/03/battenfeld-election-credibility-on-the-line-from-maine-to-alaska/",
+      "domain": "bostonherald.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951716+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://finance.eastmoney.com/a/202611043920988388.html",
+      "title": "有色 / 贵金属 | 11月份若黄金出现反弹契机 银铂钯价格也将会有所修复 _ 东方财富网",
+      "url": "https://finance.eastmoney.com/a/202611043920988388.html",
+      "domain": "finance.eastmoney.com",
+      "seendate": "20261104T013000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951719+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.hankookilbo.com/news/article/A2026110408130001288",
+      "title": "트럼프  이란 방공시설 완공 직후 타격 … 게슘섬 공습 인정한 듯 - 국제ㅣ한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026110408130001288",
+      "domain": "hankookilbo.com",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951722+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
+      "title": "DOJ sends letters in Alaska spoiler candidate probe",
+      "url": "https://www.suncommercial.com/brazil_times/news/national/article_b0568233-6c47-5536-add2-cb46e860a7e7.html",
+      "domain": "suncommercial.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951726+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.efsyn.gr/kosmos/1502405/endiameses-ekloges-ipa-oi-kalpes-kleinoyn-vgikan-ta-prota-apotelesmata-ti-tha-simanei-tyhon-itta-toy-tramp/",
+      "title": "Ενδιάμεσες εκλογές ΗΠΑ : Οι κάλπες κλείνουν , βγήκαν τα πρώτα αποτελέσματα - Τι θα σημάνει τυχόν ήττα του Τραμπ",
+      "url": "https://www.efsyn.gr/kosmos/1502405/endiameses-ekloges-ipa-oi-kalpes-kleinoyn-vgikan-ta-prota-apotelesmata-ti-tha-simanei-tyhon-itta-toy-tramp/",
+      "domain": "efsyn.gr",
+      "seendate": "20261104T013000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951730+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.straitstimes.com/asia/se-asia/malaysia-admits-to-gaps-in-airport-drug-screening-will-modernise-security-assets",
+      "title": "Malaysia admits to gaps in airport drug screening , will modernise security assets",
+      "url": "https://www.straitstimes.com/asia/se-asia/malaysia-admits-to-gaps-in-airport-drug-screening-will-modernise-security-assets",
+      "domain": "straitstimes.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Singapore",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951734+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
+      "title": "Jon Ossoff wins reelection in Georgia , easily defeating Republican Mike Collins",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/jon-ossoff-wins-reelection-in-georgia-easily-defeating-republican-mike-collins",
+      "domain": "wxxinews.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951737+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.heraldk.com/article/2026110316160472590",
+      "title": "트럼프 , 이스라엘에 연간 5 . 4조 지원 중단 선언",
+      "url": "https://www.heraldk.com/article/2026110316160472590",
+      "domain": "heraldk.com",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951741+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/",
+      "title": "A referendum on Trump , election monitors and a Democratic shift : What to watch on Election Day",
+      "url": "https://lazer993.com/news/030030-a-referendum-on-trump-election-monitors-and-a-democratic-shift-what-to-watch-on-election-day/",
+      "domain": "lazer993.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951744+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279990&PAGE_CD=N0002&CMPT_CD=M0112",
+      "title": "[ 단독 ] 대장동 핵심 인물의  대장동 분양가 , 검찰이 미리 준비했나",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279990&PAGE_CD=N0002&CMPT_CD=M0112",
+      "domain": "ohmynews.com",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951747+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://sapo.pt/artigo/canada-proibe-entrada-de-atletas-pela-russia-e-bielorrussia-6aea80dd3a69d6d8c08775a5",
+      "title": "Canadá proíbe entrada de atletas pela Rússia e Bielorrússia",
+      "url": "https://sapo.pt/artigo/canada-proibe-entrada-de-atletas-pela-russia-e-bielorrussia-6aea80dd3a69d6d8c08775a5",
+      "domain": "sapo.pt",
+      "seendate": "20261104T013000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Portugal",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951750+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration/",
+      "title": "Early Exit Polls Show Voters See Midterms As A Rebuke On Trump Administration",
+      "url": "https://wrak.iheart.com/content/2026-11-03-early-exit-polls-show-voters-see-midterms-as-a-rebuke-on-trump-administration/",
+      "domain": "wrak.iheart.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951755+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.vanguardngr.com/2026/11/ogun-indigenes-reaffirm-support-for-adebutu-ahead-of-2027/",
+      "title": "Ogun indigenes reaffirm support for Adebutu ahead of 2027",
+      "url": "https://www.vanguardngr.com/2026/11/ogun-indigenes-reaffirm-support-for-adebutu-ahead-of-2027/",
+      "domain": "vanguardngr.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Nigeria",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951758+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-11-04/federal-police-five-charged-ndis-welfare-fraud/107344388",
+      "title": "Police arrest five over $235m rorted from federal agencies including NDIA and Services Australia",
+      "url": "https://www.abc.net.au/news/2026-11-04/federal-police-five-charged-ndis-welfare-fraud/107344388",
+      "domain": "abc.net.au",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951761+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
+      "title": "US midterms : JD Vance says administration fought replacement of American workers with lower - wage foreign employees",
+      "url": "http://www.newyorkstatesman.com/news/279410172/us-midterms-jd-vance-says-administration-fought-replacement-of-american-workers-with-lower-wage-foreign-employees",
+      "domain": "newyorkstatesman.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951765+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://campbellrivermirror.com/2026/11/03/b-c-conservative-party-raised-nearly-2-5m-in-the-10-days-after-findlay-quit/",
+      "title": "B . C . Conservative Party raised nearly $2 . 5M in the 10 days after Findlay quit",
+      "url": "https://campbellrivermirror.com/2026/11/03/b-c-conservative-party-raised-nearly-2-5m-in-the-10-days-after-findlay-quit/",
+      "domain": "campbellrivermirror.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951768+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.dailymail.com/news/article-16262839/Passenger-jet-bomb-threat-chaos-spreads-Europe-multiple-flights-including-three-UK-forced-make-emergency-landings.html",
+      "title": "Passenger jet bomb threat chaos spreads across Europe as multiple flights including three from united kingdom are forced to make emergency landings",
+      "url": "https://www.dailymail.com/news/article-16262839/Passenger-jet-bomb-threat-chaos-spreads-Europe-multiple-flights-including-three-UK-forced-make-emergency-landings.html",
+      "domain": "dailymail.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951771+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://baomoi.com/nghi-quyet-so-20-nq-tw-t49773315.epi",
+      "title": "Tin tức Nghị quyết số 20 - NQ / TW - Hình ảnh và video clip nóng mới nhất",
+      "url": "https://baomoi.com/nghi-quyet-so-20-nq-tw-t49773315.epi",
+      "domain": "baomoi.com",
+      "seendate": "20261104T013000Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951774+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.in.gr/2026/11/04/world/ipa-6-stous-10-psifoforous-diafonoun-me-ton-polemo-tou-tramp-kata-tou-iran/",
+      "title": "ΗΠΑ : 6 στους 10 ψηφοφόρους διαφωνούν με τον πόλεμο του Τραμπ κατά του Ιράν",
+      "url": "https://www.in.gr/2026/11/04/world/ipa-6-stous-10-psifoforous-diafonoun-me-ton-polemo-tou-tramp-kata-tou-iran/",
+      "domain": "in.gr",
+      "seendate": "20261104T013000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951777+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.wxxinews.org/npr-news/2026-11-03/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+      "title": "What Democrats plan to prioritize if they retake the House",
+      "url": "https://www.wxxinews.org/npr-news/2026-11-03/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+      "domain": "wxxinews.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951781+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://sapo.pt/artigo/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp-6aea845d3a69d6d8c087ca1d",
+      "title": "Próximo Conselho de Administrao deve fazer  reestruturao profunda  da RTP",
+      "url": "https://sapo.pt/artigo/proximo-conselho-de-administracao-deve-fazer-reestruturacao-profunda-da-rtp-6aea845d3a69d6d8c087ca1d",
+      "domain": "sapo.pt",
+      "seendate": "20261104T013000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Portugal",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951784+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.jamaicaobserver.com/2026/11/03/jamaican-man-accused-voting-illegally-us-elections-22-years/",
+      "title": "Jamaican man accused of voting illegally in US elections over 22 years",
+      "url": "https://www.jamaicaobserver.com/2026/11/03/jamaican-man-accused-voting-illegally-us-elections-22-years/",
+      "domain": "jamaicaobserver.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Jamaica",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951788+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.baikal-daily.ru/news/16/533315/",
+      "title": "В районе Бурятии уберут « историческую свалку » | Байкал - Дейли - Новости Бурятии и Улан - Удэ в реальном времени",
+      "url": "https://www.baikal-daily.ru/news/16/533315/",
+      "domain": "baikal-daily.ru",
+      "seendate": "20261104T013000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951791+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://kiwaradio.com/news/sheldon-man-who-could-face-life-in-prison-on-sex-abuse-charges-pleads-not-guilty/",
+      "title": "Sheldon Man Who Could Face Life In Prison On Sex Abuse Charges Pleads Not Guilty – KIWA Radio",
+      "url": "https://kiwaradio.com/news/sheldon-man-who-could-face-life-in-prison-on-sex-abuse-charges-pleads-not-guilty/",
+      "domain": "kiwaradio.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951794+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.southcarolinapublicradio.org/news/2026-11-03/connecticut-bakers-are-bringing-joy-back-to-election-day-one-cake-at-a-time",
+      "title": "Connecticut bakers are bringing joy back to election day , one cake at a time",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-11-03/connecticut-bakers-are-bringing-joy-back-to-election-day-one-cake-at-a-time",
+      "domain": "southcarolinapublicradio.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951798+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://bluemountaineagle.com/2026/11/03/grant-county-court-to-consider-iga-with-baker-county/",
+      "title": "Grant County Court to consider IGA with Baker County",
+      "url": "https://bluemountaineagle.com/2026/11/03/grant-county-court-to-consider-iga-with-baker-county/",
+      "domain": "bluemountaineagle.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951801+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.bluemountainsgazette.com.au/story/9385456/under-pressure-labor-says-saving-not-simple-exercise/",
+      "title": "Under - pressure Labor says saving  not simple exercise",
+      "url": "https://www.bluemountainsgazette.com.au/story/9385456/under-pressure-labor-says-saving-not-simple-exercise/",
+      "domain": "bluemountainsgazette.com.au",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951804+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.rawstory.com/trump-fox-news-2678216197/",
+      "title": "Trump rages at Fox News over  dumb as a rock  commentator :  It the voice that gets me",
+      "url": "https://www.rawstory.com/trump-fox-news-2678216197/",
+      "domain": "rawstory.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951808+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.southcarolinapublicradio.org/news/2026-11-03/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+      "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-11-03/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+      "domain": "southcarolinapublicradio.org",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951811+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.aljazeera.net/politics/2026/11/4/%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "title": "هل تفتح حرب إيران أبواب الشرق الأوسط أمام الصين ؟",
+      "url": "https://www.aljazeera.net/politics/2026/11/4/%D9%87%D9%84-%D8%AA%D9%81%D8%AA%D8%AD%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A3%D8%A8%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "domain": "aljazeera.net",
+      "seendate": "20261104T013000Z",
+      "language": "Arabic",
+      "sourcecountry": "Israel",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951815+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://news.mail.ru/society/72968226/",
+      "title": "Хинштейн отметил самоотверженность курских аграриев",
+      "url": "https://news.mail.ru/society/72968226/",
+      "domain": "news.mail.ru",
+      "seendate": "20261104T013000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951818+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://womannews.net/detail.php?number=458533&thread=22r03r03",
+      "title": "인천시 , 2027년도 국비 1 , 309억 원 증액 건의 … 박찬대 시장 국회 방문",
+      "url": "https://womannews.net/detail.php?number=458533&thread=22r03r03",
+      "domain": "womannews.net",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951823+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.greaterbelize.com/panton-rejects-dean-barrows-election-loss-prediction/",
+      "title": "Panton Rejects Dean Barrow Election Loss Prediction | Greater Belize Media Panton Rejects Dean Barrow Election Loss Prediction",
+      "url": "https://www.greaterbelize.com/panton-rejects-dean-barrows-election-loss-prediction/",
+      "domain": "greaterbelize.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951826+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://futures.jrj.com.cn/2026/11/04085059003385.shtml",
+      "title": "金价刚经历17年来最惨10月 ！ 德国商业银行发出抄底黄金信号",
+      "url": "https://futures.jrj.com.cn/2026/11/04085059003385.shtml",
+      "domain": "futures.jrj.com.cn",
+      "seendate": "20261104T013000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951830+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.maldonandburnhamstandard.co.uk/news/national/26696668.public-will-expect-grab-eu-deal-hands-burnham-claims/",
+      "title": "Public will expect me to grab EU deal with both hands , Burnham claims",
+      "url": "https://www.maldonandburnhamstandard.co.uk/news/national/26696668.public-will-expect-grab-eu-deal-hands-burnham-claims/",
+      "domain": "maldonandburnhamstandard.co.uk",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951833+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://himtimes.com/himachal-on-path-to-self-reliance-despite-cash-crunch-cm/",
+      "title": "Himachal on path to self - reliance despite cash crunch : CM",
+      "url": "https://himtimes.com/himachal-on-path-to-self-reliance-despite-cash-crunch-cm/",
+      "domain": "himtimes.com",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951836+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10925133",
+      "title": "맥그리거 , 약물 · 음주로 개차반 돼 … 절친 폭로",
+      "url": "https://biz.heraldcorp.com/article/10925133",
+      "domain": "biz.heraldcorp.com",
+      "seendate": "20261104T013000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951841+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.isenp.co.jp/2026/11/04/155623/%E9%87%8E%E7%90%83%E5%B0%91%E5%B9%B4%E3%80%81%E6%A5%BD%E3%81%97%E3%81%8F%E3%83%97%E3%83%AC%E3%83%BC%E3%80%80%E4%BA%80%E5%B1%B1%EF%BD%8C%EF%BD%83%E6%9D%AF%E3%81%AB%E3%82%B9%E3%83%9D%E5%B0%91%EF%BC%94/",
+      "title": "野球少年 、 楽しくプレー 亀山ＬＣ杯にスポ少４チーム総勢100人",
+      "url": "https://www.isenp.co.jp/2026/11/04/155623/%E9%87%8E%E7%90%83%E5%B0%91%E5%B9%B4%E3%80%81%E6%A5%BD%E3%81%97%E3%81%8F%E3%83%97%E3%83%AC%E3%83%BC%E3%80%80%E4%BA%80%E5%B1%B1%EF%BD%8C%EF%BD%83%E6%9D%AF%E3%81%AB%E3%82%B9%E3%83%9D%E5%B0%91%EF%BC%94/",
+      "domain": "isenp.co.jp",
+      "seendate": "20261104T013000Z",
+      "language": "Japanese",
+      "sourcecountry": "Japan",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951844+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.kiwiblog.co.nz/2026/11/labour_used_to_call_this_privatisation.html",
+      "title": "Labour used to call this privatisation",
+      "url": "https://www.kiwiblog.co.nz/2026/11/labour_used_to_call_this_privatisation.html",
+      "domain": "kiwiblog.co.nz",
+      "seendate": "20261104T013000Z",
+      "language": "English",
+      "sourcecountry": "New Zealand",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951849+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://urgente24.com/ICE-entorpece-planes-electorales-de-Trump",
+      "title": "El ICE juega en las elecciones : latinos hartos vuelcan el voto",
+      "url": "https://urgente24.com/ICE-entorpece-planes-electorales-de-Trump",
+      "domain": "urgente24.com",
+      "seendate": "20261104T013000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951852+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.ilmessaggero.it/mondo/guerra_iran_attacco_usa_piano_trump_cosa_ha_detto_ultime_notizie-9867064.html",
+      "title": "Guerra Iran , Trump : « Non abbiamo nessun piano immediato per attaccarli , ma siamo pronti a intervenire se necessario »",
+      "url": "https://www.ilmessaggero.it/mondo/guerra_iran_attacco_usa_piano_trump_cosa_ha_detto_ultime_notizie-9867064.html",
+      "domain": "ilmessaggero.it",
+      "seendate": "20261104T013000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-04T19:45:09.951856+00:00",
+      "topics": [
+        "top"
+      ]
+    }
+  ]
 }
