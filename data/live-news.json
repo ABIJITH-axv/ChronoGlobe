@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T06:01:52.756929+00:00",
+  "generated_at": "2026-11-08T13:25:57.642705+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://www.arkansasonline.com/news/2026/nov/08/trumps-grip-on-gop-questioned-after-midterms/",
+      "title": "Trump grip on GOP questioned after midterms | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/08/trumps-grip-on-gop-questioned-after-midterms/",
+      "domain": "arkansasonline.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334466+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.oceanfm.ie/news/wealth-tax-would-help-young-renters-says-donegal-td-1536486",
+      "title": "Wealth tax would help young renters says Donegal TD",
+      "url": "https://www.oceanfm.ie/news/wealth-tax-would-help-young-renters-says-donegal-td-1536486",
+      "domain": "oceanfm.ie",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "Ireland",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334491+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.onlinekhabar.com/2026/11/2054011/bhotekoshi-flood-causes-damage-worth-rs-132-billion-to-the-energy-sector",
+      "title": "भोटेकोशी बाढीले ऊर्जा क्षेत्रमा १ खर्ब ३२ अर्ब बराबर क्षति",
+      "url": "https://www.onlinekhabar.com/2026/11/2054011/bhotekoshi-flood-causes-damage-worth-rs-132-billion-to-the-energy-sector",
+      "domain": "onlinekhabar.com",
+      "seendate": "20261108T130000Z",
+      "language": "Nepali",
+      "sourcecountry": "Nepal",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334495+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://portalb.mk/tri-dekada-pas-komunizmit-shembuj-te-mire-dhe-te-keqij-nga-ballkani-perendimor/",
+      "title": "Tri dekada pas komunizmit , shembuj të mirë dhe të këqij nga Ballkani Perëndimor",
+      "url": "https://portalb.mk/tri-dekada-pas-komunizmit-shembuj-te-mire-dhe-te-keqij-nga-ballkani-perendimor/",
+      "domain": "portalb.mk",
+      "seendate": "20261108T130000Z",
+      "language": "Albanian",
+      "sourcecountry": "Macedonia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334497+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/community-trust-bancorp-nasdaqctbi-share-price-breaks-below-200-day-moving-average-should-you-sell.html",
+      "title": "Community Trust Bancorp ( NASDAQ : CTBI ) Share Price Breaks Below 200 Day Moving Average – Should You Sell ?",
+      "url": "https://www.themarketsdaily.com/2026/11/08/community-trust-bancorp-nasdaqctbi-share-price-breaks-below-200-day-moving-average-should-you-sell.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334499+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.blitzquotidiano.it/economia/clima-e-salute-loms-ecco-sei-interventi-per-salvare-16-milioni-di-vite-ogni-anno-3809364/",
+      "title": "Clima e salute , lOms : ecco sei interventi per salvare 1 , 6 milioni di vite ogni anno",
+      "url": "https://www.blitzquotidiano.it/economia/clima-e-salute-loms-ecco-sei-interventi-per-salvare-16-milioni-di-vite-ogni-anno-3809364/",
+      "domain": "blitzquotidiano.it",
+      "seendate": "20261108T130000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334501+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.tsa-algerie.com/un-reseau-de-blanchiment-tombe-en-algerie-50-millions-da-des-devises-et-des-armes-saisis/",
+      "title": "Blanchiment dargent en Algérie : cinq milliards de centimes , 45 125 € et de lor saisis par lANP",
+      "url": "https://www.tsa-algerie.com/un-reseau-de-blanchiment-tombe-en-algerie-50-millions-da-des-devises-et-des-armes-saisis/",
+      "domain": "tsa-algerie.com",
+      "seendate": "20261108T130000Z",
+      "language": "French",
+      "sourcecountry": "Algeria",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334502+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.midweekherald.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "title": "Government issued £33m tax revision for firms after Budget",
+      "url": "https://www.midweekherald.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "domain": "midweekherald.co.uk",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334504+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.theoaklandpress.com/2026/11/08/column-veterans-help-power-the-u-s-economy-how-can-we-help-them/",
+      "title": "Column : Veterans help power the U . S . economy ; how can we help them ?",
+      "url": "https://www.theoaklandpress.com/2026/11/08/column-veterans-help-power-the-u-s-economy-how-can-we-help-them/",
+      "domain": "theoaklandpress.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334505+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.northkoreatimes.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+      "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+      "url": "http://www.northkoreatimes.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+      "domain": "northkoreatimes.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "North Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334507+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.abc.es/economia/dfactory-amplia-apuesta-industria-urbana-certificacion-leed-20261108133313-nt.html",
+      "title": "DFactory amplía su apuesta por la industria urbana con una certificación LEED Platinum",
+      "url": "https://www.abc.es/economia/dfactory-amplia-apuesta-industria-urbana-certificacion-leed-20261108133313-nt.html",
+      "domain": "abc.es",
+      "seendate": "20261108T130000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334508+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://baomoi.com/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-nhat-ban-c56462402.epi",
+      "title": "Tổng Bí thư , Chủ tịch nước Tô Lâm gặp gỡ cộng đồng người Việt Nam tại Nhật Bản",
+      "url": "https://baomoi.com/tong-bi-thu-chu-tich-nuoc-to-lam-gap-go-cong-dong-nguoi-viet-nam-tai-nhat-ban-c56462402.epi",
+      "domain": "baomoi.com",
+      "seendate": "20261108T130000Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334509+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.cravenherald.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "title": "Government issued £33m tax revision for firms after Budget",
+      "url": "https://www.cravenherald.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "domain": "cravenherald.co.uk",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334511+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.russiaherald.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+      "title": "Hackers steal €100 million from French lender Credit Mutuel Arkea",
+      "url": "http://www.russiaherald.com/news/279414663/hackers-steal-100-million-from-french-lender-credit-mutuel-arkea",
+      "domain": "russiaherald.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "Russia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334512+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5840087/kemandirian-umat-ditarget-tercapai-seiring-filantropi-capai-rp343-t",
+      "title": "Kemandirian umat ditarget tercapai seiring filantropi capai Rp343 T",
+      "url": "https://www.antaranews.com/berita/5840087/kemandirian-umat-ditarget-tercapai-seiring-filantropi-capai-rp343-t",
+      "domain": "antaranews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Indonesian",
+      "sourcecountry": "Indonesia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334515+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/LB866D650514R9OJ.html",
+      "title": "专访｜  推动全球人工智能治理不断完善 ， 中国是正确的  访俄罗斯塔斯社社长安德烈 · 孔德拉绍夫 _ 网易订阅",
+      "url": "https://www.163.com/dy/article/LB866D650514R9OJ.html",
+      "domain": "163.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334516+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/11/08/head-to-head-comparison-camden-national-nasdaqcac-vs-tfs-financial-nasdaqtfsl.html",
+      "title": "Head to Head Comparison : Camden National ( NASDAQ : CAC ) vs . TFS Financial ( NASDAQ : TFSL )",
+      "url": "https://www.dailypolitical.com/2026/11/08/head-to-head-comparison-camden-national-nasdaqcac-vs-tfs-financial-nasdaqtfsl.html",
+      "domain": "dailypolitical.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334518+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.ceskenoviny.cz/zpravy/iranske-revolucni-gardy-oznacily-americky-plan-iron-gate-za-slovni-hricku/2898951",
+      "title": "Íránské revoluční gardy označily americký plán Iron Gate za slovní hříčku",
+      "url": "https://www.ceskenoviny.cz/zpravy/iranske-revolucni-gardy-oznacily-americky-plan-iron-gate-za-slovni-hricku/2898951",
+      "domain": "ceskenoviny.cz",
+      "seendate": "20261108T130000Z",
+      "language": "Czech",
+      "sourcecountry": "Czech Republic",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334519+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/target-corporation-tgt-to-distribute-quarterly-dividend-of-1-16-on-december-1st.html",
+      "title": "Target Corporation ( TGT ) to Distribute Quarterly Dividend of $1 . 16 on December 1st",
+      "url": "https://www.themarketsdaily.com/2026/11/08/target-corporation-tgt-to-distribute-quarterly-dividend-of-1-16-on-december-1st.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334521+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.northwalespioneer.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "title": "Government issued £33m tax revision for firms after Budget",
+      "url": "https://www.northwalespioneer.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "domain": "northwalespioneer.co.uk",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334524+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611082124224820",
+      "title": "與  정부에  실거주 구분없이 종부세 공제 14억  강력 요구",
+      "url": "https://www.fnnews.com/news/202611082124224820",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334527+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.chinapress.com.my/20261108/d-8%E8%B4%B8%E6%98%93%E9%A2%9D%E7%9B%AE%E6%A0%872-3%E5%85%86-%E5%A4%A7%E9%A9%AC%E6%8E%A2%E8%AE%A8%E5%8F%AF%E8%A1%8C%E6%8E%AA%E6%96%BD/",
+      "title": "大马研究D - 8贸易额2 . 3兆目标",
+      "url": "https://www.chinapress.com.my/20261108/d-8%E8%B4%B8%E6%98%93%E9%A2%9D%E7%9B%AE%E6%A0%872-3%E5%85%86-%E5%A4%A7%E9%A9%AC%E6%8E%A2%E8%AE%A8%E5%8F%AF%E8%A1%8C%E6%8E%AA%E6%96%BD/",
+      "domain": "chinapress.com.my",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "Malaysia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334529+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.lasprovincias.es/economia/aviso-expertos-aceiteros-sobre-futuro-precio-aceite-20261104133440-nt.html",
+      "title": "Nuevo precio del AOVE , aceite de oliva virgen extra | El aviso de los expertos aceiteros sobre el futuro precio del aceite de oliva : « No compensa y más ahora , con los costes del gasóleo »",
+      "url": "https://www.lasprovincias.es/economia/aviso-expertos-aceiteros-sobre-futuro-precio-aceite-20261104133440-nt.html",
+      "domain": "lasprovincias.es",
+      "seendate": "20261108T130000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334532+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://sofokleous10.gr/2026/11/08/%CF%83%CE%B1%CE%BC%CE%B1%CF%81%CE%AC%CF%82-%CE%AD%CE%BE%CE%B9-%CF%80%CF%81%CE%BF%CF%84%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%B5%CE%B9/",
+      "title": "Σαμαράς : Έξι προτάσεις για την ενεργειακή πολιτική - Χωρίς στρατηγική η νεοφιλελεύθερη κυβέρνηση Μητσοτάκη",
+      "url": "https://sofokleous10.gr/2026/11/08/%CF%83%CE%B1%CE%BC%CE%B1%CF%81%CE%AC%CF%82-%CE%AD%CE%BE%CE%B9-%CF%80%CF%81%CE%BF%CF%84%CE%AC%CF%83%CE%B5%CE%B9%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7%CE%BD-%CE%B5%CE%BD%CE%B5%CF%81%CE%B3%CE%B5%CE%B9/",
+      "domain": "sofokleous10.gr",
+      "seendate": "20261108T130000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334533+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/comparing-united-bankshares-nasdaqubsi-royal-bank-of-canada-nysery.html",
+      "title": "Comparing United Bankshares ( NASDAQ : UBSI ) & Royal Bank Of Canada ( NYSE : RY )",
+      "url": "https://www.themarketsdaily.com/2026/11/08/comparing-united-bankshares-nasdaqubsi-royal-bank-of-canada-nysery.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334535+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
+      "title": "Quaest : 48 % aprovam e 44 % desaprovam governo Lula na primeira pesquisa após a eleio",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
+      "domain": "g1.globo.com",
+      "seendate": "20261108T130000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334536+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://lesoleil.sn/le-decodeur/la-chasse-aux-100-francs-par-samba-oumar-fall/",
+      "title": "La chasse aux 100 francs ( par Samba Oumar FALL )",
+      "url": "https://lesoleil.sn/le-decodeur/la-chasse-aux-100-francs-par-samba-oumar-fall/",
+      "domain": "lesoleil.sn",
+      "seendate": "20261108T130000Z",
+      "language": "French",
+      "sourcecountry": "Senegal",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334538+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611081759585152",
+      "title": "상장사 10곳 중 3곳  연중 최저가",
+      "url": "https://www.fnnews.com/news/202611081759585152",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334539+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://bankwars.gr/eos-kai-triplasies-oi-chreoseis-sta-prasina-timologia-se-schesi-me-ta-ble/",
+      "title": "Έως και τριπλάσιες οι χρεώσεις στα « πράσινα » τιμολόγια σε σχέση με τα « μπλε »",
+      "url": "https://bankwars.gr/eos-kai-triplasies-oi-chreoseis-sta-prasina-timologia-se-schesi-me-ta-ble/",
+      "domain": "bankwars.gr",
+      "seendate": "20261108T130000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334541+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.haberport.com/haber/antalyada-uygulamaya-gecen-iklim-zirvesi-cop31-basliyor/64986",
+      "title": "Antalyada uygulamaya geçen iklim zirvesi : COP31 başlıyor",
+      "url": "https://www.haberport.com/haber/antalyada-uygulamaya-gecen-iklim-zirvesi-cop31-basliyor/64986",
+      "domain": "haberport.com",
+      "seendate": "20261108T130000Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334542+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/johnson-johnson-jnj-stock-sold-by-palisade-asset-management-llc.html",
+      "title": "Johnson & Johnson $JNJ Stock Sold by Palisade Asset Management LLC",
+      "url": "https://www.themarketsdaily.com/2026/11/08/johnson-johnson-jnj-stock-sold-by-palisade-asset-management-llc.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334544+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.cna.com.tw:443/news/acn/202611080172.aspx",
+      "title": "中國續對美化工品正丙醇課雙反稅 美中貿易角力繼續 | 兩岸",
+      "url": "https://www.cna.com.tw:443/news/acn/202611080172.aspx",
+      "domain": "cna.com.tw",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334545+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.enfieldindependent.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "title": "Government issued £33m tax revision for firms after Budget",
+      "url": "https://www.enfieldindependent.co.uk/news/national/26709331.government-issued-gbp33m-tax-revision-firms-budget/",
+      "domain": "enfieldindependent.co.uk",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334546+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.antaranews.com/berita/5840079/sumber-suriah-bantah-pengiriman-pasukan-ke-yaman",
+      "title": "Sumber Suriah bantah pengiriman pasukan ke Yaman",
+      "url": "https://www.antaranews.com/berita/5840079/sumber-suriah-bantah-pengiriman-pasukan-ke-yaman",
+      "domain": "antaranews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Indonesian",
+      "sourcecountry": "Indonesia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334548+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://bankwars.gr/ilektriko-revma-eos-kai-triplasies-oi-chreoseis-sta-prasina-timologia-se-schesi-me-ta-ble/",
+      "title": "Ηλεκτρικό ρεύμα : Έως και τριπλάσιες οι χρεώσεις στα « πράσινα » τιμολόγια σε σχέση με τα « μπλε »",
+      "url": "https://bankwars.gr/ilektriko-revma-eos-kai-triplasies-oi-chreoseis-sta-prasina-timologia-se-schesi-me-ta-ble/",
+      "domain": "bankwars.gr",
+      "seendate": "20261108T130000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334551+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.spokesman.com/stories/2026/nov/08/this-is-a-death-cult-spencer-pratt-argues-in-spoka/",
+      "title": "This is a death cult : Spencer Pratt argues in Spokane that the left wants to destroy America",
+      "url": "https://www.spokesman.com/stories/2026/nov/08/this-is-a-death-cult-spencer-pratt-argues-in-spoka/",
+      "domain": "spokesman.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334552+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.generation-nt.com/actualites/comment-chaussettes-compression-courir-longtemps-2084033",
+      "title": "Comment de simples chaussettes de compression peuvent - elles vous aider à courir plus longtemps ?",
+      "url": "https://www.generation-nt.com/actualites/comment-chaussettes-compression-courir-longtemps-2084033",
+      "domain": "generation-nt.com",
+      "seendate": "20261108T130000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334554+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://elpueblodigital.uy/paraguay-y-la-fragilidad-de-las-garantias-constitucionales-en-hispanoamerica/",
+      "title": "Paraguay y la fragilidad de las garantías constitucionales .",
+      "url": "https://elpueblodigital.uy/paraguay-y-la-fragilidad-de-las-garantias-constitucionales-en-hispanoamerica/",
+      "domain": "elpueblodigital.uy",
+      "seendate": "20261108T130000Z",
+      "language": "Spanish",
+      "sourcecountry": "",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334556+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://veja.abril.com.br/brasil/quaest-a-distancia-entre-a-esperanca-e-a-preocupacao-dos-brasileiros-com-o-governo-lula-4/",
+      "title": "Quaest : A distância entre a esperança e a preocupao dos brasileiros com o governo Lula 4",
+      "url": "https://veja.abril.com.br/brasil/quaest-a-distancia-entre-a-esperanca-e-a-preocupacao-dos-brasileiros-com-o-governo-lula-4/",
+      "domain": "veja.abril.com.br",
+      "seendate": "20261108T130000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334557+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://ly.fjsen.com/2026-11/08/content_32280050.htm",
+      "title": "约2万平方米展区 ， 智造成果集中展示 ！ 第十四届海峡两岸机械产业博览会在岩开幕 - 重点推荐",
+      "url": "http://ly.fjsen.com/2026-11/08/content_32280050.htm",
+      "domain": "ly.fjsen.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334559+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://jateng.harianjogja.com/r-1278104/antisipasi-banjir-rob-jalan-pantura-semarang-demak-ditinggikan-1-meter",
+      "title": "Antisipasi Banjir Rob , Jalan Pantura Semarang - Demak Ditinggikan 1 Meter",
+      "url": "https://jateng.harianjogja.com/r-1278104/antisipasi-banjir-rob-jalan-pantura-semarang-demak-ditinggikan-1-meter",
+      "domain": "jateng.harianjogja.com",
+      "seendate": "20261108T130000Z",
+      "language": "Indonesian",
+      "sourcecountry": "Indonesia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334560+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177",
+      "title": "El miedo que dejó el terremoto en Pereira y las heridas emocionales que aún buscan sanar : los tres meses tras el fuerte sismo del siglo",
+      "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-miedo-que-dejo-el-terremoto-en-pereira-y-las-heridas-emocionales-que-aun-buscan-sanar-los-tres-meses-tras-el-fuerte-sismo-del-siglo-3599177",
+      "domain": "eltiempo.com",
+      "seendate": "20261108T130000Z",
+      "language": "Spanish",
+      "sourcecountry": "Colombia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334561+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://almomento.net/la-cuenta-llego-trump-pierde-el-congreso-principalmente-por-el-bolsillo/",
+      "title": "La cuenta llegó : Trump pierde el Congreso principalmente por el bolsillo",
+      "url": "https://almomento.net/la-cuenta-llego-trump-pierde-el-congreso-principalmente-por-el-bolsillo/",
+      "domain": "almomento.net",
+      "seendate": "20261108T130000Z",
+      "language": "Spanish",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334563+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.tz.de/verbraucher/internet-wird-teurer-das-hilft-telekom-und-kunden-jetzt-zr-94579490.html",
+      "title": "Internet wird teurer : Das hilft Telekom - und 1 & 1 - Kunden jetzt",
+      "url": "http://www.tz.de/verbraucher/internet-wird-teurer-das-hilft-telekom-und-kunden-jetzt-zr-94579490.html",
+      "domain": "tz.de",
+      "seendate": "20261108T130000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334564+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/LB848JNT0519DDQ2.html",
+      "title": "伯克希尔三季报 ： 投资收益减半 ， 谷歌升至第一重仓股",
+      "url": "https://www.163.com/dy/article/LB848JNT0519DDQ2.html",
+      "domain": "163.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334565+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611081759568125",
+      "title": "자사주 매입 · 소각  꺼낸 기업들 , 급락장 속 선방했다",
+      "url": "https://www.fnnews.com/news/202611081759568125",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334567+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-end-muhurat-trading-session-in-red-for-first-time-in-9-years-are-the-bulls-losing-steam/articleshow/135656643.cms",
+      "title": "Sensex , Nifty end Muhurat Trading session in red for first time in 9 years . Are the bulls losing steam ?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-end-muhurat-trading-session-in-red-for-first-time-in-9-years-are-the-bulls-losing-steam/articleshow/135656643.cms",
+      "domain": "economictimes.indiatimes.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334568+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611081857497180",
+      "title": "[ 사설 ] 근로손실 45 % 증가 , 미래 갉아먹는 성과급 갈등",
+      "url": "https://www.fnnews.com/news/202611081857497180",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334570+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/haverty-furniture-companies-nysehvt-stock-breaks-below-two-hundred-day-moving-average-whats-next.html",
+      "title": "Haverty Furniture Companies ( NYSE : HVT ) Stock Breaks Below Two Hundred Day Moving Average – What Next ?",
+      "url": "https://www.themarketsdaily.com/2026/11/08/haverty-furniture-companies-nysehvt-stock-breaks-below-two-hundred-day-moving-average-whats-next.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334571+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.aljazeera.net/encyclopedia/2026/11/8/%D8%B3%D8%A7%D9%86%D8%AA%D9%8A%D8%A7%D8%BA%D9%88-%D8%A8%D9%8A%D9%86%D9%8A%D8%A7-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A5%D9%84%D9%89-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9",
+      "title": "سانتياغو بينيا .. صعود سياسي إلى رئاسة باراغواي ينتهي بالعزل والاتهام",
+      "url": "https://www.aljazeera.net/encyclopedia/2026/11/8/%D8%B3%D8%A7%D9%86%D8%AA%D9%8A%D8%A7%D8%BA%D9%88-%D8%A8%D9%8A%D9%86%D9%8A%D8%A7-%D8%B5%D8%B9%D9%88%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A5%D9%84%D9%89-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9",
+      "domain": "aljazeera.net",
+      "seendate": "20261108T130000Z",
+      "language": "Arabic",
+      "sourcecountry": "Israel",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334573+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/critical-survey-psq-psqh-vs-its-rivals.html",
+      "title": "Critical Survey : PSQ ( PSQH ) vs . Its Rivals",
+      "url": "https://www.themarketsdaily.com/2026/11/08/critical-survey-psq-psqh-vs-its-rivals.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334574+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.segre.com/ca/economia/261108/govern-convocara-taula-sectorial-l-oli-per-abordar-l-impacte-retirada-12-produccio_1390903.html",
+      "title": "El Govern convocarà la taula sectorial de loli per abordar limpacte de la retirada del 12 % de la producció",
+      "url": "https://www.segre.com/ca/economia/261108/govern-convocara-taula-sectorial-l-oli-per-abordar-l-impacte-retirada-12-produccio_1390903.html",
+      "domain": "segre.com",
+      "seendate": "20261108T130000Z",
+      "language": "Catalan",
+      "sourcecountry": "Spain",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334577+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/LB84S4UG05198NMR.html",
+      "title": "马斯克中选后要被  秋后算账 ？ 德银 ： 算力越紧张SpaceX越赚钱 ， 政治风险被高估|特斯拉|知名企业|得克萨斯州|德克萨斯州|德意志银行|埃隆 _ 马斯克",
+      "url": "https://www.163.com/dy/article/LB84S4UG05198NMR.html",
+      "domain": "163.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334578+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/LB85LF2A0556HRUY.html",
+      "title": "开发商给出忠告 ： 用不了10年 ， 二三十层高层住宅 ， 将面临四个困境",
+      "url": "https://www.163.com/dy/article/LB85LF2A0556HRUY.html",
+      "domain": "163.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334581+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611081838073306",
+      "title": "확 키우거나 줄이거나 … 프랜차이즈 매장 양극화",
+      "url": "https://www.fnnews.com/news/202611081838073306",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334583+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "http://www.northkoreatimes.com/news/279414658/bank-of-england-hikes-rates-to-4-as-inflation-fears-mount",
+      "title": "Bank of England hikes rates to 4 % as inflation fears mount",
+      "url": "http://www.northkoreatimes.com/news/279414658/bank-of-england-hikes-rates-to-4-as-inflation-fears-mount",
+      "domain": "northkoreatimes.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "North Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334584+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/fresh-del-monte-produce-inc-dmc-to-go-ex-dividend-on-november-10th.html",
+      "title": "Fresh Del Monte Produce Inc ( DMC ) To Go Ex - Dividend on November 10th",
+      "url": "https://www.themarketsdaily.com/2026/11/08/fresh-del-monte-produce-inc-dmc-to-go-ex-dividend-on-november-10th.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334585+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.evo.co.uk/maserati/mc20/209255/900-miles-in-the-maserati-mcpura-daily-driving-italys-underrated-supercar",
+      "title": "900 miles in the Maserati MCPura – daily driving Italy underrated supercar",
+      "url": "https://www.evo.co.uk/maserati/mc20/209255/900-miles-in-the-maserati-mcpura-daily-driving-italys-underrated-supercar",
+      "domain": "evo.co.uk",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334587+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.163.com/dy/article/LB83S50S0511AQHO.html",
+      "title": "英伟达等重新设计VLA推理 ！ 机器人动作提速3 . 4倍",
+      "url": "https://www.163.com/dy/article/LB83S50S0511AQHO.html",
+      "domain": "163.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334588+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.kenw.org/npr-news/2026-11-08/a-desert-stirs-to-life-chiles-atacama-erupts-in-its-biggest-floral-display-in-decades",
+      "title": "A desert stirs to life : Chile Atacama erupts in its biggest floral display in decades",
+      "url": "https://www.kenw.org/npr-news/2026-11-08/a-desert-stirs-to-life-chiles-atacama-erupts-in-its-biggest-floral-display-in-decades",
+      "domain": "kenw.org",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334590+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.chinatimes.com/realtimenews/20261108002686-260404",
+      "title": "台股大跌如恐怖攻擊 ！ 唐綺陽揭轉折點示警 ： 發財夢已成過去 - 綜合星聞",
+      "url": "https://www.chinatimes.com/realtimenews/20261108002686-260404",
+      "domain": "chinatimes.com",
+      "seendate": "20261108T130000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334591+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://sitv.ru/arhiv/news/novyy-rezervuar-pitevoy-vody-poyavitsya-v-poselke-surgutskogo-rayona/",
+      "title": "Новый резервуар питьевой воды появится в поселке Сургутского района",
+      "url": "https://sitv.ru/arhiv/news/novyy-rezervuar-pitevoy-vody-poyavitsya-v-poselke-surgutskogo-rayona/",
+      "domain": "sitv.ru",
+      "seendate": "20261108T130000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334592+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://odessa-life.od.ua/article/vinogradniki-vmesto-pribyli-pochemu-agrarii-bessarabii-ne-brosayut-ubytochnoe-delo",
+      "title": "Виноградарство Одесской области : проблемы виноделов Бессарабии",
+      "url": "https://odessa-life.od.ua/article/vinogradniki-vmesto-pribyli-pochemu-agrarii-bessarabii-ne-brosayut-ubytochnoe-delo",
+      "domain": "odessa-life.od.ua",
+      "seendate": "20261108T130000Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334593+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailysabah.com/business/energy/climate-finance-investment-talks-to-feature-high-on-cop31-agenda",
+      "title": "Climate finance , investment talks to feature high on COP31 agenda",
+      "url": "https://www.dailysabah.com/business/energy/climate-finance-investment-talks-to-feature-high-on-cop31-agenda",
+      "domain": "dailysabah.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "Turkey",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334595+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.twincities.com/2026/11/08/michelle-goldberg-elon-musks-very-bad-night/",
+      "title": "Michelle Goldberg : Elon Musk very bad night – Twin Cities",
+      "url": "https://www.twincities.com/2026/11/08/michelle-goldberg-elon-musks-very-bad-night/",
+      "domain": "twincities.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334596+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://sitv.ru/arhiv/news/ne-dovolstvovatsya-menshim-yugra-predstavila-opyt-razvitiya-selskix-territory/",
+      "title": "Не довольствоваться меньшим : Югра представила опыт развития сельских территорий",
+      "url": "https://sitv.ru/arhiv/news/ne-dovolstvovatsya-menshim-yugra-predstavila-opyt-razvitiya-selskix-territory/",
+      "domain": "sitv.ru",
+      "seendate": "20261108T130000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334598+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.fnnews.com/news/202611081807560738",
+      "title": "삼전닉스 ELS 중 235억  녹인  터치 … 지수형도 도미노 충격 [ ELS 원금손실 공포 ]",
+      "url": "https://www.fnnews.com/news/202611081807560738",
+      "domain": "fnnews.com",
+      "seendate": "20261108T130000Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334599+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.inewsgr.com/500/ilektriko-revma-kaine-ta-prasina-timologia--eos-40-lepta-pio-akrivi-i-kilovatora-ton-noemvrio.htm",
+      "title": "Ηλεκτρικό ρεύμα : « Καίνε » τα πράσινα τιμολόγια – Έως 40 λεπτά πιο ακριβή η κιλοβατώρα τον Νοέμβριο",
+      "url": "https://www.inewsgr.com/500/ilektriko-revma-kaine-ta-prasina-timologia--eos-40-lepta-pio-akrivi-i-kilovatora-ton-noemvrio.htm",
+      "domain": "inewsgr.com",
+      "seendate": "20261108T130000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334601+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/11/08/western-new-england-bancorp-wneb-to-distribute-quarterly-dividend-of-0-07-on-november-25th.html",
+      "title": "Western New England Bancorp ( WNEB ) to Distribute Quarterly Dividend of $0 . 07 on November 25th",
+      "url": "https://www.dailypolitical.com/2026/11/08/western-new-england-bancorp-wneb-to-distribute-quarterly-dividend-of-0-07-on-november-25th.html",
+      "domain": "dailypolitical.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334602+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/08/reviewing-w-the-competition.html",
+      "title": "Reviewing W & T Offshore ( WTI ) & The Competition",
+      "url": "https://www.themarketsdaily.com/2026/11/08/reviewing-w-the-competition.html",
+      "domain": "themarketsdaily.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334603+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.inewsgr.com/374/dypa-neo-programma-epidotisis-apascholisis-27494-anergon-ilikias-30-eton-kai-ano.htm",
+      "title": "ΔΥΠΑ : Νέο πρόγραμμα επιδότησης απασχόλησης 27 . 494 ανέργων ηλικίας 30 ετών και άνω",
+      "url": "https://www.inewsgr.com/374/dypa-neo-programma-epidotisis-apascholisis-27494-anergon-ilikias-30-eton-kai-ano.htm",
+      "domain": "inewsgr.com",
+      "seendate": "20261108T130000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334606+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/",
+      "title": "Why Did Republican Redistricting Fail to Stop the Blue Wave ?",
+      "url": "https://time.com/article/2026/11/08/republican-redistricting-2026-midterm-elections/",
+      "domain": "time.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334608+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.portfolio.hu/uzlet/20261108/szep-csendben-atrendezodik-a-vilag-biztositasi-piaca-vadiuj-strategiara-allnak-at-a-szektor-nagyagyui-874466",
+      "title": "Szép csendben átrendeződik a világ biztosítási piaca : vadiúj stratégiára állnak át a szektor nagyágyúi",
+      "url": "https://www.portfolio.hu/uzlet/20261108/szep-csendben-atrendezodik-a-vilag-biztositasi-piaca-vadiuj-strategiara-allnak-at-a-szektor-nagyagyui-874466",
+      "domain": "portfolio.hu",
+      "seendate": "20261108T130000Z",
+      "language": "Hungarian",
+      "sourcecountry": "Hungary",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334609+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.bresciaoggi.it/territorio-bresciano/brescia/attivisti-bresciani-trattenuti-israele-la-lunga-attesa-per-il-rimpatrio-1.13177712",
+      "title": "Il racconto dei due attivisti bresciani arrestati in Israele : « Picchiati e umiliati . Non siamo costati un euro allItalia »",
+      "url": "https://www.bresciaoggi.it/territorio-bresciano/brescia/attivisti-bresciani-trattenuti-israele-la-lunga-attesa-per-il-rimpatrio-1.13177712",
+      "domain": "bresciaoggi.it",
+      "seendate": "20261108T130000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334613+00:00",
+      "topics": [
+        "markets"
+      ]
+    },
+    {
+      "id": "https://www.prokerala.com/news/articles/a1834431.html",
+      "title": "Gold , silver outlook : Inflation data and geopolitical tensions likely to drive prices this week",
+      "url": "https://www.prokerala.com/news/articles/a1834431.html",
+      "domain": "prokerala.com",
+      "seendate": "20261108T130000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "markets",
+      "fetched_at": "2026-11-08T13:25:19.334614+00:00",
+      "topics": [
+        "markets"
+      ]
+    }
+  ]
 }
