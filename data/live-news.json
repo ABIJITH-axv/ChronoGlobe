@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-19T07:25:51.745307+00:00",
+  "generated_at": "2026-11-19T20:38:20.880568+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://www.navytimes.com/news/your-navy/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
+      "title": "F - 35C completes first launch and recovery trials on a Ford - class carrier",
+      "url": "https://www.navytimes.com/news/your-navy/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
+      "domain": "navytimes.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680097+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.abc.com.py/nacionales/2026/11/19/caso-ueno-descartan-recurso-y-cesar-astigarraga-seguira-con-prision-preventiva/",
+      "title": "Caso Ueno : descartan recurso y César Astigarraga seguirá con prisión preventiva - Nacionales",
+      "url": "https://www.abc.com.py/nacionales/2026/11/19/caso-ueno-descartan-recurso-y-cesar-astigarraga-seguira-con-prision-preventiva/",
+      "domain": "abc.com.py",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Paraguay",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680121+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.prealpina.it/news/italia-esteri/579905/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace.html",
+      "title": "Meloni , la Cina usi la sua influenza per spingere Mosca alla pace",
+      "url": "https://www.prealpina.it/news/italia-esteri/579905/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace.html",
+      "domain": "prealpina.it",
+      "seendate": "20261119T193000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680124+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.ecoportal.net/en/german-aerospace-engineer-lived-120-days/46883/",
+      "title": "A German aerospace engineer lived for 120 days in a sealed room 36 feet beneath the Caribbean off Panama and came back up to champagne , a cigar and a swim",
+      "url": "https://www.ecoportal.net/en/german-aerospace-engineer-lived-120-days/46883/",
+      "domain": "ecoportal.net",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680126+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.iowapublicradio.org/news-from-npr/2026-11-19/the-magic-six-how-to-strengthen-your-marriage-in-midlife",
+      "title": "The  Magic Six : How to strengthen your marriage in midlife",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-19/the-magic-six-how-to-strengthen-your-marriage-in-midlife",
+      "domain": "iowapublicradio.org",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680129+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587894.html",
+      "title": "阿里巴巴新财季营收增10 %， AI云收入增长强劲 - 业界动态 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587894.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680133+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.telesurtv.net/brasil-lula-firma-resolucion-raoni-posesion-territorio-ancestral/",
+      "title": "Brasil : Lula firmará resolución que otorga a Raoni posesión de su territorio ancestral",
+      "url": "https://www.telesurtv.net/brasil-lula-firma-resolucion-raoni-posesion-territorio-ancestral/",
+      "domain": "telesurtv.net",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680134+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://cronicadecantabria.com/cr/media-defiende-en-bruselas-un-modelo-de-turismo-sostenible-compatible-con-el-desarrollo-econmico/",
+      "title": "Media defiende en Bruselas un modelo de turismo sostenible compatible con el desarrollo económico",
+      "url": "https://cronicadecantabria.com/cr/media-defiende-en-bruselas-un-modelo-de-turismo-sostenible-compatible-con-el-desarrollo-econmico/",
+      "domain": "cronicadecantabria.com",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680136+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/",
+      "title": "Apache Iceberg and intelligent storage help AI reach production",
+      "url": "https://siliconangle.com/2026/11/19/apache-iceberg-intelligent-storage-help-ai-reach-production-sc26/",
+      "domain": "siliconangle.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680137+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "title": "Anthropic keeps the AI party swinging , but the atmosphere is bubbly | Nils Pratley",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+      "domain": "theguardian.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680139+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://1059thebrew.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://1059thebrew.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "1059thebrew.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680141+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.manningrivertimes.com.au/story/9395023/call-to-wind-back-reporting-to-ease-business-red-tape/",
+      "title": "Call to wind back reporting to ease business red tape",
+      "url": "https://www.manningrivertimes.com.au/story/9395023/call-to-wind-back-reporting-to-ease-business-red-tape/",
+      "domain": "manningrivertimes.com.au",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680143+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587733.html",
+      "title": "从发光原理到售后政策 ， 拆解公牛紫光大路灯的3张底牌 - 热点资讯 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587733.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680145+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.mandurahmail.com.au/story/9395027/exciting-milestone-as-weight-loss-pills-hit-shelves/",
+      "title": "Exciting  milestone as weight loss pills hit shelves",
+      "url": "https://www.mandurahmail.com.au/story/9395027/exciting-milestone-as-weight-loss-pills-hit-shelves/",
+      "domain": "mandurahmail.com.au",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680147+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://1059thex.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://1059thex.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "1059thex.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680148+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.quotidianodipuglia.it/lecce/leucemia_nuove_speranze_lecce_trattato_primo_paziente-9900454.html",
+      "title": "Leucemia , nuove speranze : a Lecce trattato il primo paziente con terapia CAR - T",
+      "url": "https://www.quotidianodipuglia.it/lecce/leucemia_nuove_speranze_lecce_trattato_primo_paziente-9900454.html",
+      "domain": "quotidianodipuglia.it",
+      "seendate": "20261119T193000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680150+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.montereyherald.com/2026/11/19/skilled-trades-training/",
+      "title": "Despite rise of AI , more skilled trades training needed , industry leaders say",
+      "url": "https://www.montereyherald.com/2026/11/19/skilled-trades-training/",
+      "domain": "montereyherald.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680151+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://bbs.wenxuecity.com/ydjs/262298.html",
+      "title": "四大美女中有几大间谍 ？ - 桉桠发表于 运动健身 - 论坛",
+      "url": "https://bbs.wenxuecity.com/ydjs/262298.html",
+      "domain": "bbs.wenxuecity.com",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680153+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.iefimerida.gr/oikonomia/exarthrosi-kyklomatos-paranomes-epistrofes-foron",
+      "title": "Εξαρθρώθηκε κύκλωμα με εταιρείες - βιτρίνα για παράνομες επιστροφές φόρων - 15 συλλήψεις",
+      "url": "https://www.iefimerida.gr/oikonomia/exarthrosi-kyklomatos-paranomes-epistrofes-foron",
+      "domain": "iefimerida.gr",
+      "seendate": "20261119T193000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680155+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.otempo.com.br/parceiros/webterra/2026/11/19/dia-da-consciencia-negra-veja-o-que-abre-e-fecha-em-montes-claros",
+      "title": "Dia da Consciência Negra : veja o que abre e fecha em Montes Claros",
+      "url": "https://www.otempo.com.br/parceiros/webterra/2026/11/19/dia-da-consciencia-negra-veja-o-que-abre-e-fecha-em-montes-claros",
+      "domain": "otempo.com.br",
+      "seendate": "20261119T193000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680156+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://tribune.com.pk/story/2641237/countries-weigh-banning-smart-glasses-over-privacy-concerns",
+      "title": "Countries weigh banning smart glasses over privacy concerns",
+      "url": "https://tribune.com.pk/story/2641237/countries-weigh-banning-smart-glasses-over-privacy-concerns",
+      "domain": "tribune.com.pk",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680157+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.sudouest.fr:443/international/souverainete-numerique-un-rapport-alerte-sur-le-manque-d-autonomie-de-la-france-et-de-l-union-europeenne-face-aux-geants-americains-et-chinois-31590159.php",
+      "title": "Souveraineté numérique  : un rapport alerte sur le manque dautonomie de la France et de lUnion européenne face aux géants américains et chinois",
+      "url": "https://www.sudouest.fr:443/international/souverainete-numerique-un-rapport-alerte-sur-le-manque-d-autonomie-de-la-france-et-de-l-union-europeenne-face-aux-geants-americains-et-chinois-31590159.php",
+      "domain": "sudouest.fr",
+      "seendate": "20261119T193000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680159+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.fakt.pl/wydarzenia/polska/gizycko-pijana-kierujaca-rozbila-nissana-jechala-z-12-letnim-dzieckiem/t7z9szb",
+      "title": "Giżycko . Pijana kierująca rozbiła Nissana . Jechała z 12 - letnim dzieckiem",
+      "url": "https://www.fakt.pl/wydarzenia/polska/gizycko-pijana-kierujaca-rozbila-nissana-jechala-z-12-letnim-dzieckiem/t7z9szb",
+      "domain": "fakt.pl",
+      "seendate": "20261119T193000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680160+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.thecourier.com.au/story/9395020/nasas-voyager-1-phones-home-from-one-light-day-away/",
+      "title": "NASA Voyager 1 phones home - from one light - day away",
+      "url": "https://www.thecourier.com.au/story/9395020/nasas-voyager-1-phones-home-from-one-light-day-away/",
+      "domain": "thecourier.com.au",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680162+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.qdnd.vn/chinh-tri/tin-tuc/tong-thong-azerbaijan-va-phu-nhan-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-1065355",
+      "title": "Tổng thống Azerbaijan và phu nhân bắt đầu thăm chính thức Việt Nam",
+      "url": "https://www.qdnd.vn/chinh-tri/tin-tuc/tong-thong-azerbaijan-va-phu-nhan-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-1065355",
+      "domain": "qdnd.vn",
+      "seendate": "20261119T193000Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680163+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.infomoney.com.br/economia/vice-chair-do-fed-diz-que-ia-impulsiona-a-inflacao-mas-pode-elevar-a-produtividade/",
+      "title": "Vice - chair do Fed diz que IA impulsiona a inflao , mas pode elevar a produtividade",
+      "url": "https://www.infomoney.com.br/economia/vice-chair-do-fed-diz-que-ia-impulsiona-a-inflacao-mas-pode-elevar-a-produtividade/",
+      "domain": "infomoney.com.br",
+      "seendate": "20261119T193000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680164+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.therecord.com/news/world/americas/heavy-fighting-erupts-in-haiti-as-armed-forces-fight-gangs-to-regain-control-of-key-corridor/article_8724db2e-2444-5fd6-a6ef-3a1161fe4014.html",
+      "title": "Heavy fighting erupts in Haiti as armed forces fight gangs to regain control of key corridor",
+      "url": "https://www.therecord.com/news/world/americas/heavy-fighting-erupts-in-haiti-as-armed-forces-fight-gangs-to-regain-control-of-key-corridor/article_8724db2e-2444-5fd6-a6ef-3a1161fe4014.html",
+      "domain": "therecord.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680166+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://bbs.wenxuecity.com/origin/1186844.html",
+      "title": "坚持每天一小把坚果 - 谦谦美君子发表于 海外原创 - 论坛",
+      "url": "https://bbs.wenxuecity.com/origin/1186844.html",
+      "domain": "bbs.wenxuecity.com",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680167+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://elmen.pe/amplian-9-meses-preventiva-de-adrian-villar-por-caso-marzano/",
+      "title": "Amplían 9 meses preventiva de Adrián Villar por caso Marzano",
+      "url": "https://elmen.pe/amplian-9-meses-preventiva-de-adrian-villar-por-caso-marzano/",
+      "domain": "elmen.pe",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Peru",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680169+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.independent.co.uk/news/world/australasia/australia-spitfire-warship-wreck-found-queensland-b3087663.html",
+      "title": "Wreck of Australia first domestically built warship found after 128 years",
+      "url": "https://www.independent.co.uk/news/world/australasia/australia-spitfire-warship-wreck-found-queensland-b3087663.html",
+      "domain": "independent.co.uk",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680171+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.elnortedecastilla.es/valladolid/trabajo-contrarreloj-retirar-cincuenta-toneladas-hojas-diarias-20261119194614-nt.html",
+      "title": "Trabajo a contrarreloj para retirar hasta cincuenta toneladas de hojas diarias en Valladolid",
+      "url": "https://www.elnortedecastilla.es/valladolid/trabajo-contrarreloj-retirar-cincuenta-toneladas-hojas-diarias-20261119194614-nt.html",
+      "domain": "elnortedecastilla.es",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680173+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "http://puntobiz.com.ar/actualidad/la-ugr-reune-en-funes-a-empresas-y-expertos-para-debatir-el-futuro-de-la-ia-2026111912160",
+      "title": "La UGR reúne en Funes a empresas y expertos para debatir el futuro de la IA",
+      "url": "http://puntobiz.com.ar/actualidad/la-ugr-reune-en-funes-a-empresas-y-expertos-para-debatir-el-futuro-de-la-ia-2026111912160",
+      "domain": "puntobiz.com.ar",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Argentina",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680175+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://consortiumnews.com/2026/11/19/jeffrey-sachs-europe-chooses-wrong-security-architecture/",
+      "title": "Jeffrey Sachs : Europe Chooses Wrong Security Architecture",
+      "url": "https://consortiumnews.com/2026/11/19/jeffrey-sachs-europe-chooses-wrong-security-architecture/",
+      "domain": "consortiumnews.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680176+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.guardian-series.co.uk/news/national/26746645.burnham-hopes-strike-channel-action-immigration-deal-brussels-summit/",
+      "title": "Burnham hopes to strike  Channel action  immigration deal at Brussels summit | East London and West Essex Guardian Series",
+      "url": "https://www.guardian-series.co.uk/news/national/26746645.burnham-hopes-strike-channel-action-immigration-deal-brussels-summit/",
+      "domain": "guardian-series.co.uk",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680177+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.akhbarona.com/last/436059.html",
+      "title": "تقرير دولي يبرز فرصة للمغرب في إنتاج الأمونيا الخضراء",
+      "url": "https://www.akhbarona.com/last/436059.html",
+      "domain": "akhbarona.com",
+      "seendate": "20261119T193000Z",
+      "language": "Arabic",
+      "sourcecountry": "Morocco",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680179+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://homenewshere.com/daily_times_chronicle/news/burlington/article_268d489a-7ada-47be-a637-710b133941df.html",
+      "title": "School Committee praises high school robotics team and discusses school calendar",
+      "url": "https://homenewshere.com/daily_times_chronicle/news/burlington/article_268d489a-7ada-47be-a637-710b133941df.html",
+      "domain": "homenewshere.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680180+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/international/global/anthropic-hits-us2-trillion-nasdaq-debut-tops-spacexs-june-listing",
+      "title": "Anthropic shares indicated about 20 % higher on gray market",
+      "url": "https://www.businesstimes.com.sg/international/global/anthropic-hits-us2-trillion-nasdaq-debut-tops-spacexs-june-listing",
+      "domain": "businesstimes.com.sg",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Singapore",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680182+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://news.tvbs.com.tw/health/4048173",
+      "title": "南瓜買太多吃不完 ？ 營養師授3招 「 神級保存法 」 放1個月依然新鮮",
+      "url": "https://news.tvbs.com.tw/health/4048173",
+      "domain": "news.tvbs.com.tw",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680184+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://newsradio1170.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://newsradio1170.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "newsradio1170.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680185+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://rock103columbus.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://rock103columbus.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "rock103columbus.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680186+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/",
+      "title": "Memory pooling helps Liqid fix AI inference tokenomics",
+      "url": "https://siliconangle.com/2026/11/19/memory-pooling-helps-liqid-fix-ai-inference-tokenomics-sc26/",
+      "domain": "siliconangle.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680188+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://vogue.globo.com/celebridades/noticia/2026/11/kylie-jenner-e-timothee-chalamet-sao-flagrados-aos-beijos-durante-jogo-de-basquete-em-los-angeles.ghtml",
+      "title": "Kylie Jenner e Timothée Chalamet são flagrados aos beijos durante jogo de basquete em Los Angeles",
+      "url": "https://vogue.globo.com/celebridades/noticia/2026/11/kylie-jenner-e-timothee-chalamet-sao-flagrados-aos-beijos-durante-jogo-de-basquete-em-los-angeles.ghtml",
+      "domain": "vogue.globo.com",
+      "seendate": "20261119T193000Z",
+      "language": "Portuguese",
+      "sourcecountry": "Brazil",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680189+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.inewsgr.com/27/apati-48-ekat-evro-me-paranomes-epistrofes-foron-15-syllipseis-apo-tin-aade--sto-kykloma-dyo-trapezikoi-diefthyntes.htm",
+      "title": "Απάτη 4 , 8 εκατ . ευρώ με παράνομες επιστροφές φόρων : 15 συλλήψεις από την ΑΑΔΕ – Στο κύκλωμα δύο τραπεζικοί διευθυντές",
+      "url": "https://www.inewsgr.com/27/apati-48-ekat-evro-me-paranomes-epistrofes-foron-15-syllipseis-apo-tin-aade--sto-kykloma-dyo-trapezikoi-diefthyntes.htm",
+      "domain": "inewsgr.com",
+      "seendate": "20261119T193000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680191+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587735.html",
+      "title": "公牛大路灯AI语音交互好用吗 ？ 旗舰款的真实体验 - 热点资讯 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587735.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680192+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://cajunradio.com/ixp/36/p/mississippi-river-body-identified/",
+      "title": "DNA Identifies a Man Not Seen in 40 Years",
+      "url": "https://cajunradio.com/ixp/36/p/mississippi-river-body-identified/",
+      "domain": "cajunradio.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680193+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://telma.com.mk/%D0%B2%D0%B5%D1%81%D1%82%D0%B8/svet/hrvatska-povtorno-%D1%9D-go-blokira-patot-na-czrna-gora-kon-eu/",
+      "title": "Хрватска повторно ѝ го блокира патот на Црна Гора кон ЕУ",
+      "url": "https://telma.com.mk/%D0%B2%D0%B5%D1%81%D1%82%D0%B8/svet/hrvatska-povtorno-%D1%9D-go-blokira-patot-na-czrna-gora-kon-eu/",
+      "domain": "telma.com.mk",
+      "seendate": "20261119T193000Z",
+      "language": "Macedonian",
+      "sourcecountry": "Macedonia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680195+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://diena.lv/raksts/dzivesstils/cits-178/no-macitajmajas-lidz-viesnicai",
+      "title": "No mācītājmājas līdz viesnīcai",
+      "url": "https://diena.lv/raksts/dzivesstils/cits-178/no-macitajmajas-lidz-viesnicai",
+      "domain": "diena.lv",
+      "seendate": "20261119T193000Z",
+      "language": "Latvian",
+      "sourcecountry": "Latvia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680196+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/city/vadodara/retired-professor-cheated-of-60000/articleshow/136003272.cms",
+      "title": "Retired professor cheated of ₹60 , 000",
+      "url": "https://timesofindia.indiatimes.com/city/vadodara/retired-professor-cheated-of-60000/articleshow/136003272.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680197+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.bournemouthecho.co.uk/news/national/26746674.victims-blood-found-knife-fetish-website-murder-accused-sent-friend/",
+      "title": "Victim blood found on knife fetish website murder accused sent to friend",
+      "url": "https://www.bournemouthecho.co.uk/news/national/26746674.victims-blood-found-knife-fetish-website-murder-accused-sent-friend/",
+      "domain": "bournemouthecho.co.uk",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680200+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.berliner-kurier.de:443/article/linke-berlin-ddr-parolen-gegen-eralp-rot-gruen-rot-10615270",
+      "title": "Parolen wie aus der DDR : Linke - Rebellen kämpfen gegen Elif Eralp und Rot - Grün - Rot",
+      "url": "https://www.berliner-kurier.de:443/article/linke-berlin-ddr-parolen-gegen-eralp-rot-gruen-rot-10615270",
+      "domain": "berliner-kurier.de",
+      "seendate": "20261119T193000Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680201+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.comune.trento.it/Novita/Comunicati/Sabato-21-novembre-in-piazza-Duomo-si-illumina-Trento-Citta-del-Natale",
+      "title": "Sabato 21 novembre in piazza Duomo si illumina  Trento , Città del Natale  / Comunicati / Novità / Homepage",
+      "url": "https://www.comune.trento.it/Novita/Comunicati/Sabato-21-novembre-in-piazza-Duomo-si-illumina-Trento-Citta-del-Natale",
+      "domain": "comune.trento.it",
+      "seendate": "20261119T193000Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680203+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://wiadomosci.wp.pl/trump-putin-i-xi-oglaszaja-deklaracje-limity-zarobkow-dla-lekarzy-w-polsce-skrot-dnia-7352785275680768a",
+      "title": "Trump , Putin i Xi ogłaszają deklarację . Limity zarobków dla lekarzy w Polsce [ SKRÓT DNIA ]",
+      "url": "https://wiadomosci.wp.pl/trump-putin-i-xi-oglaszaja-deklaracje-limity-zarobkow-dla-lekarzy-w-polsce-skrot-dnia-7352785275680768a",
+      "domain": "wiadomosci.wp.pl",
+      "seendate": "20261119T193000Z",
+      "language": "Polish",
+      "sourcecountry": "Poland",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680205+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.iraqicp.com/index.php/sections/platform/70266-kyf-ksr-alysar-albrazyly-hymnt-alymyn-almttrf-alrqmyt-drws-mn-m-rkt-lwla-alantkhabyt",
+      "title": "كيف كسر اليسار البرازيلي هيمنة اليمين المتطرف الرقمية ؟ دروس من معركة لولا الانتخابية",
+      "url": "https://www.iraqicp.com/index.php/sections/platform/70266-kyf-ksr-alysar-albrazyly-hymnt-alymyn-almttrf-alrqmyt-drws-mn-m-rkt-lwla-alantkhabyt",
+      "domain": "iraqicp.com",
+      "seendate": "20261119T193000Z",
+      "language": "Arabic",
+      "sourcecountry": "Iraq",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680206+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587739.html",
+      "title": "一盏灯陪孩子从小学用到高中 ？ 五家智能大路灯横评 - 热点资讯 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587739.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680208+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587925.html",
+      "title": "东风日产谈造车节奏 ： 不追速成 ， 验证与出海并重 - 智能汽车 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587925.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680209+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.ksat.com/news/local/2026/11/19/grand-theft-auto-vi-launch-fuels-work-absences-fake-school-closure-posts/",
+      "title": "Grand Theft Auto VI  launch fuels work absences , fake school closure posts",
+      "url": "https://www.ksat.com/news/local/2026/11/19/grand-theft-auto-vi-launch-fuels-work-absences-fake-school-closure-posts/",
+      "domain": "ksat.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680210+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.naftemporiki.gr/politics/2191757/dimoskopisi-metron-analysis-kyvernisi-synergasias-thelei-to-52-pos-tha-itan-o-chartis-tis-neas-voylis/",
+      "title": "Δημοσκόπηση Metron Analysis : Κυβέρνηση συνεργασίας θέλει το 52 % - Πώς θα ήταν ο χάρτης της νέας Βουλής",
+      "url": "https://www.naftemporiki.gr/politics/2191757/dimoskopisi-metron-analysis-kyvernisi-synergasias-thelei-to-52-pos-tha-itan-o-chartis-tis-neas-voylis/",
+      "domain": "naftemporiki.gr",
+      "seendate": "20261119T193000Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680212+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.brisbanetimes.com.au/national/after-her-daughter-was-stabbed-to-death-tabitha-acret-was-faced-with-two-options-she-chose-to-take-on-the-system-20261120-p61b8v.html",
+      "title": "Domestic violence murders : After her daughter was stabbed to death , Tabitha Acret chose to take on the system",
+      "url": "https://www.brisbanetimes.com.au/national/after-her-daughter-was-stabbed-to-death-tabitha-acret-was-faced-with-two-options-she-chose-to-take-on-the-system-20261120-p61b8v.html",
+      "domain": "brisbanetimes.com.au",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680213+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587726.html",
+      "title": "爱回收买二手手机售后怎么样 ？ 从条款 、 时效到门店网络逐项拆解 - 热点资讯 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587726.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680215+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://t102.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://t102.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "t102.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680216+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+      "title": "After Anthropic prices IPO higher than expected , shares shoot up 34 % in trading debut",
+      "url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+      "domain": "siliconangle.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680217+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
+      "title": "Academic integrity matters , but students shouldnt be penalised for using AI | Exams",
+      "url": "https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai",
+      "domain": "theguardian.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680219+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.itbear.com.cn/html/2026-11/1587729.html",
+      "title": "在爱回收买二手手机的价格会不会比线下贵 ： 差价出在哪几个环节 - 热点资讯 - ITBear科技资讯",
+      "url": "https://www.itbear.com.cn/html/2026-11/1587729.html",
+      "domain": "itbear.com.cn",
+      "seendate": "20261119T193000Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680221+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.kcci.com/article/grand-theft-auto-6-skipping-work-impact-economy/74480032",
+      "title": "GTA 6 economic hit ? Experts say buzzy math is bunk",
+      "url": "https://www.kcci.com/article/grand-theft-auto-6-skipping-work-impact-economy/74480032",
+      "domain": "kcci.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680223+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.martinique.franceantilles.fr/actualite/international/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-1100244.php",
+      "title": "COP31 sur le climat : les énergies fossiles disparaissent du projet de décision finale",
+      "url": "https://www.martinique.franceantilles.fr/actualite/international/cop31-sur-le-climat-les-energies-fossiles-disparaissent-du-projet-de-decision-finale-1100244.php",
+      "domain": "martinique.franceantilles.fr",
+      "seendate": "20261119T193000Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680224+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://24tv.ua/auto/ru/devyat_otlichnikov_i_odin_neudachnik_euro_ncap_razbil_novye_krossovery_po_zhestkim_pravilam_2026_goda_n77897",
+      "title": "Краш - тесты Euro NCAP 2026 : Škoda Peaq установил рекорд",
+      "url": "https://24tv.ua/auto/ru/devyat_otlichnikov_i_odin_neudachnik_euro_ncap_razbil_novye_krossovery_po_zhestkim_pravilam_2026_goda_n77897",
+      "domain": "24tv.ua",
+      "seendate": "20261119T193000Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680226+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.theage.com.au/business/banking-and-finance/conflict-of-interest-kpmg-on-both-sides-of-nab-s-underpayment-scandal-20261120-p61eqs.html",
+      "title": "KPMG on both sides of NAB underpayment scandal",
+      "url": "https://www.theage.com.au/business/banking-and-finance/conflict-of-interest-kpmg-on-both-sides-of-nab-s-underpayment-scandal-20261120-p61eqs.html",
+      "domain": "theage.com.au",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680227+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.eldiario.ec/ecuador/tienes-entre-22-y-29-anos-banecuador-ofrece-credito-de-hasta-usd-10000-para-emprender-19112026/",
+      "title": "Crédito : BanEcuador ofrece hasta USD 10 , 000 para emprender",
+      "url": "https://www.eldiario.ec/ecuador/tienes-entre-22-y-29-anos-banecuador-ofrece-credito-de-hasta-usd-10000-para-emprender-19112026/",
+      "domain": "eldiario.ec",
+      "seendate": "20261119T193000Z",
+      "language": "Spanish",
+      "sourcecountry": "Ecuador",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680229+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.iowapublicradio.org/news-from-npr/2026-11-19/world-toilet-day-is-a-funny-idea-with-a-serious-goal-a-world-awash-in-toilets",
+      "title": "World Toilet Day is a funny idea with a serious goal : A world awash in toilets",
+      "url": "https://www.iowapublicradio.org/news-from-npr/2026-11-19/world-toilet-day-is-a-funny-idea-with-a-serious-goal-a-world-awash-in-toilets",
+      "domain": "iowapublicradio.org",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680232+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.wvgazettemail.com/sponsored/articles/selling-your-business-to-private-equity-what-the-buyer-will-check-in-your-systems/article_7c3c2cb0-41e5-4b58-848e-26048f9b02f1.html",
+      "title": "Selling Your Business to Private Equity : What the Buyer Will Check in Your Systems",
+      "url": "https://www.wvgazettemail.com/sponsored/articles/selling-your-business-to-private-equity-what-the-buyer-will-check-in-your-systems/article_7c3c2cb0-41e5-4b58-848e-26048f9b02f1.html",
+      "domain": "wvgazettemail.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680233+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://kixcountry929.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://kixcountry929.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "kixcountry929.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680235+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://monavista.ru/7/4884946-migren-i-kurenie-znachitelno-uvelichivayut-risk-ishemicheskogo-insulta-u-zhenschin.html",
+      "title": "Мигрень и курение значительно увеличивают риск ишемического инсульта у женщин",
+      "url": "https://monavista.ru/7/4884946-migren-i-kurenie-znachitelno-uvelichivayut-risk-ishemicheskogo-insulta-u-zhenschin.html",
+      "domain": "monavista.ru",
+      "seendate": "20261119T193000Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680236+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://throwbacksavl.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "title": "Iowa Town Evacuates As Army Plans Chemical Detonation That Will Create Lead Dust Cloud",
+      "url": "https://throwbacksavl.iheart.com/content/2026-11-19-iowa-town-evacuates-as-army-plans-chemical-detonation-that-will-create-lead-dust-cloud/",
+      "domain": "throwbacksavl.iheart.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680238+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://dailydot.com/gta-6-launch-prompts-workers-to-call-out-sick-but-managers-say-they-share-too-much-information-i-dont-want-to-hear-about-your-diarrhea",
+      "title": "GTA 6 Launch Prompts Workers to Call Out Sick , but Managers Say They Share Too Much Information :  I Dont Want to Hear About Your Diarrhea",
+      "url": "https://dailydot.com/gta-6-launch-prompts-workers-to-call-out-sick-but-managers-say-they-share-too-much-information-i-dont-want-to-hear-about-your-diarrhea",
+      "domain": "dailydot.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680239+00:00",
+      "topics": [
+        "science"
+      ]
+    },
+    {
+      "id": "https://www.gulfcoastnewsnow.com/article/iran-war-energy-shock-long-term-impact-iea/74479995",
+      "title": "No going back after Iran War energy shock , IEA says",
+      "url": "https://www.gulfcoastnewsnow.com/article/iran-war-energy-shock-long-term-impact-iea/74479995",
+      "domain": "gulfcoastnewsnow.com",
+      "seendate": "20261119T193000Z",
+      "language": "English",
+      "sourcecountry": "",
+      "topic": "science",
+      "fetched_at": "2026-11-19T20:38:19.680241+00:00",
+      "topics": [
+        "science"
+      ]
+    }
+  ]
 }
