@@ -1,2834 +1,1059 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T22:27:37.634730+00:00",
+  "generated_at": "2026-11-25T08:34:15.118883+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 200,
+  "article_count": 75,
   "articles": [
     {
-      "id": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-puede-competir-pero-lo-que-10-lideres-empresariales-piden-resolver/",
-      "title": "Guatemala puede competir , pero …: lo que 10 líderes empresariales piden resolver",
-      "url": "https://www.prensalibre.com/guatemala/guatemala-no-se-detiene/guatemala-puede-competir-pero-lo-que-10-lideres-empresariales-piden-resolver/",
-      "domain": "prensalibre.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Guatemala",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691014+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.vz.lt/verslo-aplinka/2026/11/24/bulgarijai-gresia-es-bauda-del-nekontroliuojamu-viesuju-finansu-593205",
-      "title": "Bulgarijai gresia ES bauda dėl nekontroliuojamų viešųjų finansų",
-      "url": "https://www.vz.lt/verslo-aplinka/2026/11/24/bulgarijai-gresia-es-bauda-del-nekontroliuojamu-viesuju-finansu-593205",
-      "domain": "vz.lt",
-      "seendate": "20261124T214500Z",
-      "language": "Lithuanian",
-      "sourcecountry": "Lithuania",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691038+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "http://www.frettatiminn.is/frett/launaskrid-og-stada-efnahagsmala",
-      "title": "Launaskrið og staða efnahagsmála – Fréttatíminn",
-      "url": "http://www.frettatiminn.is/frett/launaskrid-og-stada-efnahagsmala",
-      "domain": "frettatiminn.is",
-      "seendate": "20261124T214500Z",
-      "language": "Icelandic",
-      "sourcecountry": "Iceland",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691042+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://profitline.hu/tokebefektetesek-gigagyarak-es-beszallitoi-lancok-hogyan-formalja-at-debrecen-gazdasagat-a-nagy-ipari-bumm-493277",
-      "title": "Tőkebefektetések , gigagyárak és beszállítói láncok : hogyan formálja át Debrecen gazdaságát a nagy ipari bumm ?",
-      "url": "https://profitline.hu/tokebefektetesek-gigagyarak-es-beszallitoi-lancok-hogyan-formalja-at-debrecen-gazdasagat-a-nagy-ipari-bumm-493277",
-      "domain": "profitline.hu",
-      "seendate": "20261124T214500Z",
-      "language": "Hungarian",
-      "sourcecountry": "Hungary",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691044+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://raptorsrapture.com/raptors-davion-mitchell-trade-looks-awful-as-he-emerges-as-the-point-guard-they-need",
-      "title": "Raptor Davion Mitchell trade looks awful as he emerges as the point guard they need",
-      "url": "https://raptorsrapture.com/raptors-davion-mitchell-trade-looks-awful-as-he-emerges-as-the-point-guard-they-need",
-      "domain": "raptorsrapture.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691046+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.eltiempo.com/economia/sector-financiero/dolar-en-colombia-hoy-martes-24-de-noviembre-conozca-cual-es-la-cotizacion-oficial-de-la-divisa-y-cuanto-ha-variado-en-lo-corrido-del-mes-3603681",
-      "title": "Dólar en Colombia hoy , 24 de noviembre : conozca la cotización oficial de la divisa y cuánto ha variado en lo corrido del mes",
-      "url": "https://www.eltiempo.com/economia/sector-financiero/dolar-en-colombia-hoy-martes-24-de-noviembre-conozca-cual-es-la-cotizacion-oficial-de-la-divisa-y-cuanto-ha-variado-en-lo-corrido-del-mes-3603681",
-      "domain": "eltiempo.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Colombia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691048+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.terra.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara,35a9743387b9d45013e9066458e124e4vb9pqp5m.html",
-      "title": "Lula sanciona sem vetos projeto de ajuste fiscal de R$ 50 bi em 2027 após aprovao na Câmara",
-      "url": "https://www.terra.com.br/economia/lula-sanciona-sem-vetos-projeto-de-ajuste-fiscal-de-r-50-bi-em-2027-apos-aprovacao-na-camara,35a9743387b9d45013e9066458e124e4vb9pqp5m.html",
-      "domain": "terra.com.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691050+00:00",
-      "topics": [
-        "markets",
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://iz.ru/2207653/anastasiia-gastin/prodyusery-i-kinoteatry-raskritikovali-zakonoproekt-o-kvotah-na-inostrannye-filmy",
-      "title": "Законопроект о квотах на иностранное кино : как новые правила повлияют на кинопрокат",
-      "url": "https://iz.ru/2207653/anastasiia-gastin/prodyusery-i-kinoteatry-raskritikovali-zakonoproekt-o-kvotah-na-inostrannye-filmy",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691052+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.dailymail.com/yourmoney/article-16317635/economist-warns-americans-grocery-psychological-tax.html",
-      "title": "America cost - of - living nightmare is worse than during the Great Recession as even wealthy families are forced to hunt for bargains , economist warns",
-      "url": "https://www.dailymail.com/yourmoney/article-16317635/economist-warns-americans-grocery-psychological-tax.html",
-      "domain": "dailymail.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691054+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://udn.com/news/story/12806/9898903",
-      "title": "台北月薪38K難活 ！ 他扣掉房租 、 孝親費只剩7千 靠 「 1動作 」 月存5萬買台股 | 台股雜談 | 股市",
-      "url": "https://udn.com/news/story/12806/9898903",
-      "domain": "udn.com",
-      "seendate": "20261124T214500Z",
-      "language": "Chinese",
-      "sourcecountry": "Taiwan",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691055+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.eenadu.net/telugu-news/editorial/general/1200/126214216",
-      "title": "ఎడతెగని విధ్వంసం",
-      "url": "https://www.eenadu.net/telugu-news/editorial/general/1200/126214216",
-      "domain": "eenadu.net",
-      "seendate": "20261124T214500Z",
-      "language": "Telugu",
-      "sourcecountry": "India",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691057+00:00",
-      "topics": [
-        "markets",
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.elespectador.com/economia/minhacienda-pide-que-se-apruebe-adicion-presupuestal-para-pagar-colombia-mayor/",
-      "title": "Minhacienda pide que se apruebe adición presupuestal para pagar Colombia Mayor",
-      "url": "https://www.elespectador.com/economia/minhacienda-pide-que-se-apruebe-adicion-presupuestal-para-pagar-colombia-mayor/",
-      "domain": "elespectador.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Colombia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691059+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.wenxuecity.com/news/2026/11/24/126846253.html",
-      "title": "Shein遭美指控误导消费者 传将支付1亿美元和解",
-      "url": "https://www.wenxuecity.com/news/2026/11/24/126846253.html",
-      "domain": "wenxuecity.com",
-      "seendate": "20261124T214500Z",
-      "language": "Chinese",
-      "sourcecountry": "China",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691060+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://home.nzcity.co.nz/news/article.aspx?id=458647&fm=psp,tsf",
-      "title": "A view businesses are not overly gloomy about the future - 25 - Nov - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=458647&fm=psp,tsf",
-      "domain": "home.nzcity.co.nz",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "New Zealand",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691062+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://informer.rs/dzet-set/estrada/1172942/teodora-dzehverovic-cenovnik-pevacica",
-      "title": "Procurio tajni cenovnik Teodore Džehverović",
-      "url": "https://informer.rs/dzet-set/estrada/1172942/teodora-dzehverovic-cenovnik-pevacica",
-      "domain": "informer.rs",
-      "seendate": "20261124T214500Z",
-      "language": "Serbian",
-      "sourcecountry": "Serbia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691066+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://life.ru/p/nardep-nagornyak-zapasa-topliva-vodokanalam-ukrainy-hvatit-na-6-12-chasov",
-      "title": "Нардеп Нагорняк : Запаса топлива водоканалам Украины хватит на 6 – 12 часов",
-      "url": "https://life.ru/p/nardep-nagornyak-zapasa-topliva-vodokanalam-ukrainy-hvatit-na-6-12-chasov",
-      "domain": "life.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691068+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/economy/economy_general/1288945.html",
-      "title": "젠슨 황 복귀 , 엔비디아 거버넌스의 진짜 위기",
-      "url": "https://www.hani.co.kr/arti/economy/economy_general/1288945.html",
-      "domain": "hani.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691070+00:00",
-      "topics": [
-        "markets",
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.iefimerida.gr/kosmos/ntonalnt-tramp-hari-galopoyles-leyko-oiko",
-      "title": "Ο Ντόναλντ Τραμπ απένειμε χάρη σε δύο γαλοπούλες , τις Freedom και Feathers , στον Λευκό Οίκο -« Θα είναι παντοτινή »",
-      "url": "https://www.iefimerida.gr/kosmos/ntonalnt-tramp-hari-galopoyles-leyko-oiko",
-      "domain": "iefimerida.gr",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.sigmalive.com/news/international/1339042/oykrania-dyo-traumaties-se-epidromi-rosikwn-drones-sto-kievo",
+      "title": "Ουκρανία : Δύο τραυματίες σε επιδρομή ρωσικών drones στο Κίεβο",
+      "url": "https://www.sigmalive.com/news/international/1339042/oykrania-dyo-traumaties-se-epidromi-rosikwn-drones-sto-kievo",
+      "domain": "sigmalive.com",
+      "seendate": "20261125T064500Z",
       "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691074+00:00",
+      "sourcecountry": "Cyprus",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935820+00:00",
       "topics": [
-        "markets",
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://iz.ru/2207584/kseniia-makushnikova/vyzhzhennaia-zemlia-v-es-massovo-sokrashchaiut-posevnye-ploshchadi",
-      "title": "Аграрии в ЕС сокращают посевные площади",
-      "url": "https://iz.ru/2207584/kseniia-makushnikova/vyzhzhennaia-zemlia-v-es-massovo-sokrashchaiut-posevnye-ploshchadi",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691077+00:00",
-      "topics": [
-        "markets",
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.libertas.sm/accordo-ue-in-consiglio-confronto-tra-opportunita-e-referendum/",
-      "title": "Accordo Ue , in Consiglio confronto tra opportunità e referendum",
-      "url": "https://www.libertas.sm/accordo-ue-in-consiglio-confronto-tra-opportunita-e-referendum/",
-      "domain": "libertas.sm",
-      "seendate": "20261124T214500Z",
-      "language": "Italian",
-      "sourcecountry": "San Marino",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691079+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.infomoney.com.br/politica/ministros-articulam-pec-para-frear-gastos-obrigatorios-diz-jornal/",
-      "title": "Ministros articulam PEC para frear gastos obrigatórios , diz jornal",
-      "url": "https://www.infomoney.com.br/politica/ministros-articulam-pec-para-frear-gastos-obrigatorios-diz-jornal/",
-      "domain": "infomoney.com.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691081+00:00",
-      "topics": [
-        "markets",
-        "politics"
-      ]
-    },
-    {
-      "id": "http://www.nashvilleherald.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
-      "title": "U . S . stocks end mixed Tuesday , Dow gains 426 points , Nasdaq drops 356",
-      "url": "http://www.nashvilleherald.com/news/279452544/u-s-stocks-end-mixed-tuesday-dow-gains-426-points-nasdaq-drops-356",
-      "domain": "nashvilleherald.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691083+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://alquds.com/ar/posts/278022",
-      "title": "استقالة قيادي بارز في الحزب الحاكم بتركيا وسط تحقيقات في قضايا فساد مالي",
-      "url": "https://alquds.com/ar/posts/278022",
-      "domain": "alquds.com",
-      "seendate": "20261124T214500Z",
-      "language": "Arabic",
-      "sourcecountry": "Israel",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691084+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://home.nzcity.co.nz/news/article.aspx?id=458647&fm=psp,tst",
-      "title": "A view businesses are not overly gloomy about the future - 25 - Nov - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=458647&fm=psp,tst",
-      "domain": "home.nzcity.co.nz",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "New Zealand",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691086+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/",
-      "title": "Un proyecto que obliga a anunciar las subas en surtidores tres días antes enfrenta a Massa con las petroleras",
-      "url": "https://www.lanacion.com.ar/economia/un-proyecto-que-obliga-a-anunciar-las-subas-en-surtidores-tres-dias-antes-enfrenta-a-massa-con-las-nid24112026/",
-      "domain": "lanacion.com.ar",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.deperu.com/tv/5rH8VolS--U.alza-en-el-precio-de-los-alimentos-golpea-a-olla-comun-en-villa-maria-del-triunfo.UCFnOwPrJ-Skrzk_GPNBV5tg.html",
+      "title": "Video : Alza en el precio de los alimentos golpea a olla común en Villa María del Triunfo por Buenos Días Perú",
+      "url": "https://www.deperu.com/tv/5rH8VolS--U.alza-en-el-precio-de-los-alimentos-golpea-a-olla-comun-en-villa-maria-del-triunfo.UCFnOwPrJ-Skrzk_GPNBV5tg.html",
+      "domain": "deperu.com",
+      "seendate": "20261125T064500Z",
       "language": "Spanish",
-      "sourcecountry": "Argentina",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691088+00:00",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935847+00:00",
       "topics": [
-        "markets"
+        "top"
       ]
     },
     {
-      "id": "https://www.nynganobserver.com.au/story/9397154/echidna-theres-a-bad-smell-about-jensen-huangs-reinstatement/",
-      "title": "Echidna | There a bad smell about Jensen Huang reinstatement | Nyngan Observer",
-      "url": "https://www.nynganobserver.com.au/story/9397154/echidna-theres-a-bad-smell-about-jensen-huangs-reinstatement/",
-      "domain": "nynganobserver.com.au",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.zazoom.it/2026-11-24/conte-attacca-meloni-a-dimartedi-4-anni-di-fallimenti/19972247/",
+      "title": "Conte attacca Meloni a Dimartedì | 4 anni di fallimenti",
+      "url": "https://www.zazoom.it/2026-11-24/conte-attacca-meloni-a-dimartedi-4-anni-di-fallimenti/19972247/",
+      "domain": "zazoom.it",
+      "seendate": "20261125T064500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935851+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://allafrica.com/stories/202611250155.html",
+      "title": "Nigeria : 2027 - Akwa Ibom Federal Lawmaker Insists He Has Performed Well to Win Re - Election",
+      "url": "https://allafrica.com/stories/202611250155.html",
+      "domain": "allafrica.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691090+00:00",
+      "sourcecountry": "Nigeria",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935855+00:00",
       "topics": [
-        "markets"
+        "top"
       ]
     },
     {
-      "id": "https://www.samanyoluhaber.com/fon-sorusturmasinda-biyikli-yabanci-operasyonu-22-finans-kurulusunun-varliklarina-el-koyma-talebi/1495738",
-      "title": "Fon soruşturmasında  bıyıklı yabancı  operasyonu : 22 finans kuruluşunun varlıklarına el koyma talebi",
-      "url": "https://www.samanyoluhaber.com/fon-sorusturmasinda-biyikli-yabanci-operasyonu-22-finans-kurulusunun-varliklarina-el-koyma-talebi/1495738",
-      "domain": "samanyoluhaber.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.zazoom.it/2026-11-25/viaggi-piange-il-portafogli-rincari-anche-allestero-e-vince-la-gita-di-un-giorno/19972285/",
+      "title": "Viaggi piange il portafogli | Rincari anche allestero E vince la gita di un giorno",
+      "url": "https://www.zazoom.it/2026-11-25/viaggi-piange-il-portafogli-rincari-anche-allestero-e-vince-la-gita-di-un-giorno/19972285/",
+      "domain": "zazoom.it",
+      "seendate": "20261125T064500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935857+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://ekonomi.haber7.com/ekonomi/haber/3679623-motorine-bir-buyuk-indirim-daha-tarih-belli-oldu",
+      "title": "Motorine bir büyük indirim daha ! Tarih belli oldu ...",
+      "url": "https://ekonomi.haber7.com/ekonomi/haber/3679623-motorine-bir-buyuk-indirim-daha-tarih-belli-oldu",
+      "domain": "ekonomi.haber7.com",
+      "seendate": "20261125T064500Z",
       "language": "Turkish",
       "sourcecountry": "Turkey",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691092+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935859+00:00",
       "topics": [
-        "markets"
+        "top"
       ]
     },
     {
-      "id": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-gli-avvenimenti-di-giovedi--26-novembre-nRC_24112026_1932_687175761.html",
-      "title": "Economia e finanza : gli avvenimenti di GIOVEDI  26 novembre",
-      "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-gli-avvenimenti-di-giovedi--26-novembre-nRC_24112026_1932_687175761.html",
-      "domain": "borsaitaliana.it",
-      "seendate": "20261124T214500Z",
-      "language": "Italian",
-      "sourcecountry": "Italy",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691093+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.weeklytimes.com.au/the-secret-life-of-powerful-owls-wins-award/",
-      "title": "The Secret Life of Powerful Owl wins award",
-      "url": "https://www.weeklytimes.com.au/the-secret-life-of-powerful-owls-wins-award/",
-      "domain": "weeklytimes.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691095+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.nynganobserver.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "title": "ABS jobs data : Noel Whittaker on growing recession risks | Nyngan Observer",
-      "url": "https://www.nynganobserver.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "domain": "nynganobserver.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691097+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://burkina24.com/2026/11/24/academie-technologique-du-faso-yembi-et-frere-a-mobilise-340-travailleurs-pour-batir-lexcellence/",
-      "title": "Académie Technologique du Faso : Yembi et Frère a mobilisé 340 travailleurs pour bâtir lexcellence",
-      "url": "https://burkina24.com/2026/11/24/academie-technologique-du-faso-yembi-et-frere-a-mobilise-340-travailleurs-pour-batir-lexcellence/",
-      "domain": "burkina24.com",
-      "seendate": "20261124T214500Z",
-      "language": "French",
-      "sourcecountry": "Burkina Faso",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691099+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.elpais.com.co/economia/multinacional-inaugura-en-yumbo-bodega-para-almacenamiento-de-alimentos-refrigerados-2415.html",
-      "title": "Multinacional inaugura en Yumbo bodega para almacenamiento de alimentos refrigerados",
-      "url": "https://www.elpais.com.co/economia/multinacional-inaugura-en-yumbo-bodega-para-almacenamiento-de-alimentos-refrigerados-2415.html",
-      "domain": "elpais.com.co",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Colombia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691101+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
-      "title": "Canada asserts it is a  sovereign nation  after scathing Pentagon memo | Canada",
-      "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
-      "domain": "theguardian.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691103+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://burkina24.com/2026/11/24/burkina-faso-i-semaine-du-numerique-2026-connecter-proteger-et-inclure-pour-conquerir-la-souverainete-technologique/",
-      "title": "Burkina Faso I Semaine du Numérique 2026 : Connecter , protéger et inclure pour conquérir la souveraineté technologique",
-      "url": "https://burkina24.com/2026/11/24/burkina-faso-i-semaine-du-numerique-2026-connecter-proteger-et-inclure-pour-conquerir-la-souverainete-technologique/",
-      "domain": "burkina24.com",
-      "seendate": "20261124T214500Z",
-      "language": "French",
-      "sourcecountry": "Burkina Faso",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691105+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://247wallst.com/cards/dell-technologies-q3-2027-earnings-dell-01m87pfs2c9c73wyprgqr5d02e",
-      "title": "Dell Technologies Q3 2027 : A 44 % EPS Beat Backed by a $132 Billion AI Backlog",
-      "url": "https://247wallst.com/cards/dell-technologies-q3-2027-earnings-dell-01m87pfs2c9c73wyprgqr5d02e",
-      "domain": "247wallst.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691106+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.infomoney.com.br/mercados/por-que-a-vale-vale3-caiu-mais-de-5-nesta-terca/",
-      "title": "Por que a Vale ( VALE3 ) caiu mais de 5 % nesta terça ?",
-      "url": "https://www.infomoney.com.br/mercados/por-que-a-vale-vale3-caiu-mais-de-5-nesta-terca/",
-      "domain": "infomoney.com.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691108+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/international/america/1288951.html",
-      "title": "[ 인터뷰 ]  트럼프 집권이 평범한 사람 정치판에 불러  공화당 텃밭 뒤집은 시장",
-      "url": "https://www.hani.co.kr/arti/international/america/1288951.html",
-      "domain": "hani.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691110+00:00",
-      "topics": [
-        "markets",
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.el-balad.com/17069748",
-      "title": "Nigella Lawson Helps Crown Who Won Bake Off 2026",
-      "url": "https://www.el-balad.com/17069748",
-      "domain": "el-balad.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Egypt",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691113+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://247wallst.com/investing/2026/11/24/delta-air-lines-is-up-more-than-20-this-year-but-1000-from-a-decade-ago-is-worth-less-than-2000/",
-      "title": "Delta Air Lines Is Up More Than 20 % This Year , but $1 , 000 From a Decade Ago Is Worth Less Than $2 , 000",
-      "url": "https://247wallst.com/investing/2026/11/24/delta-air-lines-is-up-more-than-20-this-year-but-1000-from-a-decade-ago-is-worth-less-than-2000/",
-      "domain": "247wallst.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691115+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.cubaheadlines.com/articles/346543",
-      "title": "Cuba Revises Social Security Regulations : New Rules for Workers On and Off the Island",
-      "url": "https://www.cubaheadlines.com/articles/346543",
-      "domain": "cubaheadlines.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Cuba",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691116+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.dailymail.com/tvshowbiz/article-16318207/Great-British-Bake-winner-champion-finale.html",
-      "title": "Great British Bake Off 2026 winner is revealed :  Moyin Odeniran crowned champion with his showstopper tribute to Britain - but fans brand the final the  worst ever",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16318207/Great-British-Bake-winner-champion-finale.html",
-      "domain": "dailymail.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691118+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/society/media/1288949.html",
-      "title": "5 · 18 진실 쓰려다 쫓겨난  택시운전사 최 기자  들 … 우리도 민주화운동 주체",
-      "url": "https://www.hani.co.kr/arti/society/media/1288949.html",
-      "domain": "hani.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691120+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.huntspost.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "title": "Nvidia , Anthropic and other AI stocks drag US market back down",
-      "url": "https://www.huntspost.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "domain": "huntspost.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691122+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.thetoc.gr/koinwnia/article/bolos-fulakisi-okto-minon-me-anastoli-gia-tin-30xroni-pou-poulise-botka-sti-12xroni/",
-      "title": "Βόλος Φυλάκιση 8 μηνών με αναστολή για 30χρονη που πούλησε βότκα στη ...",
-      "url": "https://www.thetoc.gr/koinwnia/article/bolos-fulakisi-okto-minon-me-anastoli-gia-tin-30xroni-pou-poulise-botka-sti-12xroni/",
-      "domain": "thetoc.gr",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691123+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.protothema.gr/greece/article/1916459/den-euthunomai-ego-gia-ta-sholika-ktiria-leei-i-upourgos-paideias-zaharaki-kai-exaggellei-katagrafi/",
-      "title": "Δεν ευθύνομαι εγώ για τα σχολικά κτίρια , λέει η υπουργός Παιδείας Ζαχαράκη και εξαγγέλλει καταγραφή",
-      "url": "https://www.protothema.gr/greece/article/1916459/den-euthunomai-ego-gia-ta-sholika-ktiria-leei-i-upourgos-paideias-zaharaki-kai-exaggellei-katagrafi/",
-      "domain": "protothema.gr",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691125+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.lsm.lv/raksts/zinas/latvija/24.11.2026-visvanati-nosutijusi-pirmstiesas-bridinajumus-vairakiem-x-lietotajiem.a673301/",
-      "title": "Višvanati nosūtījuši pirmstiesas brīdinājumus vairākiem « X lietotājiem",
-      "url": "https://www.lsm.lv/raksts/zinas/latvija/24.11.2026-visvanati-nosutijusi-pirmstiesas-bridinajumus-vairakiem-x-lietotajiem.a673301/",
-      "domain": "lsm.lv",
-      "seendate": "20261124T214500Z",
-      "language": "Latvian",
-      "sourcecountry": "Latvia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691127+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.dorsetecho.co.uk/news/national/26759910.trump-grants-thanksgiving-pardons-turkeys-white-house/",
-      "title": "Trump grants Thanksgiving pardons for turkeys at White House",
-      "url": "https://www.dorsetecho.co.uk/news/national/26759910.trump-grants-thanksgiving-pardons-turkeys-white-house/",
-      "domain": "dorsetecho.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691128+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/science/indias-space-economy-projected-to-rise-to-40-45-billion-by-2036-minister-jitendra-singh/articleshow/136141817.cms",
-      "title": "India space economy projected to rise to $40 - 45 billion by 2036 : Minister Jitendra Singh",
-      "url": "https://timesofindia.indiatimes.com/science/indias-space-economy-projected-to-rise-to-40-45-billion-by-2036-minister-jitendra-singh/articleshow/136141817.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "India",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691130+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/25/business/top-business/peso-closes-higher-psei-extends-rebound-on-bargain-hunting/2477598",
-      "title": "Peso closes higher ; PSEi extends rebound on bargain - hunting",
-      "url": "https://www.manilatimes.net/2026/11/25/business/top-business/peso-closes-higher-psei-extends-rebound-on-bargain-hunting/2477598",
-      "domain": "manilatimes.net",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Philippines",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691132+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.unian.ua/war/naduvni-tanki-na-viyni-rosiya-namagayetsya-obduriti-ukrajinski-droni-13570347.html",
-      "title": "Надувні танки на війні : Росія намагається обдурити українські дрони",
-      "url": "https://www.unian.ua/war/naduvni-tanki-na-viyni-rosiya-namagayetsya-obduriti-ukrajinski-droni-13570347.html",
-      "domain": "unian.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
-      "sourcecountry": "Ukraine",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691133+00:00",
-      "topics": [
-        "markets",
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://24tv.ua/economy/ru/rossija-gotovitsja-k-vojne-do-2029-goda-razbor-novogo-trehletnego-bjudzheta-rf_n3214014",
-      "title": "Россия готовится к войне до 2029 года : разбор нового трехлетнего бюджета РФ",
-      "url": "https://24tv.ua/economy/ru/rossija-gotovitsja-k-vojne-do-2029-goda-razbor-novogo-trehletnego-bjudzheta-rf_n3214014",
-      "domain": "24tv.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Ukraine",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691137+00:00",
-      "topics": [
-        "markets",
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://weartv.com/news/nation-world/nvidia-turmoil-adds-to-wall-streets-growing-fears-about-the-ai-boom-jensen-huang-artificial-intelligence-data-centers",
-      "title": "Nvidia turmoil adds to Wall Street growing fears about the AI boom",
-      "url": "https://weartv.com/news/nation-world/nvidia-turmoil-adds-to-wall-streets-growing-fears-about-the-ai-boom-jensen-huang-artificial-intelligence-data-centers",
-      "domain": "weartv.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691139+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.dorsetecho.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "title": "Nvidia , Anthropic and other AI stocks drag US market back down",
-      "url": "https://www.dorsetecho.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "domain": "dorsetecho.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691140+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.unian.ua/war/rosiya-atakuvala-odeshchinu-dronami-zaginuli-dvi-lyudini-u-tomu-chisli-pidlitok-novini-odesi-13570371.html",
-      "title": "Росія атакувала Одещину дронами : загинули дві людини , у тому числі",
-      "url": "https://www.unian.ua/war/rosiya-atakuvala-odeshchinu-dronami-zaginuli-dvi-lyudini-u-tomu-chisli-pidlitok-novini-odesi-13570371.html",
-      "domain": "unian.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
-      "sourcecountry": "Ukraine",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691142+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.wellingtontimes.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "title": "ABS jobs data : Noel Whittaker on growing recession risks | Wellington Times",
-      "url": "https://www.wellingtontimes.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "domain": "wellingtontimes.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691144+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://news.mail.ru/society/73224020/",
-      "title": "NYT : Хакеры получили доступ к данным ЦРУ и американской разведки",
-      "url": "https://news.mail.ru/society/73224020/",
-      "domain": "news.mail.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691146+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/25/tmt-newswire/pr-newswire/from-the-mountains-to-the-sea-and-now-the-traditional-market-experiencing-the-vibrant-local-charm-of-sokcho-south-korea/2477599",
-      "title": "From the mountains to the sea , and now the traditional market : experiencing the vibrant local charm of Sokcho , South Korea .",
-      "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/pr-newswire/from-the-mountains-to-the-sea-and-now-the-traditional-market-experiencing-the-vibrant-local-charm-of-sokcho-south-korea/2477599",
-      "domain": "manilatimes.net",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Philippines",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691149+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.eenadu.net/telugu-news/business/general/0199/126214313",
-      "title": "కీలక రేటు 0 . 50 % పెంచితే ఆర్థిక స్థిరత్వానికి ముప్పు",
-      "url": "https://www.eenadu.net/telugu-news/business/general/0199/126214313",
-      "domain": "eenadu.net",
-      "seendate": "20261124T214500Z",
-      "language": "Telugu",
-      "sourcecountry": "India",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691151+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.edenmagnet.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "title": "ABS jobs data : Noel Whittaker on growing recession risks | Magnet",
-      "url": "https://www.edenmagnet.com.au/story/9391778/abs-jobs-data-noel-whittaker-on-growing-recession-risks/",
-      "domain": "edenmagnet.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691153+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://metrohk.com.hk/%E8%B2%A1%E7%B6%93/%E7%BE%8E%E8%82%A1%E7%B4%8D%E6%8C%87%E5%8F%8A%E6%A8%99%E6%99%AE%E4%BA%94%E7%99%BE%E5%9B%9E%E8%90%BD-Nvidia%E8%82%A1%E5%83%B9%E8%B7%8C%E9%80%BE7-622cd9",
-      "title": "美股納指及標普五百回落 ， Nvidia股價跌逾7 % ｜METROHK . com . hk",
-      "url": "https://metrohk.com.hk/%E8%B2%A1%E7%B6%93/%E7%BE%8E%E8%82%A1%E7%B4%8D%E6%8C%87%E5%8F%8A%E6%A8%99%E6%99%AE%E4%BA%94%E7%99%BE%E5%9B%9E%E8%90%BD-Nvidia%E8%82%A1%E5%83%B9%E8%B7%8C%E9%80%BE7-622cd9",
-      "domain": "metrohk.com.hk",
-      "seendate": "20261124T214500Z",
-      "language": "Chinese",
-      "sourcecountry": "Hong Kong",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691155+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.chesterstandard.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "title": "Nvidia , Anthropic and other AI stocks drag US market back down",
-      "url": "https://www.chesterstandard.co.uk/news/national/26759882.nvidia-anthropic-ai-stocks-drag-us-market-back/",
-      "domain": "chesterstandard.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691156+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.examiner.com.au/story/9397154/echidna-theres-a-bad-smell-about-jensen-huangs-reinstatement/",
-      "title": "Echidna | There a bad smell about Jensen Huang reinstatement | The Examiner",
-      "url": "https://www.examiner.com.au/story/9397154/echidna-theres-a-bad-smell-about-jensen-huangs-reinstatement/",
-      "domain": "examiner.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691158+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/deephealth-receives-fda-clearance-for-first-ai-to-predict-five-year-breast-cancer-risk-from-3d-mammograms/2477568",
-      "title": "DeepHealth Receives FDA Clearance for First AI to Predict Five - Year Breast Cancer Risk from 3D Mammograms",
-      "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/deephealth-receives-fda-clearance-for-first-ai-to-predict-five-year-breast-cancer-risk-from-3d-mammograms/2477568",
-      "domain": "manilatimes.net",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Philippines",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691160+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/opinion/column/1288952.html",
-      "title": "절대 , 절대 , 절대 돌아오지 마 !",
-      "url": "https://www.hani.co.kr/arti/opinion/column/1288952.html",
-      "domain": "hani.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691161+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.kmib.co.kr/article/20261125500043",
-      "title": "73년생부터 65세 정년  유력⋯  노후 숨통 - 청년은 ? 교차",
-      "url": "https://www.kmib.co.kr/article/20261125500043",
-      "domain": "kmib.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691165+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://247wallst.com/personal-finance/2026/11/24/she-retires-at-65-with-a-900000-all-stock-401k-right-after-the-sp-500s-worst-week-since-april-2025-the-8-6-drop-erases-77400-and-mondays-best-day-since-april-2025-still-leaves-her-38409/",
-      "title": "She Retires at 65 With a $900 , 000 All - Stock 401 ( k ) as the S & P 500 Swings From Its Worst Week to Its Best Day Since April 2025 . The 8 . 6 % Drop Erases $77 , 400 , and the Rebound Still Leaves Her $38 , 409 Short",
-      "url": "https://247wallst.com/personal-finance/2026/11/24/she-retires-at-65-with-a-900000-all-stock-401k-right-after-the-sp-500s-worst-week-since-april-2025-the-8-6-drop-erases-77400-and-mondays-best-day-since-april-2025-still-leaves-her-38409/",
-      "domain": "247wallst.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691167+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://fr.allafrica.com/stories/202611240704.html",
-      "title": "Madagascar : Trempli professionnel - Des femmes entrepreneures prennent leur envol",
-      "url": "https://fr.allafrica.com/stories/202611240704.html",
-      "domain": "fr.allafrica.com",
-      "seendate": "20261124T214500Z",
-      "language": "French",
-      "sourcecountry": "Nigeria",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691168+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://biztimes.com/take-the-2027-biztimes-business-outlook-survey/",
-      "title": "Take the 2027 BizTimes Business Outlook Survey",
-      "url": "https://biztimes.com/take-the-2027-biztimes-business-outlook-survey/",
-      "domain": "biztimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691170+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.radioagricultura.cl/noticias/politica/udi-cuestiona-falta-de-unidad-del-oficialismo-en-medio-del-caso-firmas-seguimos-cometiendo-un-pecado-venial_20261124/",
-      "title": "UDI cuestiona falta de unidad del oficialismo en medio del Caso Firmas :  Seguimos cometiendo un pecado venial",
-      "url": "https://www.radioagricultura.cl/noticias/politica/udi-cuestiona-falta-de-unidad-del-oficialismo-en-medio-del-caso-firmas-seguimos-cometiendo-un-pecado-venial_20261124/",
-      "domain": "radioagricultura.cl",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Chile",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691172+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.timesheraldonline.com/2026/11/24/thanksgiving-travel-authorities-advise-staying-away-from-the-water/",
-      "title": "King tides could flood Bay Area roads during Thanksgiving getaway",
-      "url": "https://www.timesheraldonline.com/2026/11/24/thanksgiving-travel-authorities-advise-staying-away-from-the-water/",
-      "domain": "timesheraldonline.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691173+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://24tv.ua/economy/ru/rossija-stala-importerom-topliva-kakie-mery-gotovit-kreml-dlja-spasenija-bjudzheta_n3214003",
-      "title": "Россия стала импортером топлива : какие меры готовит Кремль для спасения бюджета",
-      "url": "https://24tv.ua/economy/ru/rossija-stala-importerom-topliva-kakie-mery-gotovit-kreml-dlja-spasenija-bjudzheta_n3214003",
-      "domain": "24tv.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Ukraine",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691175+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.hazard-herald.com/news/national/exclusive-senator-seeks-to-restore-medicaid-snap-money/article_f009278c-96ee-5eb5-b710-0be517488a70.html",
-      "title": "Exclusive : Senator seeks to restore Medicaid , SNAP money",
-      "url": "https://www.hazard-herald.com/news/national/exclusive-senator-seeks-to-restore-medicaid-snap-money/article_f009278c-96ee-5eb5-b710-0be517488a70.html",
-      "domain": "hazard-herald.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691177+00:00",
-      "topics": [
-        "markets",
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://24-ore.com/kurti-ne-pritjen-per-28-nentorin-kosova-dhe-shqiperia-kane-nenshkruar-190-marreveshje-bashkepunimi/",
-      "title": "Kurti në pritjen për 28 Nëntorin : Kosova dhe Shqipëria kanë nënshkruar 190 marrëveshje bashkëpunimi",
-      "url": "https://24-ore.com/kurti-ne-pritjen-per-28-nentorin-kosova-dhe-shqiperia-kane-nenshkruar-190-marreveshje-bashkepunimi/",
-      "domain": "24-ore.com",
-      "seendate": "20261124T214500Z",
-      "language": "Albanian",
-      "sourcecountry": "Albania",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691179+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/prospect-enhanced-yield-fund-announces-november-2026-distribution-at-117-annualized-rate/2477572",
-      "title": "Prospect Enhanced Yield Fund Announces November 2026 Distribution at 11 . 7 % Annualized Rate",
-      "url": "https://www.manilatimes.net/2026/11/25/tmt-newswire/globenewswire/prospect-enhanced-yield-fund-announces-november-2026-distribution-at-117-annualized-rate/2477572",
-      "domain": "manilatimes.net",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Philippines",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691180+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://www1.folha.uol.com.br/colunas/painelsa/2026/11/sankhya-consegue-aprovar-r-936-mi-junto-ao-bndes-para-ampliar-aplicacoes-de-ia.shtml",
-      "title": "BNDES aprova R$ 93 , 6 mi para aplicaes de IA da Sankhya - 24 / 11 / 2026 - Painel S . A .",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/11/sankhya-consegue-aprovar-r-936-mi-junto-ao-bndes-para-ampliar-aplicacoes-de-ia.shtml",
-      "domain": "folha.uol.com.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "markets",
-      "fetched_at": "2026-11-24T22:26:44.691182+00:00",
-      "topics": [
-        "markets"
-      ]
-    },
-    {
-      "id": "https://informer.rs/hronika/region/1172968/objava-instagram-nikolina-sljivic",
-      "title": "Poslednja Instagram objava Nikoline Šljivić i njena biografija",
-      "url": "https://informer.rs/hronika/region/1172968/objava-instagram-nikolina-sljivic",
-      "domain": "informer.rs",
-      "seendate": "20261124T214500Z",
-      "language": "Bosnian",
-      "sourcecountry": "Serbia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520265+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.intelligencer.ca/press-releases/pr-newswire/decision-notice-ciro-sanctions-vachana-cissy-terance/",
-      "title": "Decision Notice - CIRO Sanctions Vachana Cissy Terance",
-      "url": "https://www.intelligencer.ca/press-releases/pr-newswire/decision-notice-ciro-sanctions-vachana-cissy-terance/",
-      "domain": "intelligencer.ca",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520286+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://punchng.com/uk-warns-against-handing-human-responsibility-in-warfare-to-machines-ai/",
-      "title": "UK warns against handing warfare responsibility to AI",
-      "url": "https://punchng.com/uk-warns-against-handing-human-responsibility-in-warfare-to-machines-ai/",
-      "domain": "punchng.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Nigeria",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520289+00:00",
-      "topics": [
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.mendocinobeacon.com/2026/11/24/huawei-guilty-conspiracy-trial/",
-      "title": "Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
-      "url": "https://www.mendocinobeacon.com/2026/11/24/huawei-guilty-conspiracy-trial/",
-      "domain": "mendocinobeacon.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520290+00:00",
-      "topics": [
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://makfax.com.mk/svet/ukrainskiot-minister-do-putin-%E2%80%9Eprestani-da-se-zhalish-zavrshi-ja-vojnata%E2%80%9C/",
-      "title": "Украинскиот министер до Путин : „ Престани да се жалиш , заврши ја војната",
-      "url": "https://makfax.com.mk/svet/ukrainskiot-minister-do-putin-%E2%80%9Eprestani-da-se-zhalish-zavrshi-ja-vojnata%E2%80%9C/",
-      "domain": "makfax.com.mk",
-      "seendate": "20261124T214500Z",
-      "language": "Macedonian",
-      "sourcecountry": "Macedonia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520295+00:00",
-      "topics": [
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.blackseanews.net/read/250828",
-      "title": "BlackSeaNews | Україна оголосить МАГАТЕ демарш через призначення підсанкційного росіянина заступником Гроссі",
-      "url": "https://www.blackseanews.net/read/250828",
-      "domain": "blackseanews.net",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
-      "sourcecountry": "Ukraine",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520296+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.elmostrador.cl/noticias/pais/2026/11/24/el-precio-de-la-unidad-ppd-pone-condiciones-al-ps-para-superar-el-caso-firmas/",
-      "title": "El precio de la unidad : PPD pone condiciones al PS para superar el caso firmas",
-      "url": "https://www.elmostrador.cl/noticias/pais/2026/11/24/el-precio-de-la-unidad-ppd-pone-condiciones-al-ps-para-superar-el-caso-firmas/",
-      "domain": "elmostrador.cl",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Chile",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520298+00:00",
-      "topics": [
-        "conflict",
-        "politics"
-      ]
-    },
-    {
-      "id": "https://alquds.com/ar/posts/278023",
-      "title": "رغم عدوان الاحتلال .. 32 ألف طالب في غزة يجتازون الثانوية العامة تحت القصف",
-      "url": "https://alquds.com/ar/posts/278023",
-      "domain": "alquds.com",
-      "seendate": "20261124T214500Z",
-      "language": "Arabic",
-      "sourcecountry": "Israel",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520302+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://timesofindia.indiatimes.com/defence/news/3-chinese-sats-scanned-indias-western-coast-frequently-during-op-sindoor-desi-space-surveillance-companys-report/articleshow/136141736.cms",
-      "title": "3 Chinese sats scanned India western coast frequently during Op Sindoor : Desi space surveillance company report",
-      "url": "https://timesofindia.indiatimes.com/defence/news/3-chinese-sats-scanned-indias-western-coast-frequently-during-op-sindoor-desi-space-surveillance-companys-report/articleshow/136141736.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "India",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520303+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.inewsgr.com/441/i-esthonia-proeidopoiei-tin-oukrania.htm",
-      "title": "Η Εσθονία προειδοποιεί την Ουκρανία",
-      "url": "https://www.inewsgr.com/441/i-esthonia-proeidopoiei-tin-oukrania.htm",
-      "domain": "inewsgr.com",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520307+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.wmuk.org/wmuk-culture/2026-11-24/kalamazoos-messiah-sing-invites-everyone-to-raise-their-voices",
-      "title": "Kalamazoo Messiah Sing invites everyone to raise their voices",
-      "url": "https://www.wmuk.org/wmuk-culture/2026-11-24/kalamazoos-messiah-sing-invites-everyone-to-raise-their-voices",
-      "domain": "wmuk.org",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520308+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://sana.sy/en/syria/2361583/",
-      "title": "Syria , Japan and UN discuss project to boost national mine action center",
-      "url": "https://sana.sy/en/syria/2361583/",
-      "domain": "sana.sy",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Syria",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520310+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.kmib.co.kr/article/20261124501952",
-      "title": "[ 사설 ] 與 신천지 입당 의혹 , 계파 이해 떠나 명백히 밝혀야",
-      "url": "https://www.kmib.co.kr/article/20261124501952",
-      "domain": "kmib.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520315+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://sundayworld.co.za/news/current-global-geopolitical-challenges-cannot-be-managed-in-isolation/",
-      "title": "Global geopolitical challenges cannot be managed in isolation",
-      "url": "https://sundayworld.co.za/news/current-global-geopolitical-challenges-cannot-be-managed-in-isolation/",
-      "domain": "sundayworld.co.za",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "South Africa",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520317+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.hani.co.kr/arti/international/international_general/1288947.html",
-      "title": "젠슨 황 복귀로 번진  워싱턴 권력 투쟁 3막 … 왜 공화당은 충격에 빠졌나",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1288947.html",
-      "domain": "hani.co.kr",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520322+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.cicero.de/innenpolitik/rot-grun-rote-regierungsbildung-in-berlin-emde-muss-linke-fraktion-verlassen",
-      "title": "Rot - grün - rote Regierungsbildung in Berlin - Emde muss Linke - Fraktion verlassen",
-      "url": "https://www.cicero.de/innenpolitik/rot-grun-rote-regierungsbildung-in-berlin-emde-muss-linke-fraktion-verlassen",
-      "domain": "cicero.de",
-      "seendate": "20261124T214500Z",
-      "language": "German",
-      "sourcecountry": "Germany",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520324+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.unian.ua/politics/volodimir-zelenskiy-rizko-vidreaguvav-na-propoziciyu-lukashenka-razom-pojihati-do-moskvi-13570392.html",
-      "title": "Володимир Зеленський різко відреагував на пропозицію Лукашенка разом поїхати до Москви",
-      "url": "https://www.unian.ua/politics/volodimir-zelenskiy-rizko-vidreaguvav-na-propoziciyu-lukashenka-razom-pojihati-do-moskvi-13570392.html",
-      "domain": "unian.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
-      "sourcecountry": "Ukraine",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520325+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.ksta.de:443/politik/unterhaltsvorschuss-kritik-an-geplanter-einkommensgrenze-1420557",
-      "title": "Unterhaltsvorschuss : Kritik an geplanter Einkommensgrenze",
-      "url": "https://www.ksta.de:443/politik/unterhaltsvorschuss-kritik-an-geplanter-einkommensgrenze-1420557",
-      "domain": "ksta.de",
-      "seendate": "20261124T214500Z",
-      "language": "German",
-      "sourcecountry": "Germany",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520327+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.wellingtontimes.com.au/story/9397718/visionary-pacific-leader-hailed-for-shift-from-china/",
-      "title": "Visionary  Pacific leader hailed for shift from China",
-      "url": "https://www.wellingtontimes.com.au/story/9397718/visionary-pacific-leader-hailed-for-shift-from-china/",
-      "domain": "wellingtontimes.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520329+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.koreatimes.com/article/11632718",
-      "title": "유승민 회장  축구협회 관련 FIFA 서한 , 체육회 정관 충돌 소지",
-      "url": "https://www.koreatimes.com/article/11632718",
-      "domain": "koreatimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520331+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.voakorea.com/a/north-korean-tourism-debunk-/8227521.html",
-      "title": "북한 , 관광객 유치로 외화 확보 모색 … 제재 · 폐쇄적 환경 탓에 한계",
-      "url": "https://www.voakorea.com/a/north-korean-tourism-debunk-/8227521.html",
-      "domain": "voakorea.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520333+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "http://www.clevelandstar.com/news/279452615/best-places-to-visit-in-greece-in-2027-greece-insiders-research-shows-americans-moving-beyond-santorini",
-      "title": "Best Places to Visit in Greece in 2027 : Greece Insiders Research Shows Americans Moving Beyond Santorini",
-      "url": "http://www.clevelandstar.com/news/279452615/best-places-to-visit-in-greece-in-2027-greece-insiders-research-shows-americans-moving-beyond-santorini",
-      "domain": "clevelandstar.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520335+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.index.hr/vijesti/clanak/tehnicar-otkrio-sukob-lijecnica-oko-perisa-jedna-ga-htjela-pustiti-druga-vezati/2860468.aspx?index_ref=homepage_comment_box_d&commentId=12568484",
-      "title": "Sukob liječnica prije smrti Periša :  Tražila je da na silu krenemo na njega",
-      "url": "https://www.index.hr/vijesti/clanak/tehnicar-otkrio-sukob-lijecnica-oko-perisa-jedna-ga-htjela-pustiti-druga-vezati/2860468.aspx?index_ref=homepage_comment_box_d&commentId=12568484",
-      "domain": "index.hr",
-      "seendate": "20261124T214500Z",
-      "language": "Croatian",
-      "sourcecountry": "Croatia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520357+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://aristeguinoticias.com/2411/mexico/diplomacia-del-panda-sheinbaum-busca-traer-nuevos-ejemplares-a-mexico/",
-      "title": "Diplomacia del panda : Sheinbaum busca traer nuevos ejemplares a México",
-      "url": "https://aristeguinoticias.com/2411/mexico/diplomacia-del-panda-sheinbaum-busca-traer-nuevos-ejemplares-a-mexico/",
-      "domain": "aristeguinoticias.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Mexico",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520365+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
-      "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , U . S . jury finds",
-      "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
-      "domain": "thehindu.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "India",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520368+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "http://www.middleeaststar.com/news/279452679/uae-strongly-condemns-drone-attacks-on-un-building-and-residential-buildings-in-khartoum",
-      "title": "UAE strongly condemns drone attacks on UN building and residential buildings in Khartoum",
-      "url": "http://www.middleeaststar.com/news/279452679/uae-strongly-condemns-drone-attacks-on-un-building-and-residential-buildings-in-khartoum",
-      "domain": "middleeaststar.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Syria",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520371+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://peakoil.com/production/iran-faces-a-deepening-natural-gas-crisis-ahead-of-winter",
-      "title": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/production/iran-faces-a-deepening-natural-gas-crisis-ahead-of-winter",
-      "domain": "peakoil.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520373+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://news.bigmir.net/ua/world/10471532-polscha-vruchila-rf-duzhe-rizku-diplomatichnu-notu",
-      "title": "Польща вручила РФ  дуже різку дипломатичну ноту",
-      "url": "https://news.bigmir.net/ua/world/10471532-polscha-vruchila-rf-duzhe-rizku-diplomatichnu-notu",
-      "domain": "news.bigmir.net",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520376+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.gundemkibris.com/unficyp-bmnin-marasla-ilgili-tutumu-degismedi",
-      "title": "UNFICYP : BMnin Maraş  la ilgili tutumu değişmedi - Gündem Kıbrıs Gazetesi",
-      "url": "https://www.gundemkibris.com/unficyp-bmnin-marasla-ilgili-tutumu-degismedi",
-      "domain": "gundemkibris.com",
-      "seendate": "20261124T214500Z",
-      "language": "Turkish",
-      "sourcecountry": "Cyprus",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520379+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "http://www.clevelandstar.com/news/279452605/michigan-informs-trev-alberts-he-wont-be-next-ad",
-      "title": "Michigan informs Trev Alberts he wont be next AD",
-      "url": "http://www.clevelandstar.com/news/279452605/michigan-informs-trev-alberts-he-wont-be-next-ad",
-      "domain": "clevelandstar.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520386+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.insidehalton.com/news/school-abortion-flags/article_12a5e8b7-3e76-5a65-b973-b9046c35844c.html",
-      "title": "Sanctity of life issue reemerges at Halton Catholic board",
-      "url": "https://www.insidehalton.com/news/school-abortion-flags/article_12a5e8b7-3e76-5a65-b973-b9046c35844c.html",
-      "domain": "insidehalton.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520390+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://divyamarathi.bhaskar.com/local/maharashtra/news/indapur-tehsildar-controversy-bjp-ncp-ajit-pawar-protest-139788925.html",
-      "title": "Indapur Tehsildar Controversy : BJP & NCP Hold Protests",
-      "url": "https://divyamarathi.bhaskar.com/local/maharashtra/news/indapur-tehsildar-controversy-bjp-ncp-ajit-pawar-protest-139788925.html",
-      "domain": "divyamarathi.bhaskar.com",
-      "seendate": "20261124T214500Z",
-      "language": "Marathi",
-      "sourcecountry": "India",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520392+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://typos.com.cy/politiki/simantiko-to-koino-kalesma-pros-ng-ie-leei-o-ptd-meta-ti-synantisi-me-erchiourman/",
-      "title": "Σημαντικό το κοινό κάλεσμα προς ΓΓ ΗΕ , λέει ο ΠτΔ μετά τη συνάντηση με Έρχιουρμαν",
-      "url": "https://typos.com.cy/politiki/simantiko-to-koino-kalesma-pros-ng-ie-leei-o-ptd-meta-ti-synantisi-me-erchiourman/",
-      "domain": "typos.com.cy",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Cyprus",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520393+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.bakersfield.com/news/a-healthier-thanksgiving-is-about-balance-not-perfection-at-the-holiday-table/article_05f64f0e-6223-4098-a38d-c2ca96e84c00.html",
-      "title": "A healthier Thanksgiving is about balance , not perfection , at the holiday table",
-      "url": "https://www.bakersfield.com/news/a-healthier-thanksgiving-is-about-balance-not-perfection-at-the-holiday-table/article_05f64f0e-6223-4098-a38d-c2ca96e84c00.html",
-      "domain": "bakersfield.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520395+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://telegrafi.com/aktori-steven-hack-nderron-jete/",
-      "title": "Aktori Steven Hack ndërron jetë",
-      "url": "https://telegrafi.com/aktori-steven-hack-nderron-jete/",
-      "domain": "telegrafi.com",
-      "seendate": "20261124T214500Z",
-      "language": "Albanian",
-      "sourcecountry": "Kosovo",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520397+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.baritalianews.it/152353/2026/11/24/mariotto-nuovo-affondo-a-barbara-durso-non-ha-legato-con-nessuno-i-social-pero-dicono-altro/",
-      "title": "Mariotto nuovo affondo a Barbara dUrso : « Non ha legato con nessuno ». I social , però , dicono altro",
-      "url": "https://www.baritalianews.it/152353/2026/11/24/mariotto-nuovo-affondo-a-barbara-durso-non-ha-legato-con-nessuno-i-social-pero-dicono-altro/",
-      "domain": "baritalianews.it",
-      "seendate": "20261124T214500Z",
-      "language": "Italian",
-      "sourcecountry": "Italy",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520399+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://lurer.com/article/763474/am",
-      "title": "Lurer . com | Եվրոպայի անվտանգության նոր համակարգ ․ Politico - ն ներկայացրել է հինգ սցենար",
-      "url": "https://lurer.com/article/763474/am",
-      "domain": "lurer.com",
-      "seendate": "20261124T214500Z",
-      "language": "Armenian",
-      "sourcecountry": "Armenia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520401+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.koco.com/article/family-member-rude-holidays-experts-give-tips/74522154",
-      "title": "Did a family member say something rude ? Here what to say back , according to experts",
-      "url": "https://www.koco.com/article/family-member-rude-holidays-experts-give-tips/74522154",
-      "domain": "koco.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520402+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.aravot.am/2026/11/24/1595906/",
-      "title": "Հայաստանը կարո ՞ ղ է իրականացնել TRIPP - ը ՝ չվնասելով Իրանի հետ հարաբերությունները . TRIPP - ն ու Հայաստանի հարևանները . փորձագիտական կարծիք . « Ա1+ »",
-      "url": "https://www.aravot.am/2026/11/24/1595906/",
-      "domain": "aravot.am",
-      "seendate": "20261124T214500Z",
-      "language": "Armenian",
-      "sourcecountry": "Armenia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520404+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://lufkindailynews.com/news_reuters/top_news/chinas-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business/article_e65cce80-592a-5c5c-a74e-26c4ec41df54.html",
-      "title": "China Huawei convicted in sprawling US criminal trial over Iran business",
-      "url": "https://lufkindailynews.com/news_reuters/top_news/chinas-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business/article_e65cce80-592a-5c5c-a74e-26c4ec41df54.html",
-      "domain": "lufkindailynews.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520406+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.thebest.gr/article/853931-sugkrousi-o-filippos-prospathei-na-apokatastisei-ti-dimosia-eikona-tou",
-      "title": "Σύγκρουση : Ο Φίλιππος προσπαθεί να αποκαταστήσει τη δημόσια εικόνα του",
-      "url": "https://www.thebest.gr/article/853931-sugkrousi-o-filippos-prospathei-na-apokatastisei-ti-dimosia-eikona-tou",
-      "domain": "thebest.gr",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520408+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.nbcconnecticut.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/3799394/",
-      "title": "Tech giant Huawei is guilty of conspiracy to steal trade secrets , – NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/3799394/",
-      "domain": "nbcconnecticut.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520413+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://profitline.hu/minuszban-zartak-az-europai-tozsdek-gyengult-a-dollar-emelkedett-a-foldgaz-ara-493278",
-      "title": "Mínuszban zártak az európai tőzsdék , gyengült a dollár , emelkedett a földgáz ára",
-      "url": "https://profitline.hu/minuszban-zartak-az-europai-tozsdek-gyengult-a-dollar-emelkedett-a-foldgaz-ara-493278",
-      "domain": "profitline.hu",
-      "seendate": "20261124T214500Z",
-      "language": "Hungarian",
-      "sourcecountry": "Hungary",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520415+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.greanvillepost.com/jeffrey-sachs-vladimir-putin-discuss-new-european-security-order/",
-      "title": "Jeffrey Sachs & Vladimir Putin Discuss New European Security Order",
-      "url": "https://www.greanvillepost.com/jeffrey-sachs-vladimir-putin-discuss-new-european-security-order/",
-      "domain": "greanvillepost.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520416+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://iz.ru/2207450/vladislav-daniilov/chlen-ordena-tamplierov-okazalsia-postavshchikom-faier-point",
-      "title": "Кто поставляет комплектующие для дронов и ракет Fire Point",
-      "url": "https://iz.ru/2207450/vladislav-daniilov/chlen-ordena-tamplierov-okazalsia-postavshchikom-faier-point",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520418+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.voakorea.com/a/uk-hammerhead-north-korea-sanctions-/8227525.html",
-      "title": "영 재무부  유령법인 수사 중 북한 제재회피 정황 포착",
-      "url": "https://www.voakorea.com/a/uk-hammerhead-north-korea-sanctions-/8227525.html",
-      "domain": "voakorea.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520420+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.voakorea.com/a/us-iran-/8227534.html",
-      "title": "미 · 카타르  호르무즈 해협 항행 자유 유지 … 이란 긴장 완화 논의",
-      "url": "https://www.voakorea.com/a/us-iran-/8227534.html",
-      "domain": "voakorea.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520422+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://sapo.pt/artigo/israel-acusa-irao-de-desenvolver-armas-quimicas-6b05fd3b7a9ccdad1ed90eb6",
-      "title": "Israel acusa Irão de desenvolver armas químicas",
-      "url": "https://sapo.pt/artigo/israel-acusa-irao-de-desenvolver-armas-quimicas-6b05fd3b7a9ccdad1ed90eb6",
-      "domain": "sapo.pt",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Portugal",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520423+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.iefimerida.gr/kosmos/wsj-ipa-iran-kybernoepitheseis-dexamenoploia",
-      "title": "WSJ : Στο μικροσκόπιο των ΗΠΑ το Ιράν για κυβερνοεπιθέσεις που έχουν στόχο τουλάχιστον 50 δεξαμενόπλοια",
-      "url": "https://www.iefimerida.gr/kosmos/wsj-ipa-iran-kybernoepitheseis-dexamenoploia",
-      "domain": "iefimerida.gr",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520425+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.svd.se/a/wdPJX1/svenska-foretag-i-gulfen-vi-fortsatter-att-vaxa",
-      "title": "Svenska företag i Gulfen :  Vi fortsätter att växa",
-      "url": "https://www.svd.se/a/wdPJX1/svenska-foretag-i-gulfen-vi-fortsatter-att-vaxa",
-      "domain": "svd.se",
-      "seendate": "20261124T214500Z",
-      "language": "Swedish",
-      "sourcecountry": "Sweden",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520429+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://wtaq.com/2026/11/24/delay-in-appointing-attorneys-keeps-vertzs-body-from-being-released-for-funeral/",
-      "title": "Delay in appointing attorneys keeps Vertz body from being released for funeral | WTAQ News Talk | 97 . 5 FM · 1360 AM",
-      "url": "https://wtaq.com/2026/11/24/delay-in-appointing-attorneys-keeps-vertzs-body-from-being-released-for-funeral/",
-      "domain": "wtaq.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520430+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://blog.wenxuecity.com/myblog/84381/202611/19379.html",
-      "title": "红元璋18 ： 林蒋周朱毛去世 ， 终章 - 博客",
-      "url": "https://blog.wenxuecity.com/myblog/84381/202611/19379.html",
-      "domain": "blog.wenxuecity.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://news.china.com/socialgd/10000169/20261125/49906314.html",
+      "title": "台湾走私815公斤毒品主要嫌疑人被保释 司法裁定引争议 _ 新闻频道 _ 中华网",
+      "url": "https://news.china.com/socialgd/10000169/20261125/49906314.html",
+      "domain": "news.china.com",
+      "seendate": "20261125T064500Z",
       "language": "Chinese",
       "sourcecountry": "China",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520432+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935861+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://www.manningrivertimes.com.au/story/9397718/visionary-pacific-leader-hailed-for-shift-from-china/",
-      "title": "Visionary  Pacific leader hailed for shift from China",
-      "url": "https://www.manningrivertimes.com.au/story/9397718/visionary-pacific-leader-hailed-for-shift-from-china/",
-      "domain": "manningrivertimes.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520434+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.inewsgr.com/184/WSJ-sto-mikroskopio-ton-ipa-to-iran-gia-kyvernoepitheseis-pou-echoun-stocho-toulachiston-50-dexamenoploia.htm",
-      "title": "WSJ : Στο μικροσκόπιο των ΗΠΑ το Ιράν για κυβερνοεπιθέσεις που έχουν στόχο τουλάχιστον 50 δεξαμενόπλοια",
-      "url": "https://www.inewsgr.com/184/WSJ-sto-mikroskopio-ton-ipa-to-iran-gia-kyvernoepitheseis-pou-echoun-stocho-toulachiston-50-dexamenoploia.htm",
-      "domain": "inewsgr.com",
-      "seendate": "20261124T214500Z",
-      "language": "Greek",
-      "sourcecountry": "Greece",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520436+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.telegraf.rs/vesti/svet/4438166-diktator-vise-od-godinu-dana-ignorise-trampa-sta-se-desava-na-relaciji-vasington-pjongjang",
-      "title": "Diktator više od godinu dana ignoriše Trampa , šta se dešava na relaciji Vašington - Pjongjang ?",
-      "url": "https://www.telegraf.rs/vesti/svet/4438166-diktator-vise-od-godinu-dana-ignorise-trampa-sta-se-desava-na-relaciji-vasington-pjongjang",
-      "domain": "telegraf.rs",
-      "seendate": "20261124T214500Z",
-      "language": "Serbian",
-      "sourcecountry": "Serbia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520438+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.voakorea.com/a/us-executive-branch/8227538.html",
-      "title": "행정부의 외교와 대외정책",
-      "url": "https://www.voakorea.com/a/us-executive-branch/8227538.html",
-      "domain": "voakorea.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520439+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.notimerica.com/politica/noticia-primer-ministro-haiti-pone-valor-ddhh-no-pueden-ser-pretexto-dejar-indefensa-poblacion-20261124213529.html",
-      "title": "El primer ministro de Haití pone en valor los DDHH pero no pueden ser  pretexto  para dejar indefensa a la población",
-      "url": "https://www.notimerica.com/politica/noticia-primer-ministro-haiti-pone-valor-ddhh-no-pueden-ser-pretexto-dejar-indefensa-poblacion-20261124213529.html",
-      "domain": "notimerica.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Colombia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520441+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "http://www.wa.de/politik/afd-streit-entzweit-bsw-vor-parteitag-soll-ein-kompromiss-nun-die-wogen-glaetten-zr-94606637.html",
-      "title": "AfD - Streit entzweit BSW : Vor Parteitag soll ein Kompromiss die Wogen glätten",
-      "url": "http://www.wa.de/politik/afd-streit-entzweit-bsw-vor-parteitag-soll-ein-kompromiss-nun-die-wogen-glaetten-zr-94606637.html",
-      "domain": "wa.de",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/messerangriff-vor-polizeistation-prozess-in-kiel-beginnt,regionkielnews-3320.html",
+      "title": "Messerangriff vor Polizeistation : Prozess in Kiel beginnt",
+      "url": "https://www.ndr.de/nachrichten/schleswig-holstein/kiel_neumuenster_ploen_rendsburg-eckernfoerde/messerangriff-vor-polizeistation-prozess-in-kiel-beginnt,regionkielnews-3320.html",
+      "domain": "ndr.de",
+      "seendate": "20261125T064500Z",
       "language": "German",
       "sourcecountry": "Germany",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520443+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935863+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://alquds.com/ar/posts/278013",
-      "title": "القوات الحكومية اليمنية تؤكد جاهزيتها لحماية عدن وتستبعد سقوطها بيد الحوثيين",
-      "url": "https://alquds.com/ar/posts/278013",
-      "domain": "alquds.com",
-      "seendate": "20261124T214500Z",
-      "language": "Arabic",
-      "sourcecountry": "Israel",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520444+00:00",
+      "id": "https://udn.com/news/story/7320/9901176",
+      "title": "影 ／ 宜蘭首件縣議員候選人競總遭潑漆 分局長帶隊4小時內逮潑漆男 | 社會萬象 | 社會",
+      "url": "https://udn.com/news/story/7320/9901176",
+      "domain": "udn.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935865+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "http://www.nashvilleherald.com/news/279452615/best-places-to-visit-in-greece-in-2027-greece-insiders-research-shows-americans-moving-beyond-santorini",
-      "title": "Best Places to Visit in Greece in 2027 : Greece Insiders Research Shows Americans Moving Beyond Santorini",
-      "url": "http://www.nashvilleherald.com/news/279452615/best-places-to-visit-in-greece-in-2027-greece-insiders-research-shows-americans-moving-beyond-santorini",
-      "domain": "nashvilleherald.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520446+00:00",
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03207846645649328&mediaCodeNo=257",
+      "title": "4분에 1명꼴 … 러시아군 전사자 72만명 넘었다",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03207846645649328&mediaCodeNo=257",
+      "domain": "edaily.co.kr",
+      "seendate": "20261125T064500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935869+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "http://www.torontotelegraph.com/news/279452563/mkango-magnetic-materials-limited-announces-proposed-fundraise-to-raise-a-minimum-of-pound-6m",
-      "title": "Mkango Magnetic Materials Limited Announces Proposed Fundraise to Raise a Minimum of Pound 6M",
-      "url": "http://www.torontotelegraph.com/news/279452563/mkango-magnetic-materials-limited-announces-proposed-fundraise-to-raise-a-minimum-of-pound-6m",
-      "domain": "torontotelegraph.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520448+00:00",
+      "id": "http://www.akilanews.com/main-news-detail/rupee-strengthens-further-amid-stock-market-rally-record",
+      "title": "શેરબજારની તેજી વચ્ચે રૂપિયો વધુ મજબૂત બન્યો . નવેમ્બરમાં અત્યાર ...",
+      "url": "http://www.akilanews.com/main-news-detail/rupee-strengthens-further-amid-stock-market-rally-record",
+      "domain": "akilanews.com",
+      "seendate": "20261125T064500Z",
+      "language": "Gujarati",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935871+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://www.infomoney.com.br/politica/justica-italiana-adia-para-fevereiro-julgamento-sobre-extradicao-de-carla-zambelli/",
-      "title": "Justiça italiana adia para fevereiro julgamento sobre extradio de Carla Zambelli",
-      "url": "https://www.infomoney.com.br/politica/justica-italiana-adia-para-fevereiro-julgamento-sobre-extradicao-de-carla-zambelli/",
-      "domain": "infomoney.com.br",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.estadao.com.br/opiniao/o-custo-da-transicao-energetica-para-valer/",
+      "title": "O custo da transio energética para valer",
+      "url": "https://www.estadao.com.br/opiniao/o-custo-da-transicao-energetica-para-valer/",
+      "domain": "estadao.com.br",
+      "seendate": "20261125T064500Z",
       "language": "Portuguese",
       "sourcecountry": "Brazil",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520450+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935873+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://tribunahoje.com/noticias/politica/2026/11/24/199619-lula-lamenta-falta-de-acordo-na-cop31-e-pede-uniao-pelo-meio-ambiente",
-      "title": "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente",
-      "url": "https://tribunahoje.com/noticias/politica/2026/11/24/199619-lula-lamenta-falta-de-acordo-na-cop31-e-pede-uniao-pelo-meio-ambiente",
-      "domain": "tribunahoje.com",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520451+00:00",
+      "id": "https://divyamarathi.bhaskar.com/national/news/pm-modi-chairs-union-cabinet-meeting-winter-session-strategy-bills-139793151.html",
+      "title": "PM Modi Chairs Union Cabinet Meeting | Winter Session Strategy & Bills",
+      "url": "https://divyamarathi.bhaskar.com/national/news/pm-modi-chairs-union-cabinet-meeting-winter-session-strategy-bills-139793151.html",
+      "domain": "divyamarathi.bhaskar.com",
+      "seendate": "20261125T064500Z",
+      "language": "Marathi",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935875+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://www.otempo.com.br/politica/congresso/2026/11/24/marinho-acusa-stf-de-invadir-prerrogativas-do-congresso-e-cobra-reacao-em-defesa-de-van-hattem",
-      "title": "Marinho cobra reao do Congresso no caso Van Hattem",
-      "url": "https://www.otempo.com.br/politica/congresso/2026/11/24/marinho-acusa-stf-de-invadir-prerrogativas-do-congresso-e-cobra-reacao-em-defesa-de-van-hattem",
-      "domain": "otempo.com.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "Brazil",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520453+00:00",
+      "id": "https://maharashtratimes.com/career/career-news/ugc-releases-list-of-32-fake-universities-includes-institutions-from-nagpur-and-solapur/articleshow/136148850.cms",
+      "title": "सावधान ! देशातील ३२ बोगस विद्यापीठांची यादी  यूजीसी  कडून जाहीर ; नागपूर व सोलापूरच्या  या  दोन संस्थांचा समावेश",
+      "url": "https://maharashtratimes.com/career/career-news/ugc-releases-list-of-32-fake-universities-includes-institutions-from-nagpur-and-solapur/articleshow/136148850.cms",
+      "domain": "maharashtratimes.com",
+      "seendate": "20261125T064500Z",
+      "language": "Marathi",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935877+00:00",
       "topics": [
-        "conflict"
+        "top"
       ]
     },
     {
-      "id": "https://iz.ru/2206977/sergei-gurianov/perelomnyi-moment-kto-dolzhen-otvechat-za-travmy-detei-v-shkole",
-      "title": "Кого могут осудить за травмы в школе",
-      "url": "https://iz.ru/2206977/sergei-gurianov/perelomnyi-moment-kto-dolzhen-otvechat-za-travmy-detei-v-shkole",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520455+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://iz.ru/2207718/daniil-sechkin/v-es-usilivaetsia-raskol-po-voprosu-podderzhki-ukrainy",
-      "title": "Финансирование Украины раскололо Евросоюз : Венгрия и Словакия выступили против нового кредита",
-      "url": "https://iz.ru/2207718/daniil-sechkin/v-es-usilivaetsia-raskol-po-voprosu-podderzhki-ukrainy",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520457+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://lurer.com/article/763471/am",
-      "title": "Lurer . com | Կրեմլը բացահայտել է Աբու Դաբիի բանակցությունների շուրջ նոր տարաձայնությունները",
-      "url": "https://lurer.com/article/763471/am",
-      "domain": "lurer.com",
-      "seendate": "20261124T214500Z",
-      "language": "Armenian",
-      "sourcecountry": "Armenia",
-      "topic": "conflict",
-      "fetched_at": "2026-11-24T22:27:12.520458+00:00",
-      "topics": [
-        "conflict"
-      ]
-    },
-    {
-      "id": "https://www.chicagotribune.com/2026/11/24/ice-paris-jose-release-thanksgiving/",
-      "title": "ICE in Illinois : Paris , Illinois man released in time for holiday",
-      "url": "https://www.chicagotribune.com/2026/11/24/ice-paris-jose-release-thanksgiving/",
-      "domain": "chicagotribune.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.2news.com/news/national/kilmar-abrego-garcia-who-fought-his-mistaken-deportation-leaves-the-us-voluntarily-for-spain/article_4b705656-1293-5380-94e7-da8af8da3fec.html",
+      "title": "Kilmar Abrego Garcia , who fought his mistaken deportation , leaves the US voluntarily for Spain",
+      "url": "https://www.2news.com/news/national/kilmar-abrego-garcia-who-fought-his-mistaken-deportation-leaves-the-us-voluntarily-for-spain/article_4b705656-1293-5380-94e7-da8af8da3fec.html",
+      "domain": "2news.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114130+00:00",
+      "sourcecountry": "",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935879+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.fox19.com/2026/11/24/historic-delta-queen-could-return-cincinnati-area-hotel-museum/",
-      "title": "Historic Delta Queen could return to Cincinnati area as hotel , museum",
-      "url": "https://www.fox19.com/2026/11/24/historic-delta-queen-could-return-cincinnati-area-hotel-museum/",
-      "domain": "fox19.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://n.yam.com/Article/20261125608263",
+      "title": "公辦政見會登場 童燕珍提六大方向 ： 讓建設走進三民區日常",
+      "url": "https://n.yam.com/Article/20261125608263",
+      "domain": "n.yam.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935882+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://bergamo.corriere.it/notizie/politica/26_novembre_25/bergamo-domenica-29-novembre-si-vota-per-la-provincia-un-test-per-valutare-il-peso-di-fdi-lega-e-fi-2214551c-f9e2-4fe3-a02f-24b8634e9xlk.shtml",
+      "title": "Bergamo , domenica 29 novembre si vota per la Provincia : un test per valutare il peso di FdI , Lega e FI",
+      "url": "https://bergamo.corriere.it/notizie/politica/26_novembre_25/bergamo-domenica-29-novembre-si-vota-per-la-provincia-un-test-per-valutare-il-peso-di-fdi-lega-e-fi-2214551c-f9e2-4fe3-a02f-24b8634e9xlk.shtml",
+      "domain": "bergamo.corriere.it",
+      "seendate": "20261125T064500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935885+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.eltemps.cat/article/68229/el-miting-de-la-victoria-sanchez-i-illa-agiten-lanim-de-remuntada-a-barcelona",
+      "title": "« El míting de la victòria »: Sánchez i Illa agiten l  ànim de remuntada a Barcelona",
+      "url": "https://www.eltemps.cat/article/68229/el-miting-de-la-victoria-sanchez-i-illa-agiten-lanim-de-remuntada-a-barcelona",
+      "domain": "eltemps.cat",
+      "seendate": "20261125T064500Z",
+      "language": "Catalan",
+      "sourcecountry": "Spain",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935888+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.newcastleherald.com.au/story/9398222/inside-a-killer-cops-fascination-with-the-famous/",
+      "title": "Inside a killer cop  fascination  with the famous",
+      "url": "https://www.newcastleherald.com.au/story/9398222/inside-a-killer-cops-fascination-with-the-famous/",
+      "domain": "newcastleherald.com.au",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114149+00:00",
+      "sourcecountry": "",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935890+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.oberonreview.com.au/story/9388650/behind-the-scenes-as-nsw-ambulance-race-to-save-crash-victims/",
-      "title": "Behind the scenes as NSW Ambulance race to save crash victims | Oberon Review",
-      "url": "https://www.oberonreview.com.au/story/9388650/behind-the-scenes-as-nsw-ambulance-race-to-save-crash-victims/",
-      "domain": "oberonreview.com.au",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.hardenexpress.com.au/story/9398222/inside-a-killer-cops-fascination-with-the-famous/",
+      "title": "Inside a killer cop  fascination  with the famous",
+      "url": "https://www.hardenexpress.com.au/story/9398222/inside-a-killer-cops-fascination-with-the-famous/",
+      "domain": "hardenexpress.com.au",
+      "seendate": "20261125T064500Z",
       "language": "English",
       "sourcecountry": "Australia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114152+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935892+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://sana.sy/en/economic/2361603/",
-      "title": "Europe restricts Chinese hybrid car imports as Beijing warns of trade escalation",
-      "url": "https://sana.sy/en/economic/2361603/",
-      "domain": "sana.sy",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.abc.net.au/news/2026-11-25/indigenous-children-commissioner-calls-government-accountable/107421074",
+      "title": "Governments to receive annual report card on treatment of Indigenous children",
+      "url": "https://www.abc.net.au/news/2026-11-25/indigenous-children-commissioner-calls-government-accountable/107421074",
+      "domain": "abc.net.au",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "Syria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114161+00:00",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935893+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://24tv.ua/ru/zelenskij-otvetil-lukashenko-na-predlozhenie-vstretitsja-v-moskve_n3214006",
-      "title": "Зеленский ответил Лукашенко на предложение встретиться в Москве",
-      "url": "https://24tv.ua/ru/zelenskij-otvetil-lukashenko-na-predlozhenie-vstretitsja-v-moskve_n3214006",
-      "domain": "24tv.ua",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Ukraine",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114163+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.koreatimes.com/article/11632707",
-      "title": "젠슨 황 일단 돌아왔지만 다섯갈래 조사  산 넘어 산",
-      "url": "https://www.koreatimes.com/article/11632707",
-      "domain": "koreatimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114169+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://jornaleconomico.sapo.pt/noticias/regiao-de-leiria-com-orcamento-de-38-milhoes-de-euros-para-2027/",
-      "title": "Região de Leiria com orçamento de 38 milhões de euros para 2027",
-      "url": "https://jornaleconomico.sapo.pt/noticias/regiao-de-leiria-com-orcamento-de-38-milhoes-de-euros-para-2027/",
-      "domain": "jornaleconomico.sapo.pt",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114171+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://noticierodigital.com/2026/11/seniat-implemento-nuevos-procesos-digitales-para-agilizar-operaciones-aduaneras-en-maiquetia/",
-      "title": "Seniat implementó nuevos procesos digitales para agilizar operaciones aduaneras en Maiquetía",
-      "url": "https://noticierodigital.com/2026/11/seniat-implemento-nuevos-procesos-digitales-para-agilizar-operaciones-aduaneras-en-maiquetia/",
-      "domain": "noticierodigital.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Venezuela",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114173+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.koreatimes.com/article/11632723",
-      "title": "젠슨황 , 엔비디아 전사회의 열고 사과 … 심리치료 받고 있다",
-      "url": "https://www.koreatimes.com/article/11632723",
-      "domain": "koreatimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "Korean",
-      "sourcecountry": "South Korea",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114175+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://leadership.ng/kaduna-library-uba-sani-reverses-judiciary-handover-proposal/",
-      "title": "Kaduna Library : Uba Sani Reverses Judiciary Handover Proposal",
-      "url": "https://leadership.ng/kaduna-library-uba-sani-reverses-judiciary-handover-proposal/",
-      "domain": "leadership.ng",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Nigeria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114177+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://noticiabrasil.net.br/20261124/oposicao-acusa-pgr-e-stf-de-perseguir-parlamentares-eleitos-para-colocar-supremo-no-seu-devido-56459584.html",
-      "title": "Oposio acusa PGR e STF de perseguir parlamentares e promete  colocar Supremo no seu devido lugar",
-      "url": "https://noticiabrasil.net.br/20261124/oposicao-acusa-pgr-e-stf-de-perseguir-parlamentares-eleitos-para-colocar-supremo-no-seu-devido-56459584.html",
-      "domain": "noticiabrasil.net.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114179+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.ibtimes.co.uk/cia-odni-open-source-intelligence-network-breach-1834538",
-      "title": "CIA and US Spy Chiefs Hit by Data Breach Days After Officials Dismissed Fears of Cyberattacks",
-      "url": "https://www.ibtimes.co.uk/cia-odni-open-source-intelligence-network-breach-1834538",
-      "domain": "ibtimes.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114181+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://elderecho.com/el-director-del-sepblac-pedro-comin-destaca-el-papel-del-ocp-del-notariado-como-socio-estrategico-en-la-lucha-contra-el-blanqueo-de-capitales",
-      "title": "El director del SEPBLAC , Pedro Comín , destaca el papel del OCP del Notariado como  socio estratégico  en la lucha contra el blanqueo de capitales - El Derecho",
-      "url": "https://elderecho.com/el-director-del-sepblac-pedro-comin-destaca-el-papel-del-ocp-del-notariado-como-socio-estrategico-en-la-lucha-contra-el-blanqueo-de-capitales",
-      "domain": "elderecho.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Spain",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114186+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://kdhlradio.com/ixp/150/p/minnesota-subway-violates-labor-law/",
-      "title": "Minnesota Subway Operator Fined Over Sick Time Surcharge",
-      "url": "https://kdhlradio.com/ixp/150/p/minnesota-subway-violates-labor-law/",
-      "domain": "kdhlradio.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114188+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.kuaf.com/npr-news/2026-11-24/who-really-owns-the-albanian-land-jared-kushner-wants-to-turn-into-a-5-star-resort",
-      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5 - star resort ?",
-      "url": "https://www.kuaf.com/npr-news/2026-11-24/who-really-owns-the-albanian-land-jared-kushner-wants-to-turn-into-a-5-star-resort",
-      "domain": "kuaf.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114189+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.elmostrador.cl/braga/2026/11/24/la-cantante-irani-que-recibio-74-latigazos-por-actuar-en-youtube-sin-el-velo/",
-      "title": "La cantante iraní que recibió 74 latigazos por actuar en YouTube sin el velo",
-      "url": "https://www.elmostrador.cl/braga/2026/11/24/la-cantante-irani-que-recibio-74-latigazos-por-actuar-en-youtube-sin-el-velo/",
-      "domain": "elmostrador.cl",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Chile",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114191+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.letoiledulac.com/actualites/8000000006425/ottawa-ajoute-un-mouvement-palestinien-a-sa-liste-des-entites-terroristes",
-      "title": "Ottawa ajoute un mouvement palestinien à sa liste des entités terroristes",
-      "url": "https://www.letoiledulac.com/actualites/8000000006425/ottawa-ajoute-un-mouvement-palestinien-a-sa-liste-des-entites-terroristes",
-      "domain": "letoiledulac.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.republicain-lorrain.fr/economie/2026/11/25/utilisation-simplifiee-des-pesticides-vote-repousse-a-2027-au-parlement-europeen",
+      "title": "Europe . Utilisation « simplifiée » des pesticides  : vote repoussé à 2027 au Parlement européen",
+      "url": "https://www.republicain-lorrain.fr/economie/2026/11/25/utilisation-simplifiee-des-pesticides-vote-repousse-a-2027-au-parlement-europeen",
+      "domain": "republicain-lorrain.fr",
+      "seendate": "20261125T064500Z",
       "language": "French",
-      "sourcecountry": "Canada",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114193+00:00",
+      "sourcecountry": "France",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935896+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://ktbb.com/post/?p=1564120",
-      "title": "US officials say recent tech outages caused by push to fix vulnerabilities . Here what some experts think – KTBB News , Weather , Talk",
-      "url": "https://ktbb.com/post/?p=1564120",
-      "domain": "ktbb.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.etoday.co.kr/news/view/2652705",
+      "title": "법무부 , 전자주총 의무화 앞두고  운영 가이드라인  발표",
+      "url": "https://www.etoday.co.kr/news/view/2652705",
+      "domain": "etoday.co.kr",
+      "seendate": "20261125T064500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935898+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.finanzen.net/nachricht/aktien/rechtsspruch-huawei-us-jury-spricht-chinesischen-tech-konzern-der-geldwaesche-schuldig-16085363",
+      "title": "Huawei : Schuldspruch wegen Geldwäsche verschärft Konflikt zwischen united states und China",
+      "url": "https://www.finanzen.net/nachricht/aktien/rechtsspruch-huawei-us-jury-spricht-chinesischen-tech-konzern-der-geldwaesche-schuldig-16085363",
+      "domain": "finanzen.net",
+      "seendate": "20261125T064500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935901+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.respublika.lt/lt/naujienos/pasaulis/pasaulio_politika/lukasenka-siulo-kartu-su-zelenskiu-vykti-i-maskva/",
+      "title": "Lukašenka siūlo kartu su Zelenskiu vykti į Maskvą",
+      "url": "https://www.respublika.lt/lt/naujienos/pasaulis/pasaulio_politika/lukasenka-siulo-kartu-su-zelenskiu-vykti-i-maskva/",
+      "domain": "respublika.lt",
+      "seendate": "20261125T064500Z",
+      "language": "Lithuanian",
+      "sourcecountry": "Lithuania",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935903+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.politico.eu/article/germany-us-troop-cut-pentagon-decision/",
+      "title": "Germany braces for possible US troop cuts as Pentagon nears decision",
+      "url": "https://www.politico.eu/article/germany-us-troop-cut-pentagon-decision/",
+      "domain": "politico.eu",
+      "seendate": "20261125T064500Z",
       "language": "English",
       "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114195+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935905+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://mcdowellnews.com/news/local/government-politics/article_02c8f286-b112-43cd-abee-e2b0ec64579d.html",
-      "title": "McDowell Planning Board hears from crowd about data centers",
-      "url": "https://mcdowellnews.com/news/local/government-politics/article_02c8f286-b112-43cd-abee-e2b0ec64579d.html",
-      "domain": "mcdowellnews.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114196+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.newarkadvertiser.co.uk/national/leo-varadkar-calls-on-burnham-to-discuss-rejoining-eu-sooner-rather-than-later-174710/",
-      "title": "Leo Varadkar calls on Burnham to discuss rejoining EU  sooner rather than later",
-      "url": "https://www.newarkadvertiser.co.uk/national/leo-varadkar-calls-on-burnham-to-discuss-rejoining-eu-sooner-rather-than-later-174710/",
-      "domain": "newarkadvertiser.co.uk",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United Kingdom",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114198+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.kotatv.com/2026/11/24/south-dakota-leaders-release-2027-2028-legislative-committee-assignments/",
-      "title": "South Dakota leaders release 2027 - 2028 legislative committee assignments",
-      "url": "https://www.kotatv.com/2026/11/24/south-dakota-leaders-release-2027-2028-legislative-committee-assignments/",
-      "domain": "kotatv.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114202+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.fox19.com/2026/11/24/gun-rights-advocates-law-enforcement-clash-over-ohio-bill-lower-concealed-carry-age/",
-      "title": "What to know about Ohio concealed carry bill before DeWine decides",
-      "url": "https://www.fox19.com/2026/11/24/gun-rights-advocates-law-enforcement-clash-over-ohio-bill-lower-concealed-carry-age/",
-      "domain": "fox19.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114204+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://naslovi.net/2026-11-24/volim-zrenjanin/uhapsen-pavle-bihali-vodja-pokreta-levijatan-sumnja-se-da-je-prisvojio-vise-od-22-miliona-dinara-iz-kampanje-uhapsen-pavle-bihali/42650258",
-      "title": "Uhapšen Pavle Bihali , vođa pokreta „ Levijatan : sumnja se da je prisvojio više od 22 miliona dinara iz kampanje Uhapšen Pavle Bihali",
-      "url": "https://naslovi.net/2026-11-24/volim-zrenjanin/uhapsen-pavle-bihali-vodja-pokreta-levijatan-sumnja-se-da-je-prisvojio-vise-od-22-miliona-dinara-iz-kampanje-uhapsen-pavle-bihali/42650258",
-      "domain": "naslovi.net",
-      "seendate": "20261124T214500Z",
-      "language": "Serbian",
-      "sourcecountry": "Serbia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114208+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.theepochtimes.com/china/chinese-airline-to-buy-50-boeing-jets-trump-predicts-250-more-sales-to-china-6128824",
-      "title": "Chinese Airline to Buy 50 Boeing Jets ; Trump Predicts 250 More Sales to China",
-      "url": "https://www.theepochtimes.com/china/chinese-airline-to-buy-50-boeing-jets-trump-predicts-250-more-sales-to-china-6128824",
-      "domain": "theepochtimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114209+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.galiciae.com/economia/sabadell-gallego-amplia-consejo-consultivo-incorporacion-cuatro-miembros-nuevos/20261124212329110714.html",
-      "title": "Sabadell Gallego amplía su consejo consultivo con la incorporación de cuatro miembros nuevos",
-      "url": "https://www.galiciae.com/economia/sabadell-gallego-amplia-consejo-consultivo-incorporacion-cuatro-miembros-nuevos/20261124212329110714.html",
-      "domain": "galiciae.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Spain",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114211+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.blic.rs/vesti/politika/sta-se-sve-dogodilo-na-burnoj-sednici-skupstine-gasenje-mikrofona-opomene/8sdpqnr",
-      "title": "Šta se sve dogodilo na burnoj sednici Skupštine : Gašenje mikrofona , opomene ...",
-      "url": "https://www.blic.rs/vesti/politika/sta-se-sve-dogodilo-na-burnoj-sednici-skupstine-gasenje-mikrofona-opomene/8sdpqnr",
-      "domain": "blic.rs",
-      "seendate": "20261124T214500Z",
-      "language": "Serbian",
-      "sourcecountry": "Serbia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114215+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://iz.ru/2207581/vladislav-trifonov/v-dele-chibisa-mozhet-poyavitsya-ego-pervyy-zamestitel",
-      "title": "Дело губернатора Чибиса : как расследование о хищениях в Мурманской области привело к новым фигурантам",
-      "url": "https://iz.ru/2207581/vladislav-trifonov/v-dele-chibisa-mozhet-poyavitsya-ego-pervyy-zamestitel",
-      "domain": "iz.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114216+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://news.mail.ru/society/73223997/",
-      "title": "« Бомба у наших дверей »: власти Италии встревожены эскалацией в Ливии из - за Киева",
-      "url": "https://news.mail.ru/society/73223997/",
-      "domain": "news.mail.ru",
-      "seendate": "20261124T214500Z",
-      "language": "Russian",
-      "sourcecountry": "Russia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114218+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.weeklytimes.com.au/tigers-to-play-raiders-in-magic-round/",
-      "title": "Tigers to play Raiders in Magic Round | THE WEEKLY TIMES",
-      "url": "https://www.weeklytimes.com.au/tigers-to-play-raiders-in-magic-round/",
-      "domain": "weeklytimes.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114220+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.examiner.com.au/story/9397211/breaking-down-the-reality-of-what-domestic-violence-looks-like/",
-      "title": "Breaking down the reality of what domestic violence looks like | The Examiner",
-      "url": "https://www.examiner.com.au/story/9397211/breaking-down-the-reality-of-what-domestic-violence-looks-like/",
-      "domain": "examiner.com.au",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Australia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114222+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://armtimes.com/hy/article/348348",
-      "title": "Ստորագրվել է Հայաստանի նորարարական էկոհամակարգի տվյալների հարթակի զարգացման վերաբերյալ հուշագիր",
-      "url": "https://armtimes.com/hy/article/348348",
-      "domain": "armtimes.com",
-      "seendate": "20261124T214500Z",
-      "language": "Armenian",
-      "sourcecountry": "Armenia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114225+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://noticiabrasil.net.br/20261124/colombia-tem-acordos-nao-cumpridos-e-multiplicacao-de-grupos-armados-10-anos-apos-acordo-com-as-56456544.html",
-      "title": "Colômbia tem acordos não cumpridos e multiplicao de grupos armados 10 anos após acordo com as FARC",
-      "url": "https://noticiabrasil.net.br/20261124/colombia-tem-acordos-nao-cumpridos-e-multiplicacao-de-grupos-armados-10-anos-apos-acordo-com-as-56456544.html",
-      "domain": "noticiabrasil.net.br",
-      "seendate": "20261124T214500Z",
-      "language": "Portuguese",
-      "sourcecountry": "",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114227+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://frognews.bg/novini/zvuchen-shamar-ili-risk-retsesiia-partiite-spor-zaradi-otsenkite.html",
-      "title": "„ Звучен шамар  или риск от рецесия : Партиите в спор заради оценките на ЕК",
-      "url": "https://frognews.bg/novini/zvuchen-shamar-ili-risk-retsesiia-partiite-spor-zaradi-otsenkite.html",
-      "domain": "frognews.bg",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.actualno.com/varna/carjat-e-protiv-pydarjat-ne-motivite-njamat-znachenie-situacijata-s-blagomir-kocev-news_2666686.html",
+      "title": "Царят е против , пъдарят - не , мотивите нямат значение : Ситуацията с Благомир Коцев",
+      "url": "https://www.actualno.com/varna/carjat-e-protiv-pydarjat-ne-motivite-njamat-znachenie-situacijata-s-blagomir-kocev-news_2666686.html",
+      "domain": "actualno.com",
+      "seendate": "20261125T064500Z",
       "language": "Bulgarian",
       "sourcecountry": "Bulgaria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114228+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935907+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.newser.com/story/400578/trump-pardons-a-pair-of-turkeys.html",
-      "title": "Trump Pardons a Pair of Turkeys",
-      "url": "https://www.newser.com/story/400578/trump-pardons-a-pair-of-turkeys.html",
-      "domain": "newser.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.idexonline.com/FullArticle?Id=51529",
+      "title": "Botswana Diamond Seller Returns to Profitability",
+      "url": "https://www.idexonline.com/FullArticle?Id=51529",
+      "domain": "idexonline.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114237+00:00",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935909+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://punchng.com/bayelsa-orders-reopening-of-schools-in-crisis-hit-community/",
-      "title": "Bayelsa orders reopening of schools in Biseni Kingdom",
-      "url": "https://punchng.com/bayelsa-orders-reopening-of-schools-in-crisis-hit-community/",
-      "domain": "punchng.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-violences-economiques-ont-vocation-a-instaurer-un-climat-de-dependance-quand-l-argent-devient-un-outil-d-emprise_8298447.html",
+      "title": "Les violences économiques ont vocation à instaurer un climat de dépendance    : quand largent devient un outil demprise",
+      "url": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/les-violences-economiques-ont-vocation-a-instaurer-un-climat-de-dependance-quand-l-argent-devient-un-outil-d-emprise_8298447.html",
+      "domain": "franceinfo.fr",
+      "seendate": "20261125T064500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935911+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://investinglive.com/news/japan-looks-to-ease-fiscal-fears-as-takaichi-seeks-to-avoid-fresh-deficit-bonds/",
+      "title": "Japan looks to ease fiscal fears as Takaichi seeks to avoid fresh deficit bonds",
+      "url": "https://investinglive.com/news/japan-looks-to-ease-fiscal-fears-as-takaichi-seeks-to-avoid-fresh-deficit-bonds/",
+      "domain": "investinglive.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "Nigeria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114239+00:00",
+      "sourcecountry": "",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935913+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://redgol.cl/udechile/presidente-de-la-u-logra-la-primera-reunion-con-la-universidad-nombres-simbolos-y-estadio-en-carpeta",
-      "title": "Presidente de la U logra la primera reunión con la Universidad : nombres , símbolos y estadio en carpeta",
-      "url": "https://redgol.cl/udechile/presidente-de-la-u-logra-la-primera-reunion-con-la-universidad-nombres-simbolos-y-estadio-en-carpeta",
-      "domain": "redgol.cl",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.rtve.es/noticias/20261125/guerra-ucrania-rusia-ataques-libia-baltico-extension-conflicto/17328335.shtml",
+      "title": "Ucrania envía un mensaje a Rusia con sus ataques en Libia",
+      "url": "https://www.rtve.es/noticias/20261125/guerra-ucrania-rusia-ataques-libia-baltico-extension-conflicto/17328335.shtml",
+      "domain": "rtve.es",
+      "seendate": "20261125T064500Z",
       "language": "Spanish",
-      "sourcecountry": "Chile",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114240+00:00",
+      "sourcecountry": "Spain",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935914+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.theepochtimes.com/world/dutch-court-bans-chinas-byd-from-selling-suv-too-similar-to-land-rover-defender-6128738",
-      "title": "Dutch Court Bans China BYD From Selling SUV Too Similar to Land Rover Defender",
-      "url": "https://www.theepochtimes.com/world/dutch-court-bans-chinas-byd-from-selling-suv-too-similar-to-land-rover-defender-6128738",
-      "domain": "theepochtimes.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
+      "title": "Latest YouGov Poll Shows Majority Of Americas Still Support Mass Deportations",
+      "url": "https://www.zerohedge.com/political/latest-yougov-poll-shows-majority-americas-still-support-mass-deportations",
+      "domain": "zerohedge.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
       "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114242+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935916+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.blackseanews.net/read/250827",
-      "title": "BlackSeaNews | Міністр оборони Британії відвідав Харків та оголосив нову допомогу",
-      "url": "https://www.blackseanews.net/read/250827",
-      "domain": "blackseanews.net",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
+      "id": "https://www.amnesty.org.au/ghanaian-women-accused-of-being-witches-on-long-awaited-legislation/",
+      "title": "I wish they could pass the bill today : Ghanaian women accused of being witches on long - awaited legislation",
+      "url": "https://www.amnesty.org.au/ghanaian-women-accused-of-being-witches-on-long-awaited-legislation/",
+      "domain": "amnesty.org.au",
+      "seendate": "20261125T064500Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935918+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://horoscope.glavred.info/goroskop-na-zavtra-26-noyabrya-ovnam-ssora-kozerogam-pribyl-10815170.html",
+      "title": "Гороскоп на 26 ноября что предвещают звёзды знакам зодиака",
+      "url": "https://horoscope.glavred.info/goroskop-na-zavtra-26-noyabrya-ovnam-ssora-kozerogam-pribyl-10815170.html",
+      "domain": "horoscope.glavred.info",
+      "seendate": "20261125T064500Z",
+      "language": "Russian",
       "sourcecountry": "Ukraine",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114244+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935920+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://globalnews.ca/news/12164688/ford-defends-chow-del-duca-using-strong-powers-as-critics-raise-alarms/",
-      "title": "Ford defends Chow , Del Duca using strong powers as critics raise alarms",
-      "url": "https://globalnews.ca/news/12164688/ford-defends-chow-del-duca-using-strong-powers-as-critics-raise-alarms/",
-      "domain": "globalnews.ca",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114246+00:00",
+      "id": "https://guineematin.com/2026/11/25/affaire-nabayagate-zenab-drame-beneficie-dune-ordonnance-de-non-inculpation-ses-avocats-envisagent-des-poursuites/",
+      "title": "Affaire « Nabayagate » : Zenab Dramé bénéficie dune ordonnance de non - inculpation , ses avocats envisagent des poursuites",
+      "url": "https://guineematin.com/2026/11/25/affaire-nabayagate-zenab-drame-beneficie-dune-ordonnance-de-non-inculpation-ses-avocats-envisagent-des-poursuites/",
+      "domain": "guineematin.com",
+      "seendate": "20261125T064500Z",
+      "language": "French",
+      "sourcecountry": "Guinea",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935922+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.georgiapolicy.org/news/thanksgiving-reflections/",
-      "title": "Thanksgiving Reflections From Our Team",
-      "url": "https://www.georgiapolicy.org/news/thanksgiving-reflections/",
-      "domain": "georgiapolicy.org",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114249+00:00",
+      "id": "https://www.163.com/dy/article/LCJ9UK030549BAP0.html",
+      "title": "塞尔塔总监 ： 不排除一月引援 ， 巴因迪尔和法耶可能离队",
+      "url": "https://www.163.com/dy/article/LCJ9UK030549BAP0.html",
+      "domain": "163.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935924+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.houstonpublicmedia.org/npr/2026/11/24/g-s1-154623/who-really-owns-the-albanian-land-jared-kushner-wants-to-turn-into-a-5-star-resort/",
-      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5 - star resort ?",
-      "url": "https://www.houstonpublicmedia.org/npr/2026/11/24/g-s1-154623/who-really-owns-the-albanian-land-jared-kushner-wants-to-turn-into-a-5-star-resort/",
-      "domain": "houstonpublicmedia.org",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114251+00:00",
+      "id": "https://www.kavkaz-uzel.ru/articles/428635",
+      "title": "Кавказский Узел | Житель Мескер - Юрта пожаловался Кадырову на нарушение прав сотрудников школы",
+      "url": "https://www.kavkaz-uzel.ru/articles/428635",
+      "domain": "kavkaz-uzel.ru",
+      "seendate": "20261125T064500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935926+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.fox19.com/2026/11/24/nordstrom-rack-open-new-27000-square-foot-store-tri-state/",
-      "title": "Nordstrom Rack to open new 27 , 000 - square - foot store in Tri - State",
-      "url": "https://www.fox19.com/2026/11/24/nordstrom-rack-open-new-27000-square-foot-store-tri-state/",
-      "domain": "fox19.com",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114253+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.delfi.lv/bizness/19/bizness/120143819/lidz-vienosanas-panaksanai-par-es-daudzgadu-budzetu-vel-ir-tals-cels-vesta-laikraksts",
-      "title": "Līdz vienošanās panākšanai par ES daudzgadu budžetu vēl ir tāls ceļš , vēsta laikraksts",
-      "url": "https://www.delfi.lv/bizness/19/bizness/120143819/lidz-vienosanas-panaksanai-par-es-daudzgadu-budzetu-vel-ir-tals-cels-vesta-laikraksts",
-      "domain": "delfi.lv",
-      "seendate": "20261124T214500Z",
-      "language": "Latvian",
-      "sourcecountry": "Latvia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114258+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.unian.ua/politics/madyar-rozpoviv-pro-znachniy-progres-u-domovlenostyah-z-ukrajinoyu-shchodo-nacmenshin-13570389.html",
-      "title": "Мадяр розповів про значний прогрес у домовленостях з Україною щодо нацменшин",
-      "url": "https://www.unian.ua/politics/madyar-rozpoviv-pro-znachniy-progres-u-domovlenostyah-z-ukrajinoyu-shchodo-nacmenshin-13570389.html",
+      "id": "https://www.unian.ua/world/ssha-vidklali-ideyu-ukladennya-biznes-ugod-z-rosiyeyu-shchob-zavershiti-viynu-v-ukrajini-ft-13570473.html",
+      "title": "США відклали ідею укладення бізнес - угод з Росією , щоб завершити війну в Україні – FT",
+      "url": "https://www.unian.ua/world/ssha-vidklali-ideyu-ukladennya-biznes-ugod-z-rosiyeyu-shchob-zavershiti-viynu-v-ukrajini-ft-13570473.html",
       "domain": "unian.ua",
-      "seendate": "20261124T214500Z",
+      "seendate": "20261125T064500Z",
       "language": "Ukrainian",
       "sourcecountry": "Ukraine",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114262+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935928+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://sana.sy/en/syria/2361622/",
-      "title": "Syria Drug Enforcement Department discusses expanding exchanging expertise in Spain",
-      "url": "https://sana.sy/en/syria/2361622/",
-      "domain": "sana.sy",
-      "seendate": "20261124T214500Z",
-      "language": "English",
-      "sourcecountry": "Syria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114263+00:00",
+      "id": "https://www.zazoom.it/2026-11-25/cerno-sulla-morte-di-de-gennaro-chiama-in-causa-violante-ci-dica-cio-che-sa/19972276/",
+      "title": "Cerno sulla morte di De Gennaro chiama in causa Violante",
+      "url": "https://www.zazoom.it/2026-11-25/cerno-sulla-morte-di-de-gennaro-chiama-in-causa-violante-ci-dica-cio-che-sa/19972276/",
+      "domain": "zazoom.it",
+      "seendate": "20261125T064500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935930+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://aristeguinoticias.com/2411/mexico/la-pista-que-llevo-al-ejercito-hasta-el-chapo-isidro/",
-      "title": "La pista que llevó al Ejército hasta  El Chapo Isidro",
-      "url": "https://aristeguinoticias.com/2411/mexico/la-pista-que-llevo-al-ejercito-hasta-el-chapo-isidro/",
-      "domain": "aristeguinoticias.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Mexico",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114265+00:00",
+      "id": "https://net.hr/danas/vijesti/sabor-raspravljao-o-proracunu-za-2027-oporba-upozorava-na-inflaciju-hdz-tvrdi-da-novac-ide-gradanima-9daae468-e88e-11f1-96ed-9600040c8f8e",
+      "title": "Sabor raspravljao o proračunu za 2027 .: Oporba upozorava na inflaciju , HDZ tvrdi da novac ide građanima",
+      "url": "https://net.hr/danas/vijesti/sabor-raspravljao-o-proracunu-za-2027-oporba-upozorava-na-inflaciju-hdz-tvrdi-da-novac-ide-gradanima-9daae468-e88e-11f1-96ed-9600040c8f8e",
+      "domain": "net.hr",
+      "seendate": "20261125T064500Z",
+      "language": "Croatian",
+      "sourcecountry": "Croatia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935931+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.elheraldo.co/atlantico/2026/11/24/2000-familias-de-barranquilla-recibieron-las-escrituras-de-sus-viviendas/",
-      "title": "2 . 000 familias de Barranquilla recibieron las escrituras de sus viviendas",
-      "url": "https://www.elheraldo.co/atlantico/2026/11/24/2000-familias-de-barranquilla-recibieron-las-escrituras-de-sus-viviendas/",
-      "domain": "elheraldo.co",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Colombia",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114267+00:00",
+      "id": "https://www.zazoom.it/2026-11-25/salute-e-sicurezza-sui-luoghi-di-lavoro-le-buone-pratiche-premiano-33-realta-virtuose/19972245/",
+      "title": "Salute e sicurezza sui luoghi di lavoro Le buone pratiche premiano 33 realtà virtuose",
+      "url": "https://www.zazoom.it/2026-11-25/salute-e-sicurezza-sui-luoghi-di-lavoro-le-buone-pratiche-premiano-33-realta-virtuose/19972245/",
+      "domain": "zazoom.it",
+      "seendate": "20261125T064500Z",
+      "language": "Italian",
+      "sourcecountry": "Italy",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935933+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.newsweek.com/how-democrats-could-weaken-laws-against-abortion-in-former-gop-strongholds-12764006",
-      "title": "How Democrats Could Weaken Laws Against Abortion in Former GOP Strongholds",
-      "url": "https://www.newsweek.com/how-democrats-could-weaken-laws-against-abortion-in-former-gop-strongholds-12764006",
-      "domain": "newsweek.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://rg.ru/2026/11/25/poiavilis-pervye-spiski-pretendentov-na-oskar.html",
+      "title": "Появились первые списки претендентов на  Оскар . Обзор  РГ",
+      "url": "https://rg.ru/2026/11/25/poiavilis-pervye-spiski-pretendentov-na-oskar.html",
+      "domain": "rg.ru",
+      "seendate": "20261125T064500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935936+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.ohiostandard.com/news/279452968/no-14-vanderbilt-clutches-up-late-to-win-at-ohio-state",
+      "title": "No . 14 Vanderbilt clutches up late to win at Ohio State",
+      "url": "http://www.ohiostandard.com/news/279452968/no-14-vanderbilt-clutches-up-late-to-win-at-ohio-state",
+      "domain": "ohiostandard.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
       "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114271+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935939+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.el-carabobeno.com/protesta-por-salarios-y-aguinaldos-termina-con-heridos-y-robos-de-la-pnb/",
-      "title": "Protesta por salarios y aguinaldos termina con heridos y presuntos robos de la PNB",
-      "url": "https://www.el-carabobeno.com/protesta-por-salarios-y-aguinaldos-termina-con-heridos-y-robos-de-la-pnb/",
-      "domain": "el-carabobeno.com",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Venezuela",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114284+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.newarkadvertiser.co.uk/national/tories-or-reform-could-unpick-windsor-framework-if-they-win-power-leo-varadkar-174711/",
-      "title": "Tories or Reform could unpick Windsor Framework if they win power – Leo Varadkar",
-      "url": "https://www.newarkadvertiser.co.uk/national/tories-or-reform-could-unpick-windsor-framework-if-they-win-power-leo-varadkar-174711/",
-      "domain": "newarkadvertiser.co.uk",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.burytimes.co.uk/news/26757829.radcliffe-woman-disqualified-driving-18-months/",
+      "title": "Radcliffe woman disqualified from driving for 18 months",
+      "url": "https://www.burytimes.co.uk/news/26757829.radcliffe-woman-disqualified-driving-18-months/",
+      "domain": "burytimes.co.uk",
+      "seendate": "20261125T064500Z",
       "language": "English",
       "sourcecountry": "United Kingdom",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114285+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935941+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://blueprint.ng/northern-governors-sack-nndc-board/",
-      "title": "Northern governors sack NNDC board - Blueprint Newspapers Limited",
-      "url": "https://blueprint.ng/northern-governors-sack-nndc-board/",
-      "domain": "blueprint.ng",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=bcb5e907-37a9-4413-8e17-243cf3218e1b",
+      "title": "رامي بركات : مقتنيات أحمد زكي مخزنة بصناديق وزارة الثقافة منذ 5 سنوات .. ونسعى لاستلامها وإنشاء متحف يليق بتاريخه",
+      "url": "https://www.shorouknews.com/news/view.aspx?cdate=25112026&id=bcb5e907-37a9-4413-8e17-243cf3218e1b",
+      "domain": "shorouknews.com",
+      "seendate": "20261125T064500Z",
+      "language": "Arabic",
+      "sourcecountry": "Egypt",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935944+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://eyeradio.org/nec-defends-election-timeline-adjustment-as-necessary-to-ensure-credible-polls/",
+      "title": "NEC defends election timeline adjustment as necessary to ensure credible polls",
+      "url": "https://eyeradio.org/nec-defends-election-timeline-adjustment-as-necessary-to-ensure-credible-polls/",
+      "domain": "eyeradio.org",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "Nigeria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114287+00:00",
+      "sourcecountry": "South Sudan",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935946+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://imparcialoaxaca.mx/nacional/el-cohete-de-elon-musk-deja-una-tonelada-de-basura-espacial-en-playas-mexicanas-alertan-por-danos-a-la-fauna-marina/",
-      "title": "El cohete de Elon Musk deja una tonelada de basura espacial en playas mexicanas ; alertan por daños a la fauna marina",
-      "url": "https://imparcialoaxaca.mx/nacional/el-cohete-de-elon-musk-deja-una-tonelada-de-basura-espacial-en-playas-mexicanas-alertan-por-danos-a-la-fauna-marina/",
-      "domain": "imparcialoaxaca.mx",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Mexico",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114293+00:00",
+      "id": "https://www.163.com/dy/article/LCJ6T0QQ0514R9OJ.html",
+      "title": "柳州一男子离婚后觉得3岁女儿长得不像自己 ， 要求前妻配合做亲子鉴定 ， 遭拒后用一张父女合照起诉 ， 法院 ： 驳回",
+      "url": "https://www.163.com/dy/article/LCJ6T0QQ0514R9OJ.html",
+      "domain": "163.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935947+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://imparcialoaxaca.mx/internacional/ines-gomez-mont-sale-de-custodia-migratoria-en-estados-unidos-y-esquiva-por-ahora-su-regreso-a-mexico/",
-      "title": "Inés Gómez Mont sale de custodia migratoria en Estados Unidos y esquiva , por ahora , su regreso a México",
-      "url": "https://imparcialoaxaca.mx/internacional/ines-gomez-mont-sale-de-custodia-migratoria-en-estados-unidos-y-esquiva-por-ahora-su-regreso-a-mexico/",
-      "domain": "imparcialoaxaca.mx",
-      "seendate": "20261124T214500Z",
-      "language": "Spanish",
-      "sourcecountry": "Mexico",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114294+00:00",
-      "topics": [
-        "politics"
-      ]
-    },
-    {
-      "id": "https://www.fanoinforma.it/giornata-internazionale-per-leliminazione-della-violenza-contro-le-donne-4/",
-      "title": "Giornata internazionale per leliminazione della violenza contro le donne",
-      "url": "https://www.fanoinforma.it/giornata-internazionale-per-leliminazione-della-violenza-contro-le-donne-4/",
-      "domain": "fanoinforma.it",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.adnkronos.com/internazionale/esteri/ucraina-lukashenko-zelensky-russia_1qeM7bjDwT6jzwo0gYttmX",
+      "title": "Lukashenko vuole accompagnare Zelensky in aereo a Mosca , la replica :  Non sono una valigia",
+      "url": "https://www.adnkronos.com/internazionale/esteri/ucraina-lukashenko-zelensky-russia_1qeM7bjDwT6jzwo0gYttmX",
+      "domain": "adnkronos.com",
+      "seendate": "20261125T064500Z",
       "language": "Italian",
       "sourcecountry": "Italy",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114296+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935949+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/sanita--gli-avvenimenti-di-mercoledi--25-novembre-nRC_24112026_1915_679414551.html",
-      "title": "Sanita : gli avvenimenti di MERCOLEDI  25 novembre",
-      "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/sanita--gli-avvenimenti-di-mercoledi--25-novembre-nRC_24112026_1915_679414551.html",
-      "domain": "borsaitaliana.it",
-      "seendate": "20261124T214500Z",
-      "language": "Italian",
-      "sourcecountry": "Italy",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114297+00:00",
+      "id": "https://military.china.com/news/13004177/20261125/49906152.html",
+      "title": "加防长回击五角大楼指责 捍卫加拿大主权 _ 军事频道 _ 中华网",
+      "url": "https://military.china.com/news/13004177/20261125/49906152.html",
+      "domain": "military.china.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935951+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://news.bigmir.net/ua/world/10471491-lukashenko-zvernuvsya-do-zelenskogo-z-propozitsijeyu",
-      "title": "Лукашенко звернувся до Зеленського з пропозицією",
-      "url": "https://news.bigmir.net/ua/world/10471491-lukashenko-zvernuvsya-do-zelenskogo-z-propozitsijeyu",
-      "domain": "news.bigmir.net",
-      "seendate": "20261124T214500Z",
-      "language": "Ukrainian",
+      "id": "https://www.economiadigital.es/valencia/empresas/china-inpower-abrira-fabrica-valencia-respaldo-gigante-baterias-catl-proveedor-ford-geely.html",
+      "title": "La china Inpower abrirá una fábrica en Valencia con el respaldo del gigante de las baterías CATL , proveedor de Ford y Geely",
+      "url": "https://www.economiadigital.es/valencia/empresas/china-inpower-abrira-fabrica-valencia-respaldo-gigante-baterias-catl-proveedor-ford-geely.html",
+      "domain": "economiadigital.es",
+      "seendate": "20261125T064500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935953+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://eva.vn/tin-tuc/loai-qua-tot-tren-the-gioi-chi-co-o-thanh-hoa-thanh-dac-san-duoc-ua-chuong-80000-d-qua-trong-mot-lan-thu-hoach-nhieu-nam-c73a690163.html",
+      "title": "Loại quả tốt trên thế giới chỉ có ở Thanh Hóa , thành đặc sản được ưa chuộng 80 . 000 đ / quả , trồng một lần thu hoạch nhiều năm",
+      "url": "https://eva.vn/tin-tuc/loai-qua-tot-tren-the-gioi-chi-co-o-thanh-hoa-thanh-dac-san-duoc-ua-chuong-80000-d-qua-trong-mot-lan-thu-hoach-nhieu-nam-c73a690163.html",
+      "domain": "eva.vn",
+      "seendate": "20261125T064500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935955+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.dailyadvertiser.com.au/story/9398361/cold-case-murderer-asked-witness-for-money-mid-trial/",
+      "title": "Cold - case murderer asked witness for money mid - trial",
+      "url": "https://www.dailyadvertiser.com.au/story/9398361/cold-case-murderer-asked-witness-for-money-mid-trial/",
+      "domain": "dailyadvertiser.com.au",
+      "seendate": "20261125T064500Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935957+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.apr.org/2026-11-24/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+      "title": "The Army says there no reason to panic over controlled ammunition detonation in Iowa",
+      "url": "https://www.apr.org/2026-11-24/the-army-says-theres-no-reason-to-panic-over-controlled-ammunition-detonation-in-iowa",
+      "domain": "apr.org",
+      "seendate": "20261125T064500Z",
+      "language": "English",
       "sourcecountry": "United States",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114299+00:00",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935959+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://www.insidehalton.com/news/canada-ontario-benefit-payment-dates-2027/article_83046e87-efa1-5bb6-81fc-651648098a56.html",
-      "title": "Canada and Ontario benefits payment dates 2027 : CPP , ODSP",
-      "url": "https://www.insidehalton.com/news/canada-ontario-benefit-payment-dates-2027/article_83046e87-efa1-5bb6-81fc-651648098a56.html",
-      "domain": "insidehalton.com",
-      "seendate": "20261124T214500Z",
+      "id": "https://www.huxiu.com/article/4908214.html",
+      "title": "迷信AI的当事人 ， 逼疯律师 - 虎嗅网",
+      "url": "https://www.huxiu.com/article/4908214.html",
+      "domain": "huxiu.com",
+      "seendate": "20261125T064500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935961+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-november-25-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/136150452.cms",
+      "title": "Gold price prediction today : Is there any end to gold price fall ? Check November 25 , 2026 outlook",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-november-25-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/136150452.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "seendate": "20261125T064500Z",
       "language": "English",
-      "sourcecountry": "Canada",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114301+00:00",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935963+00:00",
       "topics": [
-        "politics"
+        "top"
       ]
     },
     {
-      "id": "https://sana.sy/tr/politics/2336135/",
-      "title": "Suriye ile İsveç Heyeti G ve İltica Dosyalarında İşbirliğini Görşt",
-      "url": "https://sana.sy/tr/politics/2336135/",
-      "domain": "sana.sy",
-      "seendate": "20261124T214500Z",
-      "language": "Turkish",
-      "sourcecountry": "Syria",
-      "topic": "politics",
-      "fetched_at": "2026-11-24T22:27:25.114304+00:00",
+      "id": "https://www.inewsgr.com/27/thessaloniki-kala-stin-ygeia-tous-ta-dyo-adelfakia-2-kai-4-eton-pou-eichan-egkataleifthei-mona--simera-i-apologia-ton-goneon.htm",
+      "title": "Θεσσαλονίκη : Καλά στην υγεία τους τα δύο αδελφάκια 2 και 4 ετών που είχαν εγκαταλειφθεί μόνα – Σήμερα η απολογία των γονέων",
+      "url": "https://www.inewsgr.com/27/thessaloniki-kala-stin-ygeia-tous-ta-dyo-adelfakia-2-kai-4-eton-pou-eichan-egkataleifthei-mona--simera-i-apologia-ton-goneon.htm",
+      "domain": "inewsgr.com",
+      "seendate": "20261125T064500Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935965+00:00",
       "topics": [
-        "politics"
+        "top"
+      ]
+    },
+    {
+      "id": "https://vietnam.vnanet.vn/japanese/long-form/%E5%8D%8A%E4%B8%96%E7%B4%80%E4%BB%A5%E4%B8%8A%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E7%88%B6%E8%A6%AA%E6%8E%A2%E3%81%97%E3%81%AE%E6%97%85-478938.html",
+      "title": "半世紀以上にわたる父親探しの旅",
+      "url": "https://vietnam.vnanet.vn/japanese/long-form/%E5%8D%8A%E4%B8%96%E7%B4%80%E4%BB%A5%E4%B8%8A%E3%81%AB%E3%82%8F%E3%81%9F%E3%82%8B%E7%88%B6%E8%A6%AA%E6%8E%A2%E3%81%97%E3%81%AE%E6%97%85-478938.html",
+      "domain": "vietnam.vnanet.vn",
+      "seendate": "20261125T064500Z",
+      "language": "Japanese",
+      "sourcecountry": "Vietnam",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935967+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://naslovi.net/2026-11-25/slobodna-evropa/dodikova-odluka-blokira-vlast-bih-i-odlaze-isplatu-miliona-iz-eu/42650773",
+      "title": "Dodikova odluka blokira vlast BiH i odlaže isplatu miliona iz EU",
+      "url": "https://naslovi.net/2026-11-25/slobodna-evropa/dodikova-odluka-blokira-vlast-bih-i-odlaze-isplatu-miliona-iz-eu/42650773",
+      "domain": "naslovi.net",
+      "seendate": "20261125T064500Z",
+      "language": "Bosnian",
+      "sourcecountry": "Serbia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935969+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.punjabkesari.com/uttar-pradesh/imran-masood-seat-sharing-dispute-saharanpur-sp-congress-up-election-2027-do-you-like-this-personality/",
+      "title": "UP Assembly Elections 2027 :  हम लोग भिखारी थोड़ी हैं , सीट शेयरिंग को लेकर भड़के इमरान मसूद , सहारनपुर की 2 सीटों पर फंसा पेंच",
+      "url": "https://www.punjabkesari.com/uttar-pradesh/imran-masood-seat-sharing-dispute-saharanpur-sp-congress-up-election-2027-do-you-like-this-personality/",
+      "domain": "punjabkesari.com",
+      "seendate": "20261125T064500Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935971+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://sudanjem.com/jemsudan-19/",
+      "title": "رئيس حركة العدل والمساواة وزير المالية يلتقى الوفد الفرنسي - حركة العدل و المساواة السودانية",
+      "url": "https://sudanjem.com/jemsudan-19/",
+      "domain": "sudanjem.com",
+      "seendate": "20261125T064500Z",
+      "language": "Arabic",
+      "sourcecountry": "Sudan",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935973+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://nos.nl/artikel/2640916-knvb-overhandigde-tijdens-wk-nog-steunbrief-aan-infantino-wil-ook-niet-de-laatste-zijn",
+      "title": "KNVB overhandigde tijdens WK nog steunbrief aan Infantino :  Wil ook niet de laatste zijn",
+      "url": "https://nos.nl/artikel/2640916-knvb-overhandigde-tijdens-wk-nog-steunbrief-aan-infantino-wil-ook-niet-de-laatste-zijn",
+      "domain": "nos.nl",
+      "seendate": "20261125T064500Z",
+      "language": "Dutch",
+      "sourcecountry": "Netherlands",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935974+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://nos.nl/artikel/2640913-wekdienst-25-11-navo-chef-rutte-praat-met-trump-strafeis-mishandeling-plein-den-haag",
+      "title": "Wekdienst 25 / 11 : NAVO - chef Rutte praat met Trump • Strafeis mishandeling Plein Den Haag",
+      "url": "https://nos.nl/artikel/2640913-wekdienst-25-11-navo-chef-rutte-praat-met-trump-strafeis-mishandeling-plein-den-haag",
+      "domain": "nos.nl",
+      "seendate": "20261125T064500Z",
+      "language": "Dutch",
+      "sourcecountry": "Netherlands",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935976+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.prajavani.net/news/india-news/samajwadi-party-up-election-candidate-list-4418243",
+      "title": "ಉತ್ತರ ಪ್ರದೇಶ ಚುನಾವಣೆ : ಐವರು ಅಭ್ಯರ್ಥಿಗಳ ಮೊದಲ ಪಟ್ಟಿ ಬಿಡುಗಡೆ ಮಾಡಿದ ಎಸ್‌ಪಿ",
+      "url": "https://www.prajavani.net/news/india-news/samajwadi-party-up-election-candidate-list-4418243",
+      "domain": "prajavani.net",
+      "seendate": "20261125T064500Z",
+      "language": "Kannada",
+      "sourcecountry": "India",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935979+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.theleader.com.au/story/9398326/blossoming-relationship-cut-short-by-cops-jealousy/",
+      "title": "Blossoming relationship cut short by cop jealousy",
+      "url": "https://www.theleader.com.au/story/9398326/blossoming-relationship-cut-short-by-cops-jealousy/",
+      "domain": "theleader.com.au",
+      "seendate": "20261125T064500Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935981+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.heute.at/s/diese-fotos-brachten-star-anwaeltin-vor-oberstes-gericht-120286462",
+      "title": "Erregung wegen Pics im Netz – Oben - ohne - Fotos brachten Staranwältin vor Höchstgericht",
+      "url": "https://www.heute.at/s/diese-fotos-brachten-star-anwaeltin-vor-oberstes-gericht-120286462",
+      "domain": "heute.at",
+      "seendate": "20261125T054500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935983+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.sabah.com.tr/trend/galeri/ekonomi/bakan-bayraktardan-enerji-fiyatlari-aciklamasi-avrupanin-en-ucuz-elektrigi-turkiyede-vatandasa-749-milyar-dolarlik-destek",
+      "title": "Bakan Bayraktardan enerji fiyatları açıklaması : Avrupanın en ucuz elektriği Türkiyede ! Vatandaşa 74 , 9 milyar dolarlık destek",
+      "url": "https://www.sabah.com.tr/trend/galeri/ekonomi/bakan-bayraktardan-enerji-fiyatlari-aciklamasi-avrupanin-en-ucuz-elektrigi-turkiyede-vatandasa-749-milyar-dolarlik-destek",
+      "domain": "sabah.com.tr",
+      "seendate": "20261125T054500Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935985+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.oslobodjenje.ba/vijesti/bih/dan-kada-su-postavljeni-temelji-moderne-bi-h-sretan-dan-drzavnosti/",
+      "title": "Dan kada su postavljeni temelji moderne BiH : Sretan Dan državnosti",
+      "url": "https://www.oslobodjenje.ba/vijesti/bih/dan-kada-su-postavljeni-temelji-moderne-bi-h-sretan-dan-drzavnosti/",
+      "domain": "oslobodjenje.ba",
+      "seendate": "20261125T054500Z",
+      "language": "Bosnian",
+      "sourcecountry": "Bosnia-Herzegovina",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935988+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.panamaamerica.com.pa/variedades/jennifer-barreto-hace-historia-es-la-primera-madre-en-ganar-miss-universo-1282552",
+      "title": "Jennifer Barreto hace historia : es la primera madre en ganar Miss Universo",
+      "url": "https://www.panamaamerica.com.pa/variedades/jennifer-barreto-hace-historia-es-la-primera-madre-en-ganar-miss-universo-1282552",
+      "domain": "panamaamerica.com.pa",
+      "seendate": "20261125T054500Z",
+      "language": "Spanish",
+      "sourcecountry": "Panama",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935990+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.legaldaily.com.cn/index_article/content/2026-11/25/content_9497231.html",
+      "title": "【 和合共生 】 习言道｜习近平在深圳的这四个比喻意涵深远",
+      "url": "http://www.legaldaily.com.cn/index_article/content/2026-11/25/content_9497231.html",
+      "domain": "legaldaily.com.cn",
+      "seendate": "20261125T054500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935992+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.tayyar.org/News/Business/750694/_guid=750694",
+      "title": "tayyar . org - تراجع أسعار النفط والذهب",
+      "url": "https://www.tayyar.org/News/Business/750694/_guid=750694",
+      "domain": "tayyar.org",
+      "seendate": "20261125T054500Z",
+      "language": "Arabic",
+      "sourcecountry": "Lebanon",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935994+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "http://www.cincinnatisun.com/news/279452547/burglary-reported-at-royal-couple-s-home-in-uk-s-norfolk",
+      "title": "Burglary reported at royal couple home in united kingdom Norfolk",
+      "url": "http://www.cincinnatisun.com/news/279452547/burglary-reported-at-royal-couple-s-home-in-uk-s-norfolk",
+      "domain": "cincinnatisun.com",
+      "seendate": "20261125T054500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935996+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.motorward.com/De-Cuerda-De-Acero-Inoxidable-A4-Con-Gancho-Y-Ojo-PRIOstahl-261570",
+      "title": "Acero V4A Galvanizado 2 Tensores De Cuerda De Acero Inoxidable A4 Con Gancho Y Ojo , PRIOstahl",
+      "url": "https://www.motorward.com/De-Cuerda-De-Acero-Inoxidable-A4-Con-Gancho-Y-Ojo-PRIOstahl-261570",
+      "domain": "motorward.com",
+      "seendate": "20261125T054500Z",
+      "language": "Spanish",
+      "sourcecountry": "United States",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.935997+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www.kymensanomat.fi/uutissuomalainen/9983591",
+      "title": "Kiinalainen teknologiajätti Huawei tuomittiin Yhdysvalloissa liikesalaisuuksien varastamisesta",
+      "url": "https://www.kymensanomat.fi/uutissuomalainen/9983591",
+      "domain": "kymensanomat.fi",
+      "seendate": "20261125T054500Z",
+      "language": "Finnish",
+      "sourcecountry": "Finland",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.936000+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://www1.wdr.de/nrw/niederrhein/kreis-kleve/gericht-bamf-bescheid-abschiebung-tadschikistan-100.html",
+      "title": "Abschiebung nach Tadschikistan war rechtswidrig",
+      "url": "https://www1.wdr.de/nrw/niederrhein/kreis-kleve/gericht-bamf-bescheid-abschiebung-tadschikistan-100.html",
+      "domain": "wdr.de",
+      "seendate": "20261125T054500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.936002+00:00",
+      "topics": [
+        "top"
+      ]
+    },
+    {
+      "id": "https://eldia.com.do/el-codigo-29-no-esta-en-la-constitucion/",
+      "title": "El Código 29 no está en la Constitución",
+      "url": "https://eldia.com.do/el-codigo-29-no-esta-en-la-constitucion/",
+      "domain": "eldia.com.do",
+      "seendate": "20261125T054500Z",
+      "language": "Spanish",
+      "sourcecountry": "Dominican Republic",
+      "topic": "top",
+      "fetched_at": "2026-11-25T08:33:08.936005+00:00",
+      "topics": [
+        "top"
       ]
     }
   ]
