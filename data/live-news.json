@@ -1,9 +1,1060 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T21:43:04.478534+00:00",
+  "generated_at": "2026-11-26T08:17:57.291279+00:00",
   "provider": "GDELT DOC API",
   "window": "rolling 7 days",
   "notice": "Discovery feed only; not exhaustive or independently fact-checked.",
-  "article_count": 0,
-  "articles": []
+  "article_count": 75,
+  "articles": [
+    {
+      "id": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
+      "title": "Обмен пленными перед праздниками Кушнер анонсировал крупнейший за всю войну",
+      "url": "https://glavred.info/war/tisyachi-polonenih-povernutsya-dodomu-do-svyat-kushner-pro-naybilshiy-obmin-10815518.html",
+      "domain": "glavred.info",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639247+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://news.yam.md/ro/story/91396332",
+      "title": "Pariuri la Casa Albă pe data la care Trump își va concedia un ministru . Ce gafe a făcut noul șef al Homeland Security",
+      "url": "https://news.yam.md/ro/story/91396332",
+      "domain": "news.yam.md",
+      "seendate": "20261126T061500Z",
+      "language": "Romanian",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639276+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ahaber.com.tr/galeri/dunya/hafterin-ankara-ziyareti-yunanistan-ve-israil-basininda-genis-yanki-uyandirdi",
+      "title": "Hafterin Ankara ziyareti Atina ve Tel Avivi alarma geçirdi ! Yunan ve İsrail basınında hangi detay öne çıktı ?",
+      "url": "https://www.ahaber.com.tr/galeri/dunya/hafterin-ankara-ziyareti-yunanistan-ve-israil-basininda-genis-yanki-uyandirdi",
+      "domain": "ahaber.com.tr",
+      "seendate": "20261126T061500Z",
+      "language": "Turkish",
+      "sourcecountry": "Turkey",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639281+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
+      "title": "US - led consortium agrees to acquire assets from Russian oil company Lukoil",
+      "url": "https://www.thepeterboroughexaminer.com/business/us-led-consortium-agrees-to-acquire-assets-from-russian-oil-company-lukoil/article_79676cdc-219d-53d7-bfc3-e2062f97cbaa.html",
+      "domain": "thepeterboroughexaminer.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639284+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ratopati.com/story/607702/climate-justice-from-empathy-to-evidence-and-results",
+      "title": "जलवायु न्याय : सहानुभूतिबाट प्रमाण र परिणामको बाटो | Nepal first 24 - hour updated news portal",
+      "url": "https://www.ratopati.com/story/607702/climate-justice-from-empathy-to-evidence-and-results",
+      "domain": "ratopati.com",
+      "seendate": "20261126T061500Z",
+      "language": "Nepali",
+      "sourcecountry": "Nepal",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639286+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://unn.ua/ru/news/khusiti-atakovali-dva-porta-saudovskoi-aravii-na-krasnom-more-i-zayavili-o-mesti-za-udari-po-yemenu",
+      "title": "Хуситы атаковали два порта Саудовской Аравии на Красном море и заявили о мести за удары по Йемену",
+      "url": "https://unn.ua/ru/news/khusiti-atakovali-dva-porta-saudovskoi-aravii-na-krasnom-more-i-zayavili-o-mesti-za-udari-po-yemenu",
+      "domain": "unn.ua",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639288+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-11/70232698-spd-lehnt-cdu-rentenkompromiss-ab-003.htm",
+      "title": "SPD lehnt CDU - Rentenkompromiss ab",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70232698-spd-lehnt-cdu-rentenkompromiss-ab-003.htm",
+      "domain": "finanznachrichten.de",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639290+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ithome.com.tw/news/180820",
+      "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼 ， 植入惡意程式碼下載客戶資料",
+      "url": "https://www.ithome.com.tw/news/180820",
+      "domain": "ithome.com.tw",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639293+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
+      "title": "川普新版出生公民權限制令 再遭法官叫停",
+      "url": "https://www.epochtimes.com/b5/26/11/26/n14895338.htm",
+      "domain": "epochtimes.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639294+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.antena3.ro/externe/sua-au-aprobat-vanzarea-de-piese-de-schimb-pentru-mentenanta-avioanelor-f-16-ale-ucrainei-812671.html",
+      "title": "SUA au aprobat vânzarea de piese de schimb pentru mentenanța avioanelor F - 16 ale Ucrainei",
+      "url": "https://www.antena3.ro/externe/sua-au-aprobat-vanzarea-de-piese-de-schimb-pentru-mentenanta-avioanelor-f-16-ale-ucrainei-812671.html",
+      "domain": "antena3.ro",
+      "seendate": "20261126T061500Z",
+      "language": "Romanian",
+      "sourcecountry": "Romania",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639297+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "http://news.fjsen.com/2026-11/26/content_32289316.htm",
+      "title": "《 出口中国能力发展报告 》 国际研讨会在瑞士日内瓦成功举办 - 即时新闻",
+      "url": "http://news.fjsen.com/2026-11/26/content_32289316.htm",
+      "domain": "news.fjsen.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639300+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html",
+      "title": "DIRECT . Présidentielle 2027  : à lAssemblée , Les Républicains proposent de durcir la réponse pénale lors de leur  niche parlementaire",
+      "url": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html",
+      "domain": "franceinfo.fr",
+      "seendate": "20261126T061500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639302+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.aol.co.uk/articles/uk-invest-9-5m-ukraine-050046000.html",
+      "title": "UK to invest £9 . 5m in Ukraine windfarm to bolster war - hit energy system",
+      "url": "https://www.aol.co.uk/articles/uk-invest-9-5m-ukraine-050046000.html",
+      "domain": "aol.co.uk",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "United Kingdom",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639304+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.toonippo.co.jp/articles/-/2411378",
+      "title": "「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難｜全国のニュース｜Web東奥",
+      "url": "https://www.toonippo.co.jp/articles/-/2411378",
+      "domain": "toonippo.co.jp",
+      "seendate": "20261126T061500Z",
+      "language": "Japanese",
+      "sourcecountry": "Japan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639306+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
+      "title": "Ο Τζάρεντ Κούσνερ μεταφέρει διαβεβαιώσεις Πούτιν για μη χρήση πυρηνικών όπλων",
+      "url": "https://www.madata.gr/epikairotita/world/997303-o-tzarent-koysner-metaferei-diavevaioseis-poytin-gia-mi-chrisi-pyrinikon-oplon.html",
+      "domain": "madata.gr",
+      "seendate": "20261126T061500Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639308+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://tribune.com.pk/story/2642364/makkah-pact-trio-to-meet-in-islamabad",
+      "title": "Makkah pact trio to meet in Islamabad",
+      "url": "https://tribune.com.pk/story/2642364/makkah-pact-trio-to-meet-in-islamabad",
+      "domain": "tribune.com.pk",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639310+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "http://news.fjsen.com/2026-11/26/content_32289327.htm",
+      "title": "瑞士 ： 对朝鲜关闭瑞士驻平壤外交办事处表示遗憾 - 环球新闻",
+      "url": "http://news.fjsen.com/2026-11/26/content_32289327.htm",
+      "domain": "news.fjsen.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639312+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.tt.com/artikel/30947740/kim-jong-un-will-ausbau-von-nuklearprogramm",
+      "title": "Kim Jong - un will Ausbau von Nuklearprogramm | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt . com",
+      "url": "https://www.tt.com/artikel/30947740/kim-jong-un-will-ausbau-von-nuklearprogramm",
+      "domain": "tt.com",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639314+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.alwatanvoice.com/arabic/news/bbc/2026/11/26/67025296.html",
+      "title": "ليحيا المسيح الملك !: لماذا رفعت ملكة جمال الكون السابقة هذا الشعار قبل تسليم التاج للفائزة ؟",
+      "url": "https://www.alwatanvoice.com/arabic/news/bbc/2026/11/26/67025296.html",
+      "domain": "alwatanvoice.com",
+      "seendate": "20261126T061500Z",
+      "language": "Arabic",
+      "sourcecountry": "Israel",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639317+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "http://news.fjsen.com/2026-11/26/content_32289362.htm",
+      "title": "临甲7号沙龙  聚焦完善全球海洋治理 - 环球新闻",
+      "url": "http://news.fjsen.com/2026-11/26/content_32289362.htm",
+      "domain": "news.fjsen.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639320+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
+      "title": "Letters to the Editor : Nov . 25 , 2026",
+      "url": "https://www.kelownadailycourier.ca/opinion/letters_to_editor/article_7b50b9a7-5d08-4470-9994-d7286134fa66.html",
+      "domain": "kelownadailycourier.ca",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Canada",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639322+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
+      "title": "Rassvet ,  Russia Starlink  is expanding rapidly",
+      "url": "https://www.dw.com/en/can-rassvet-russias-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
+      "domain": "dw.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Germany",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639324+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://n.yam.com/Article/20261126104680",
+      "title": "政治責任不能外包 ： 從競選團隊的行為談政治人物的擔當",
+      "url": "https://n.yam.com/Article/20261126104680",
+      "domain": "n.yam.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639326+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
+      "title": "США переглядають військову присутність у Європі - країни НАТО очікують , що Вашингтон відкладе рішення – ZN . ua",
+      "url": "https://zn.ua/ukr/europe/krajini-nato-ochikujut-shcho-ssha-vidkladut-rishennja-shchodo-skorochennja-vijskovoji-prisutnosti-v-jevropi-zmi.html",
+      "domain": "zn.ua",
+      "seendate": "20261126T061500Z",
+      "language": "Ukrainian",
+      "sourcecountry": "Ukraine",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639328+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://voh.com.vn/the-gioi/dac-phai-vien-my-canh-bao-nguy-co-xung-dot-nga-ukraine-leo-thang-682423.html",
+      "title": "Đặc phái viên Mỹ cảnh báo nguy cơ xung đột Nga - Ukraine leo thang",
+      "url": "https://voh.com.vn/the-gioi/dac-phai-vien-my-canh-bao-nguy-co-xung-dot-nga-ukraine-leo-thang-682423.html",
+      "domain": "voh.com.vn",
+      "seendate": "20261126T061500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "Vietnam",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639331+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458862",
+      "title": "South Korea central bank raises key interest rate to fight inflation",
+      "url": "https://abcnews.com/International/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458862",
+      "domain": "abcnews.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639333+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://news.yam.md/ro/story/91385973",
+      "title": "Donald Trump și Mark Rutte , întâlnire în Florida . Războiul din Ucraina și conflictul din Iran , pe agenda discuțiilor",
+      "url": "https://news.yam.md/ro/story/91385973",
+      "domain": "news.yam.md",
+      "seendate": "20261126T061500Z",
+      "language": "Romanian",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639335+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.dnews.gr/eidhseis/opinion/624517/kostas-tzavaras-sto-dnews-afto-einai-kati-xeirotero-apo-egklima-afto-einai-lathos-apo-prothesi",
+      "title": "Αυτό είναι κάτι χειρότερο από έγκλημα - Αυτό είναι « λάθος » ( από πρόθεση )",
+      "url": "https://www.dnews.gr/eidhseis/opinion/624517/kostas-tzavaras-sto-dnews-afto-einai-kati-xeirotero-apo-egklima-afto-einai-lathos-apo-prothesi",
+      "domain": "dnews.gr",
+      "seendate": "20261126T061500Z",
+      "language": "Greek",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639338+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.huffingtonpost.gr/huff-history/vomvai-2008-tromokratikes-epitheseis-166-nekroi/",
+      "title": "Βομβάη : Οι 60 ώρες τρόμου που συγκλόνισαν τον κόσμο – Οι τρομοκράτες , τα πολυτελή ξενοδοχεία και οι 166 νεκροί",
+      "url": "https://www.huffingtonpost.gr/huff-history/vomvai-2008-tromokratikes-epitheseis-166-nekroi/",
+      "domain": "huffingtonpost.gr",
+      "seendate": "20261126T061500Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639339+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.franceinfo.fr/politique/front-national/tous-les-partis-font-ca-qui-est-christian-de-rocquigny-le-procureur-qui-se-trouvait-au-siege-du-rassemblement-national-lors-d-une-perquisition_8299719.html",
+      "title": "Tous les partis font ça    : qui est Christian de Rocquigny , le procureur qui se trouvait au siège du Rassemblement national lors dune perquisition  ?",
+      "url": "https://www.franceinfo.fr/politique/front-national/tous-les-partis-font-ca-qui-est-christian-de-rocquigny-le-procureur-qui-se-trouvait-au-siege-du-rassemblement-national-lors-d-une-perquisition_8299719.html",
+      "domain": "franceinfo.fr",
+      "seendate": "20261126T061500Z",
+      "language": "French",
+      "sourcecountry": "France",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639342+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.bangkokpost.com/thailand/politics/3361625/peoples-party-urges-thailand-to-take-stand-on-rohingya-genocide",
+      "title": "Bangkok Post - People Party urges Thailand to take stand on Rohingya genocide",
+      "url": "https://www.bangkokpost.com/thailand/politics/3361625/peoples-party-urges-thailand-to-take-stand-on-rohingya-genocide",
+      "domain": "bangkokpost.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Thailand",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639344+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.objectiv.tv/objectively/2026/11/26/segodnya-26-noyabrya-2026-kakoj-prazdnik-i-den-v-istorii/",
+      "title": "Сегодня 26 ноября 2026 : какой праздник и день в истории",
+      "url": "https://www.objectiv.tv/objectively/2026/11/26/segodnya-26-noyabrya-2026-kakoj-prazdnik-i-den-v-istorii/",
+      "domain": "objectiv.tv",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639346+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ettoday.net/news/20261126/3278866.htm",
+      "title": "輝達再陷利益衝突疑雲 ！ 黃仁勳副手爆 「 祕戀客戶女主管 」 多年",
+      "url": "https://www.ettoday.net/news/20261126/3278866.htm",
+      "domain": "ettoday.net",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "Taiwan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639348+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ratopati.com/story/607673/study-of-grazing-areas-to-conserve-snow-leopards-and-ungulates",
+      "title": "हिउँ चितुवा र नाउरको संरक्षण गर्न चरन क्षेत्रको अध्ययन | Nepal first 24 - hour updated news portal",
+      "url": "https://www.ratopati.com/story/607673/study-of-grazing-areas-to-conserve-snow-leopards-and-ungulates",
+      "domain": "ratopati.com",
+      "seendate": "20261126T061500Z",
+      "language": "Nepali",
+      "sourcecountry": "Nepal",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639350+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.minyu-net.com/newspack/detail/2026112601000993",
+      "title": "「 気候変動対策の資金が戦争に 」 ネパール人活動家 、 米を暗に非難 : 科学 ・ 環境 : 福島民友新聞社",
+      "url": "https://www.minyu-net.com/newspack/detail/2026112601000993",
+      "domain": "minyu-net.com",
+      "seendate": "20261126T061500Z",
+      "language": "Japanese",
+      "sourcecountry": "Japan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639352+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.di.se/nyheter/trump-och-natochefen-utvidga-inte-kriget/",
+      "title": "Donald Trump och Mark Rutte uppmanar Ryssland till fred",
+      "url": "https://www.di.se/nyheter/trump-och-natochefen-utvidga-inte-kriget/",
+      "domain": "di.se",
+      "seendate": "20261126T061500Z",
+      "language": "Swedish",
+      "sourcecountry": "Sweden",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639354+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.vol.at/kim-jong-un-will-ausbau-von-nuklearprogramm/11510405",
+      "title": "Kim Jong - un fordert Ausbau von Nordkoreas Atomprogramm",
+      "url": "https://www.vol.at/kim-jong-un-will-ausbau-von-nuklearprogramm/11510405",
+      "domain": "vol.at",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639356+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://yle.fi/a/7-10109352",
+      "title": "Ny rapport krossar myt : Finländarna är nästbäst på att placera i Europa",
+      "url": "https://yle.fi/a/7-10109352",
+      "domain": "yle.fi",
+      "seendate": "20261126T061500Z",
+      "language": "Swedish",
+      "sourcecountry": "Finland",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639358+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.dnews.gr/eidhseis/opinion/624737/n-d-pasok-toso-konta-toso-makria",
+      "title": "ΝΔ - ΠΑΣΟΚ : τόσο κοντά , τόσο μακριά",
+      "url": "https://www.dnews.gr/eidhseis/opinion/624737/n-d-pasok-toso-konta-toso-makria",
+      "domain": "dnews.gr",
+      "seendate": "20261126T061500Z",
+      "language": "Greek",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639360+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.koreaherald.com/article/10950465",
+      "title": "Kim Jong - un seeks arms control talks with US , not denuclearization : experts",
+      "url": "https://www.koreaherald.com/article/10950465",
+      "domain": "koreaherald.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "South Korea",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639362+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.vesti.bg/lyubopitno/vojna-na-sateliti-amerikanskiiat-starlink-sreshtu-ruskiia-rassvet-6277304",
+      "title": "Война на сателити : Американският  Старлинк  срещу руския  Рассвет",
+      "url": "https://www.vesti.bg/lyubopitno/vojna-na-sateliti-amerikanskiiat-starlink-sreshtu-ruskiia-rassvet-6277304",
+      "domain": "vesti.bg",
+      "seendate": "20261126T061500Z",
+      "language": "Bulgarian",
+      "sourcecountry": "Bulgaria",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639364+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://abcnews.com/Business/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458863",
+      "title": "South Korea central bank raises key interest rate to fight inflation",
+      "url": "https://abcnews.com/Business/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458863",
+      "domain": "abcnews.com",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "United States",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639366+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.n-tv.de/politik/06-40-Einkaufszentrum-in-Kiew-getroffen-id30859357.html",
+      "title": "Ukraine - Krieg im Liveticker : +++ 06 : 40 Einkaufszentrum in Kiew getroffen +++",
+      "url": "https://www.n-tv.de/politik/06-40-Einkaufszentrum-in-Kiew-getroffen-id30859357.html",
+      "domain": "n-tv.de",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Germany",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639368+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://independentaustralia.net/politics/politics-display/the-looming-threat-of-an-authoritarian-triumvirate,21862",
+      "title": "The looming threat of an authoritarian triumvirate",
+      "url": "https://independentaustralia.net/politics/politics-display/the-looming-threat-of-an-authoritarian-triumvirate,21862",
+      "domain": "independentaustralia.net",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Australia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639370+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.nzdoctor.co.nz/article/opinion/drcs-ebola-crisis-revives-old-ethical-question-what-do-health-workers-owe-patients",
+      "title": "The DRC Ebola crisis revives an old ethical question : What do health workers owe patients ?",
+      "url": "https://www.nzdoctor.co.nz/article/opinion/drcs-ebola-crisis-revives-old-ethical-question-what-do-health-workers-owe-patients",
+      "domain": "nzdoctor.co.nz",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "New Zealand",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639372+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.ratopati.com/story/607695/non-banking-assets-laws-and-challenges",
+      "title": "गैर – बैंकिङ सम्पत्ति : कानुन र चुनौतीहरू | Nepal first 24 - hour updated news portal",
+      "url": "https://www.ratopati.com/story/607695/non-banking-assets-laws-and-challenges",
+      "domain": "ratopati.com",
+      "seendate": "20261126T061500Z",
+      "language": "Nepali",
+      "sourcecountry": "Nepal",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639374+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://baoxaydung.vn/bay-uav-flycam-trai-phep-o-khu-vuc-san-bay-long-thanh-co-the-doi-mat-voi-muc-xu-phat-nao-192261126113133089.htm",
+      "title": "Bay UAV , flycam trái phép ở khu vực sân bay Long Thành có thể đối mặt với mức xử phạt nào ?",
+      "url": "https://baoxaydung.vn/bay-uav-flycam-trai-phep-o-khu-vuc-san-bay-long-thanh-co-the-doi-mat-voi-muc-xu-phat-nao-192261126113133089.htm",
+      "domain": "baoxaydung.vn",
+      "seendate": "20261126T061500Z",
+      "language": "Vietnamese",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639376+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://indiankanoon.org/doc/93815004/",
+      "title": "M . J . Jaseem Mohamed vs Registrar Of Companies , Mumbai on 18 November , 2026",
+      "url": "https://indiankanoon.org/doc/93815004/",
+      "domain": "indiankanoon.org",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "India",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639378+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://tribune.com.pk/story/2642400/sexual-violence-response-unified",
+      "title": "Sexual violence response unified",
+      "url": "https://tribune.com.pk/story/2642400/sexual-violence-response-unified",
+      "domain": "tribune.com.pk",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Pakistan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639381+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://news.yam.md/ro/story/91391565",
+      "title": "Kremlinul refuză să comenteze estimarea de 700 . 000 de morţi ruşi în Războiul din Ucraina , după piratarea Rosstat de către grupările de hackeri belarusă Cyber Partisans şi proucraineană Silent Crow",
+      "url": "https://news.yam.md/ro/story/91391565",
+      "domain": "news.yam.md",
+      "seendate": "20261126T061500Z",
+      "language": "Romanian",
+      "sourcecountry": "",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639383+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.thedailystar.net/business/news/trump-doubling-down-tariffs-about-power-not-popularity-4333571",
+      "title": "For Trump , doubling down on tariffs is about power , not popularity",
+      "url": "https://www.thedailystar.net/business/news/trump-doubling-down-tariffs-about-power-not-popularity-4333571",
+      "domain": "thedailystar.net",
+      "seendate": "20261126T061500Z",
+      "language": "English",
+      "sourcecountry": "Bangladesh",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639385+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "http://www.shikoku-np.co.jp/national/science_environmental/20261126000478",
+      "title": "「 気候変動対策の資金が戦争に 」／ ネパール人活動家 、 米を暗に非難 | 全国ニュース",
+      "url": "http://www.shikoku-np.co.jp/national/science_environmental/20261126000478",
+      "domain": "shikoku-np.co.jp",
+      "seendate": "20261126T061500Z",
+      "language": "Japanese",
+      "sourcecountry": "Japan",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639387+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.slobodna-bosna.ba/vijest/517403/rampa_za_trumpa_sud_blokirao_pokusaj_osvete_americhkog_predsjednika.html",
+      "title": "RAMPA ZA TRUMPA : Sud blokirao pokušaj osvete američkog predsjednika ...",
+      "url": "https://www.slobodna-bosna.ba/vijest/517403/rampa_za_trumpa_sud_blokirao_pokusaj_osvete_americhkog_predsjednika.html",
+      "domain": "slobodna-bosna.ba",
+      "seendate": "20261126T061500Z",
+      "language": "Bosnian",
+      "sourcecountry": "Bosnia-Herzegovina",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639390+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://glavred.info/politics/ataka-na-rezidenciyu-putina-u-ssha-zvinuvatili-kijiv-u-galmuvanni-peregovoriv-10815521.html",
+      "title": "Кушнер обвинил Украину в затягивании переговоров что он заявил",
+      "url": "https://glavred.info/politics/ataka-na-rezidenciyu-putina-u-ssha-zvinuvatili-kijiv-u-galmuvanni-peregovoriv-10815521.html",
+      "domain": "glavred.info",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Ukraine",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639392+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.huffingtonpost.kr:443/article/262424",
+      "title": "허프포스트코리아",
+      "url": "https://www.huffingtonpost.kr:443/article/262424",
+      "domain": "huffingtonpost.kr",
+      "seendate": "20261126T061500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639394+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.huffingtonpost.gr/blogs/stin-gialta-meso-gefyras-kerts/",
+      "title": "Στην Γιάλτα μέσω …. γέφυρας Κέρτς",
+      "url": "https://www.huffingtonpost.gr/blogs/stin-gialta-meso-gefyras-kerts/",
+      "domain": "huffingtonpost.gr",
+      "seendate": "20261126T061500Z",
+      "language": "Greek",
+      "sourcecountry": "Greece",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639396+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://panchjanya.com/2026/11/26/500256/world/vande-mataram-the-journey-from-the-constituent-assembly-to-the-courts-and-the-question-of-national-self-consciousness/",
+      "title": "वंदे मातरम् : संविधान सभा से न्यायालय तक की यात्रा और राष्ट्रीय आत्मचेतना का प्रश्न",
+      "url": "https://panchjanya.com/2026/11/26/500256/world/vande-mataram-the-journey-from-the-constituent-assembly-to-the-courts-and-the-question-of-national-self-consciousness/",
+      "domain": "panchjanya.com",
+      "seendate": "20261126T061500Z",
+      "language": "Hindi",
+      "sourcecountry": "India",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639398+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://guancha.gmw.cn/2026-11/26/content_39122512.htm",
+      "title": "莫被算法牵着走 _ 光明网",
+      "url": "https://guancha.gmw.cn/2026-11/26/content_39122512.htm",
+      "domain": "guancha.gmw.cn",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639400+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.boerse-express.com/news/articles/volkswagen-aktie-der-konzern-will-an-die-zuschlaege-ran-966883",
+      "title": "Volkswagen Aktie : Der Konzern will an die Zuschläge ran",
+      "url": "https://www.boerse-express.com/news/articles/volkswagen-aktie-der-konzern-will-an-die-zuschlaege-ran-966883",
+      "domain": "boerse-express.com",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639402+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://yle.fi/a/7-10109197",
+      "title": "En oavsiktlig graviditet ses som skamfull , en olycklig slump eller bevis på fertilitet",
+      "url": "https://yle.fi/a/7-10109197",
+      "domain": "yle.fi",
+      "seendate": "20261126T061500Z",
+      "language": "Swedish",
+      "sourcecountry": "Finland",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639405+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.mundiario.com/sociedad/promesa-salarial-ayuso-acaba-polemica-sindicatos-denuncian-letra-pequena-acuerd/20261126053644455007.html",
+      "title": "La promesa salarial de Ayuso acaba en polémica : los sindicatos denuncian la letra pequeña del acuerdo",
+      "url": "https://www.mundiario.com/sociedad/promesa-salarial-ayuso-acaba-polemica-sindicatos-denuncian-letra-pequena-acuerd/20261126053644455007.html",
+      "domain": "mundiario.com",
+      "seendate": "20261126T061500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639407+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://rivnepost.rv.ua/zhittya/astrologichnyj-prognoz-na-26-lystopada/",
+      "title": "Астрологічний прогноз на 26 листопада - Рівне Вечірнє",
+      "url": "https://rivnepost.rv.ua/zhittya/astrologichnyj-prognoz-na-26-lystopada/",
+      "domain": "rivnepost.rv.ua",
+      "seendate": "20261126T061500Z",
+      "language": "Ukrainian",
+      "sourcecountry": "Ukraine",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639409+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.vesti.ru/ns/tramp-i-gensek-nato-ryutte-nazvali-vstrechu-v-mar-a-lago-prevoskhodnoj",
+      "title": "Трамп и генсек НАТО Рютте назвали встречу в Мар - а - Лаго превосходной",
+      "url": "https://www.vesti.ru/ns/tramp-i-gensek-nato-ryutte-nazvali-vstrechu-v-mar-a-lago-prevoskhodnoj",
+      "domain": "vesti.ru",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639411+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.eldiario.es/internacional/pepper-culpepper-hay-buen-populismo-maximo-exponente-zohran-mamdani_128_13679715.html",
+      "title": "Pepper Culpepper :  Hay un buen populismo , y su máximo exponente es Zohran Mamdani",
+      "url": "https://www.eldiario.es/internacional/pepper-culpepper-hay-buen-populismo-maximo-exponente-zohran-mamdani_128_13679715.html",
+      "domain": "eldiario.es",
+      "seendate": "20261126T061500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639413+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.elespectador.com/opinion/editorial/un-tigre-usa-el-estado-para-callar-las-pulgas/",
+      "title": "Un tigre united states el Estado para callar las pulgas",
+      "url": "https://www.elespectador.com/opinion/editorial/un-tigre-usa-el-estado-para-callar-las-pulgas/",
+      "domain": "elespectador.com",
+      "seendate": "20261126T061500Z",
+      "language": "Spanish",
+      "sourcecountry": "Colombia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639415+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.edaily.co.kr/News/Read?newsId=03345606645649656&mediaCodeNo=257",
+      "title": "대여공세 힘 싣는 장동혁 … 윤리위 조기 수습은 숙제",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03345606645649656&mediaCodeNo=257",
+      "domain": "edaily.co.kr",
+      "seendate": "20261126T061500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639417+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://news.mail.ru/politics/73241803/",
+      "title": "Санду заявила о желании чаще применять лишение гражданства Молдавии",
+      "url": "https://news.mail.ru/politics/73241803/",
+      "domain": "news.mail.ru",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639419+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://news.mail.ru/politics/73241875/",
+      "title": "Мир без промедления : Трамп и Рютте выступили с совместным заявлением по Украине",
+      "url": "https://news.mail.ru/politics/73241875/",
+      "domain": "news.mail.ru",
+      "seendate": "20261126T061500Z",
+      "language": "Russian",
+      "sourcecountry": "Russia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639422+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://paperjam.lu/article/transformer-les-epargnants-en-investisseurs-prochain-defi-de-leurope",
+      "title": "Transformer les épargnants en investisseurs , prochain défi de lEurope",
+      "url": "https://paperjam.lu/article/transformer-les-epargnants-en-investisseurs-prochain-defi-de-leurope",
+      "domain": "paperjam.lu",
+      "seendate": "20261126T061500Z",
+      "language": "French",
+      "sourcecountry": "Luxembourg",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639424+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.vol.at/kinderheirat-laut-ngo-fuer-viele-maedchen-in-niger-normalitaet/11511635",
+      "title": "Kinderehen in Niger : 76 Prozent der Mädchen betroffen",
+      "url": "https://www.vol.at/kinderheirat-laut-ngo-fuer-viele-maedchen-in-niger-normalitaet/11511635",
+      "domain": "vol.at",
+      "seendate": "20261126T061500Z",
+      "language": "German",
+      "sourcecountry": "Austria",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639426+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.elconfidencialdigital.com/opinion/javier-arnal/penultima-canallada-sanchez/202611251701461505684.html",
+      "title": "Penúltima canallada de Sánchez",
+      "url": "https://www.elconfidencialdigital.com/opinion/javier-arnal/penultima-canallada-sanchez/202611251701461505684.html",
+      "domain": "elconfidencialdigital.com",
+      "seendate": "20261126T061500Z",
+      "language": "Spanish",
+      "sourcecountry": "Spain",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639428+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://biz.heraldcorp.com/article/10950501",
+      "title": "장동혁  친북 국정원장  가니  친중 국정원장  온다",
+      "url": "https://biz.heraldcorp.com/article/10950501",
+      "domain": "biz.heraldcorp.com",
+      "seendate": "20261126T061500Z",
+      "language": "Korean",
+      "sourcecountry": "South Korea",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639430+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "http://news.fjsen.com/2026-11/26/content_32289387.htm",
+      "title": "美媒 ： 美政府正重新考虑或将伊朗高层列为打击目标 - 环球新闻",
+      "url": "http://news.fjsen.com/2026-11/26/content_32289387.htm",
+      "domain": "news.fjsen.com",
+      "seendate": "20261126T061500Z",
+      "language": "Chinese",
+      "sourcecountry": "China",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639432+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.larepublica.co/globoeconomia/de-cos-se-perfila-como-el-proximo-presidente-del-banco-central-europeo-4533496",
+      "title": "De Cos se perfila como el próximo presidente del Banco Central Europeo",
+      "url": "https://www.larepublica.co/globoeconomia/de-cos-se-perfila-como-el-proximo-presidente-del-banco-central-europeo-4533496",
+      "domain": "larepublica.co",
+      "seendate": "20261126T061500Z",
+      "language": "Spanish",
+      "sourcecountry": "Colombia",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639434+00:00",
+      "topics": [
+        "conflict"
+      ]
+    },
+    {
+      "id": "https://www.cdt.ch/news/trump-e-rutte-esortano-la-russia-a-non-estendere-la-guerra-in-ucraina-445459",
+      "title": "Trump e Rutte esortano la Russia a « non estendere » la guerra in Ucraina",
+      "url": "https://www.cdt.ch/news/trump-e-rutte-esortano-la-russia-a-non-estendere-la-guerra-in-ucraina-445459",
+      "domain": "cdt.ch",
+      "seendate": "20261126T061500Z",
+      "language": "Italian",
+      "sourcecountry": "Switzerland",
+      "topic": "conflict",
+      "fetched_at": "2026-11-26T08:17:29.639436+00:00",
+      "topics": [
+        "conflict"
+      ]
+    }
+  ]
 }
